@@ -19,4 +19,9 @@ sekte pfadi adler aarau, aber dass das zwangsmassnahmensystem funktioneirt müss
 
 da fällt  mir auf, dass auch mal die spekulation im raum stand, dass dominic zschocke auch gegen den bruder von daniele turkier den jannik drohe und die danielle turkier sich deshalb auf eine beziheung mit einem über 10 jahre ältern eingelassen hat
 
+Fri Sep  3 01:31:09 CEST 2021
+  22  264 1714 20210903.txt
+[main a98cd5d] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+7bfb4cbd85458c3d3a5b9b0cde23c46c8a16ac91079bb17a591503395e0db90f507b2a6dfcbad62c319d33e4b1b8786d1de218822075464ae82766085fadc94d  20210903.txt
 
