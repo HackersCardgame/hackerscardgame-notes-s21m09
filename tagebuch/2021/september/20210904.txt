@@ -39,4 +39,12 @@ coping strategie: so ein ding dauert halt bis zu 8h bis das behoben ist...
 1. zu verschleiern dass er abgeloooost hat
 2. weiter zu häeucheln dass er lieb sei
 
+Sat Sep  4 00:07:36 CEST 2021
+  42  284 2175 20210904.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+1581d373c4f2695430e7fbc1de1c6d29355f0016ae9fb5d53a5874c257906ebb39737b44d975db111b3fd421295794e854497310ef1f68d4fc7b6b5248a463e9  20210904.txt
 
