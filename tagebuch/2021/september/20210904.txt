@@ -32,19 +32,16 @@ die grahphen fäden sind die anker, die müssen zuerst alle durch sein, udn alle
 
 dann psychologische komponente [1]:
 das ganze zielt darauf ab: jetzt könnte man das projektil dann endlich entfernen *hoffnung* -> dy/dt *epilepsie* -> suizid
-coping strategie: so ein ding dauert halt bis zu 8h bis das behoben ist...
+
+coping strategie: so ein ding dauert halt bis zu 8h bis das behoben ist... dann funktioniert das "die hoffnung stirbt zulestzt" nicht weil man weiss ja dass es jeweils bis 8h dauert, keine hoffnung, kein dy/dt
+
+dann verstellen und sperren die täter ncoh den richtigen winkel des Tool Center Points (forward / reverse cinematics) und verstellen sonst die körperhaltung oder die stirnlampe oder den spielgel mti 10x zoom
+
+bzw. jetzt ist das weil wenn man das weiss schon nach 1h drausen
 
 
 [1] da macht jetzt pfisterer einen auf: er bringt uns das bei um 
 1. zu verschleiern dass er abgeloooost hat
 2. weiter zu häeucheln dass er lieb sei
 
-Sat Sep  4 00:07:36 CEST 2021
-  42  284 2175 20210904.txt
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
-1581d373c4f2695430e7fbc1de1c6d29355f0016ae9fb5d53a5874c257906ebb39737b44d975db111b3fd421295794e854497310ef1f68d4fc7b6b5248a463e9  20210904.txt
 
