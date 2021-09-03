@@ -30,12 +30,11 @@ hiesse es gibt noch eine monkey island rahmenerzählung für reiche schnösels w
 unknown:
 die grahphen fäden sind die anker, die müssen zuerst alle durch sein, udn allenfalls ist deren länge mit z.B. einer spezifischen frequenz beeinflussbar
 
-Sat Sep  4 00:03:23 CEST 2021
-  33  219 1787 20210904.txt
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
+dann psychologische komponente [1]
 
-nothing to commit, working tree clean
-bba7382aafbd28ff1a1d74fb2fcc06336872cfdbc22c4301934a7d25597094ad545422ec1e36453d79d926f0b60995086151f73007fda822bd69773f9cec057d  20210904.txt
+
+[1] da macht jetzt pfisterer einen auf: er bringt uns das bei um 
+1. zu verschleiern dass er abgeloooost hat
+2. weiter zu häeucheln dass er lieb sei
+
 
