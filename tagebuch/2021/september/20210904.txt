@@ -57,3 +57,12 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 aa307c4972a107299373b7db072b2e15fa30b4afe3bc2fc6126340f6648735bcb187ba972585d119d49a64d92c0a1de0e9ca38f1f827551f24346b2bc37787ca  20210904.txt
 
+noch etwas versifft, beim umstellen der achsmechanik meines medulla spinalis ths wird afaik noch jeweils irgend 0.1 - 0.3 sek disso eingeschaltet damit ihc die umstellung nicht meke
+
+tourette generalisert
+-
+-
+-
+-
+
+die wollen debug info verhindern / umdefinieren
