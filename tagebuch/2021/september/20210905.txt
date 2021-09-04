@@ -101,4 +101,9 @@ Sun Sep  5 01:31:16 CEST 2021
 [01:19:52] <FailDef> ADDENdumm: also so etwas wie GatedCommunities für ein einzelnes Gehirni ???
 
 
+Sun Sep  5 01:39:06 CEST 2021
+ 104  939 7498 20210905.txt
+[main 39ece46] save
+ 1 file changed, 23 insertions(+)
+5df7668638aca4545ca648f755a5692e2e8f3f742a8eeba735618a3bc0cbd2f0d57b76e7950d002ae102a37fbe7f78c717c9e3f681f94110b01c82da99f05dee  20210905.txt
 
