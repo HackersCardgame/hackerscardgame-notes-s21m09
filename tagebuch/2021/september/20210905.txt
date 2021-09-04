@@ -73,4 +73,9 @@ pro eingewachsenem haar / chemitrode max 1 minute verschwenden, dann ignorieren
 [01:12:37] <FailDef> und wäre das nicht allenfalls eher ein Spektrum als ein Binär, also so wie man halb oder ganz besoffen sein kann, bzw. ob z.B. die Begabung als Photoshop Spezial Experte besoffen sein kann die Begabung als Putzfrau Spezial Experte aber noch wach
 [01:19:52] <FailDef> ADDENdumm: also so etwas wie GatedCommunities für ein einzelnes Gehirni ???
 
+Sun Sep  5 01:31:16 CEST 2021
+  76  681 5021 20210905.txt
+[main 0c48b92] save
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+435a02c04c32aea5d736d4734a36eaff4edaf2aa6d9f543114a5014040d34948da53873fe44f9bd0f8b9d55fa48dcbf431e148fcb44b7746aa14ffb6606472a0  20210905.txt
 
