@@ -55,3 +55,24 @@ die haben eine chemische substanz drin die vermutlcih mit gepulster mikrowelle i
 pro eingewachsenem haar / chemitrode max 1 minute verschwenden, dann ignorieren
 
 
+[22:07:37] --> FailDef (~quassel@46-126-17-248.dynamic.hispeed.ch) has joined #ccc
+[22:07:37] * Topic for #ccc is "local events: https://spaceapi.ccc.de/ | global events: https://events.ccc.de/ | local announcements: https://cpu.ccc.de/ | global announcements: https://www.ccc.de/ | Thanks to all of You for this epic Event!"
+[22:07:37] * Topic set by APic!apic@chiptune.apic.name on 2019-08-25 10:20:12 UTC
+[22:07:37] *** Mode #ccc +Cgnst by nuke.hackint.org
+[22:07:37] * Channel #ccc created on 2006-02-23 05:05:50 UTC
+[22:08:39] <FailDef> ist hier die Selbsthilfegruppe für Kompiuter-Heckserei?
+[00:00:00] - {Day changed to Sonntag, 5. September 2021}
+[01:04:30] <@Twix> Ja. Das heißt Komputer, mit Betonung auf das U.
+[01:05:37] <@Twix> Ich empfehle ja, was mit Holz zu machen. Aber nicht als Schreiner, da sitzt man sonst wieder den ganzen Tag vor dem CNC-Maschinen-Programmierkomputer.
+[01:12:37] <FailDef> Twix Drehbank; the same, Fräse; the same, Laser oder Stanz; the same; 3D Hausbau Drucken, the same, ...
+[01:12:37] <FailDef> .
+[01:12:37] <FailDef> .
+[01:12:37] <FailDef> Wichtiger, ich würd's ja als Neurologie HackerJeopardy formulieren, aber ich weiss die Antwort selber nicht
+[01:12:37] <FailDef> .
+[01:12:37] <FailDef> Kann man einzelne Teile des Gehirns separat in ICD10 F44.x schalten, also Wahrnehmung dass man selober oder "selber" eine Bewegung macht gesperrt, aber Haptik Fühl- / Tastsin noch 100% Rx ...
+[01:12:37] <FailDef> und wäre das nicht allenfalls eher ein Spektrum als ein Binär, also so wie man halb oder ganz besoffen sein kann, bzw. ob z.B. die Begabung als Photoshop Spezial Experte besoffen sein kann die Begabung als Putzfrau Spezial Experte aber noch wach
+[01:19:52] <FailDef> ADDENdumm: also so etwas wie GatedCommunities für ein einzelnes Gehirni ???
+
+Sun Sep  5 01:29:35 CEST 2021
+  76  681 4963 20210905.txt
+
