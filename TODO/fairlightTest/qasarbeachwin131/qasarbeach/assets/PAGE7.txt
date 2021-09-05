@@ -1,0 +1,473 @@
+#0She wanted to test her husband
+#1
+    sheet:  2.  @2CONTROL PARAMETERS@2 Overview
+            3.  @3CONTROL INPUTS@3
+            4.  @4KEYVEL, KEYNUM, KEYPAN, AFTERT@4
+            5.  @5FUNCTIONS@5 - User Defined
+            6.  @6LFOs@6
+            
+            7.  @7CONTROL FILES@7
+            8.  @8QUICK REFERENCE CHART@8 original
+            9.  @9QUICK REFERENCE CHART@9 additional
+            
+            10.  @AMODE, VOLUME, AUX VOLUME@A
+            11. @BVOICE REF, PAN, PORTAMENTO, SPEED@B
+            12. @CPITCH BEND, ROOT NOTE, TUNING@C
+            
+            13. @DSEGMENT A, SEGMENT B, A/B MIX, TUNE B@D
+            14. @ESTART SEG, LOOP, LP START@E
+            15. @FLP END, XFADE@F
+            16. @GMODE 5@G
+
+            17. @HFILTER, ENHANCE, STEREO, STEREO MIX@H
+            18. @IBITZ CRUSH,@I
+            19. @JRESET PAGE 7@J
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+@uCONTROL PARAMETERS@u
+
+The CONTROL PARAMETERS displayed on PAGE 7 are the heart of
+QasarBeach. They control all the realtime things like PAN,
+VOLUME, FILTER, Effects, etc. And can be selected, adjusted
+and patched independently for each VOICE.
+
+They are arranged in two middle tables.
+The top relate exactly to Fairlight IIx.
+The middle bottom are new additions giving access to DELAY,
+STEREO mixing, Boosts, etc.
+
+The bottom (boxed in) section show2 the current loaded
+voices, patchable parameters like KEYVEL (velocity), KEYPAN
+(panning), new LFO, Custom Functions and external controls.
+
+New values may be assigned according to the TYPE of the
+parameter CONTROL TYPE: Discretely variable, or "sliding".
+May be assigned a number or patched to a CONTROL.
+SWITCH TYPE: Two-state, or "on/off". May be set either
+"ON" or "OFF", or patched to a SWITCH.
+
+Click any PARAMETER and you can directly enter text at the
+COMMAND line, or select the highlighted path from the lower
+(boxed in) section.
+
+Hovering over any lit PARAMETER allows you to change it by
+using the mouse wheel or LEFT/RIGHT Keys.
+#3
+@uCONTROL INPUTS@u
+
+After any CONTROL PARAMETER is a highlighted block with:
+Controls that can be a value from 1 to 128
+numbers: 1 to 128
+alpha then numbers: CN01-64, FN01-09, LFO01-09
+words: KEYVEL, KEYNUM, KEYPAN, AFTERT
+
+Controls that can be on or off:
+words: ON or OFF
+alpha then numbers: SW01-64, LFO01-09
+
+You will also see a lighter fader or checkmark to further
+show you instantly what the value is.
+
+@uTO SET A PARAMETER@u
+
+First click the required PARAMETER and then click one of
+the lower valid entries:
+  LFO 2
+  FUNCTION 1
+  KEYVEL, etc.
+
+
+KEYVEL, KEYNUM and KEYPAN come from both the midi keyboard
+and also PAGE R sequences. They can be patched to any valid
+CONTROL PARAMETER.
+#4
+@uKEYVEL, KEYNUM, KEYPAN, AFTERT@u
+
+KEYVEL is key velocity, computed by the music keyboard for
+each key that is played. The VOLUME control parameter can
+be patched to the KEY VELOCITY function for touch control
+of the voice's volume.
+
+
+KEYNUM is similar in operation to KEYVEL, except that the
+data controlling the effect is derived from the number of
+that key from the left side of the music keyboard:
+  Lowest C generates a KEYNUM of 0
+  Highest C generates a KEYNUM of 96
+
+KEYNUM data can be used for cross-fades between multi-voice
+registers or to control filter response over the keyboard.
+
+
+KEYPAN is the note pan information. It is not sent from a
+MIDI keyboard, but comes from PAGE R. This allows you to
+dynamically set the value of KEYPAN and use it to control
+any parameters you want.
+
+
+AFTERT is key atertouch. Only some MIDI keybords send this
+data. Similar in operation to CONTRL patches, with the same
+range, 1 to 128
+#5
+@uFUNCTIONS@u
+User Defined are curves drawn on PAGE F and used in PAGE 7
+letting you draw response curves for:
+  KEYVEL: Key velocity
+  KEYNUM: Key number
+  AFTERT: Aftertouch
+  KEYTIM: Key time (the time a key is being held down)
+  CONTROL inputs
+  LFO
+
+Some examples:
+  1. A control fader could be given an curved response,
+     rather than linear.
+  2. Cross fading a multi-voice by assigning inverted
+     KEYNUM or keyboard control faders
+  3. Touch sensitivity of MIDI keyboard can be varied.
+  4. Timed functions like filter sweeps can be assigned.
+
+Nine FUNCTIONs, 1 to 9, are possible per voice
+
+To include a FUNCTION on PAGE 7, click the PARAMETER you
+want and then the FUNCTION NUMBER. The PARAMETER should
+then show FN0<x>
+where:  x = the requred FUNCTION.
+
+To edit a FUNCTION. Just click the required function or
+goto PAGE F (see PAGE F HELP)
+#6
+LFO stands for Low Frequency Oscilator. Think of it as a
+value that goes up and then down and repeats.
+
+There are 9 LFOs per voice arranged in 3 banks of three:
+  LFO1 to LFO3: go up and down smoothly
+  LFO4 to LFO6: go up and down and hold their position
+  LFO7 to LFO9: are random and hold their position
+
+Each LFO has a range of values it goes from. MIN to MAX and
+a SPEED. The lower the value of SPEED the slower it goes.
+
+Both FUNCTIONS and LFOs give values from 1 to 128 and can be
+pathced to most parameters.
+
+@uEXAMPLES@u
+To set a sound automatically PAN from left to right:
+  1. Click the PAN PARAMETER
+  2. Click LFO 1 NUMBER - you should see the PARAMETER
+     change to LF01
+  3. Adjust the MIN,MAX and SPEED levels for LFO1
+
+To make a sound have a strange filter sweep:
+  1. Click FILTER PARAMETER
+  2. Click LFO 1 NUMBER
+  3. Set LFO1 SPEED to 5
+  4. Click RESONATOR PARAMETER
+  5. Click LFO 2 NUMBER
+  6. Set LFO2 SPEED to 8
+#7
+@uCONTROL FILES@u
+
+This refers to the CONTROL PARAMETERS on PAGE 7 plus any
+FUNCTIONS that have been defined.
+
+These can be loads and saved individually or as a block of
+voice data callen an INSTRUMENT.
+
+A CONTROL FILE (.CO suffix) can be SAVED. By LOADING a file
+all settings, patches and functions will be restored.
+When loading a voice, the original CONTROL data is kept.
+#8
+QUICK REFERENCE CHART shows ranges and possible patches
+@uControl:    Range:     Patch:   Function:@u
+MODE        1,2,4,5    None     Set voice output style
+VOLUME      1 - 128    KEYVEL   Main output volume
+AUX VOLUME  1 - 128    LF01     Secondary output volume
+VOICE REF   1 - 16              Which voice is being used
+PAN         1-64-128   LF01     Stereo pan. 64 = center
+
+PORTAMENTO  On/Off     off      Enables sliding to notes
+SPEED       1 - 128    10       How fast the Portamento
+PITCHBEND   1-64-128   CTRL     Bend the pitch of a note
+ROOTNOTE    1-64-128            Modify the root note
+TUNING      1-64-128            Modify tuning of a voice
+
+MODE:1                          Play wavetables
+
+SEGMENT A   1 - 128             MODE 2: Current Segment
+SEGMENT B   1 - 128             Secondary playing Segment
+A/B MIX     1 - 128    LF01     Mix between A-1 and B-128
+B TUNE      1-64-128   64       1 Octave up/down from 64
+
+START SEG   1 - 128    CTRL     MODE 4: where to start
+LOOP CNTRL  On/Off     off      Does the sound loop
+LOOP START  1 - 128    29       Where does the loop begin
+LOOP END    1 - 128    128      Where does the loop end
+X FADE      1 - 128    20       How many segments to x fade
+
+MODE:5                          Play a voice split into 16
+#9
+QUICK REFERENCE CHART shows additional PARAMETERS
+
+@uControl:    Range:     Patch:   Function:@u
+FILTER      1 - 128    KEYNUM   LowPass Filter
+ENHANCE     1 - 128    1        Enhances the voice
+STEREO      1-64-128   64       Adds faux stereo
+STEREO MIX  1 - 128    128      How much faux stereo to add
+BITZ CRUSH  1 - 128    1        Reduces quality of voice
+
+DELAY       1 - 128    64       Add a delay to the voice
+DELAY IN    1 - 128    80       How much to add to the delay
+DELAY OUT   1 - 128    90       How much delay to mix
+RELEASE ECHO1 - 128    6        Adds a delay to a voice
+FEEDBACK    1 - 128    25       Feed the output mix back in
+
+NOISE       1 - 128    70       Add Square/White noise
+NOISE TUNE  1 - 128    LF01     Tuning/pitch of the noise
+BASS BOOST  1 - 128    25       Boosts bass of a voice
+RESONATOR   1 - 128    1-12     Use with FILTER
+#:
+@uMODE@u
+range:  1,2,4,5
+patch:  None
+  Sets voice output style. There are 4 modes:
+    1 - Plays a voice as a 32 segment wavetable synth
+    2 - Plays a voice as a dual oscilator synth
+    4 - Plays a voice as a smple with or without loop
+    5 - Plays a voice as (up to) 16 voices
+
+@uVOLUME@u
+range:  1-128
+patch:  CONTRL, KEYVEL, LF01
+  This is the VOLUME control for the voice. Setting LEVEL
+  to 1 will mute the voice completely.
+  Note that this parameter may be patched to KEY VELOCITY
+  for touch-sensitive control of voice dynamics.
+  REAL-TIME COMPOSER - PAGE R, KEYBOARD SEQUENCER provides
+  the ability to program KEY VELOCITY for individual notes.
+  To use this facility VOLUME must be patched to KEYVEL on
+  PAGE 7.
+
+@uAUX VOLUME@u
+range:  0-127
+patch:  CONTRL
+  This allows a secondary volume control. For example, if
+  KEYVEL were patched to VOLUME, AUX VOLUME could control
+  overall volume range of KEYVEL. Patching to functions
+  allows cross fades between multi-voice registers.
+#;
+@uVOICE REF@u
+range:  1 - 16
+patch:  none
+  Which voice is being played. It is possible to use the
+  same voice data for multiple voices at the same time,
+  thus allowing a synth to have a very small voice size,
+  but many different sound, etc.
+
+@uPAN@u
+range:  1-64-128
+patch:  LF01
+  Stereo pan. All voices (even stereo ones) can be manually
+  panned from their default center position (64).
+    1 = hard left, 128 = hard right
+
+@uPORTAMENTO@u
+range:  ON,OFF
+patch:  SWIT
+  When ON, each channel allocated to the voice will produce
+  a continuous portamento (glide) between each new pitch it
+  is to play and the last pitch it played. The SPEED
+  parameter determine how fast the rate of the glide.
+
+@uSPEED@u
+range:  0-127
+patch:  CONTRL
+  This is the SPEED control for PORTAMENTO functions.
+    1  = slow time, 20 = fast time
+#<
+@uPITCHBEND@u
+range:  0-128
+patch:  CONTRL
+  This shifts pitch of note being played.
+  64 (the default) is the current note
+  below 64 lowers the pitch of the note
+  above 64 raises the pitch of the note
+
+@uROOTNOTE@u
+range:  1-64-128
+  Modify the root note by a semitone
+  64 (the default) is the current note
+  below 64 lowers the semitone of the note
+  above 64 raises the semitone of the note
+
+@uTUNING@u
+range:  1-64-128
+  Modify tuning of a voice
+  64 (the default) is the current note
+  below 64 lowers the pitch of the note
+  above 64 raises the pitch of the note
+#=
+@uMODE:2@u
+@uSEGMENT A@u
+range:  1 - 128
+  The current SEGMENT being played. Think of this as a
+  single oscillator in a traditional synth.
+
+@uSEGMENT B@u
+range:  1 - 128
+patch:  CNTRL, LF01
+  The second SEGMENT being played. This gives you 2
+  oscillators playing at the same time. B can also be tuned
+  from 64 (the current pitch) up and down an  octave.
+
+@uA/B MIX@u
+range:  1 - 128
+patch:  LF01
+  This is the MIX between the 2 oscilators A and B.
+  1 = oscillator A, 128 = oscillator B. Anything in between
+  will be a MIX of the 2.
+  Start with A and B being the same and a MIX of 64. Now
+  slowly TUNE B to get a range of effects.
+
+@uB TUNE@u
+range:  1-64-128
+patch:  64
+  This shitfs the B oscillator tuning from normal (64) up
+  and down by 1 Octave. Very small increments will give
+  flanging effects. 1 would be a sub oscillator.
+#>
+@uMODE:4@u
+@uSTART SEG@u
+range:  1 - 128
+patch:  CTRL
+  This control allows the STARTING SEGMENT of the voice to
+  be modified; i.e., at what segment the voice will begin
+  Note that by patching LOOP START and START SEG to the same
+  KEYBOARD CONTROL, the two parameters can be modified in
+  parallel (most effective in MODE 4).
+  
+@uLOOP CNTRL@u
+range:  On/Off
+pathc:  off
+  Set this switch ON to use any of the LOOP CONTROL
+  PARAMETERS. The LOOP consists of a start and end point.
+  The range of segments which are played continuously for
+  the duration of a key press or note length.
+
+@uLOOP START@u
+range:  1 - 128
+patch:  29
+  This allows you to specify the start SEGMENT number of
+  the LOOP. By patching this parameter and LOOP END to
+  KEYBOARD CONTROLS, precise adjustments can easily be
+  made to the loop position. If assigned a numeric value,
+  modification of loop on PAGE 4 will cause the assigned
+  numbers to change accordingly.
+#?  
+@uLOOP END@u
+range:  1 - 128
+patch:  128
+  This determines the end segment in the LOOP. If assigned
+  a numeric value, modification of the loop on PAGE 4 will
+  cause the assigned END to change accordingly.
+
+@uX FADE@u
+range:  1 - 128
+patch:  20
+  QasarBeach will automatically add a 1 SEGMENT cross-fade
+  prevnting a looped sound from clicking. X-FADE work
+  backwards from the LOOP START in SEGMENT, so If your LOOP
+  START is 10 then use X-FADEs that are lower than 10,
+  otherwise you will get strange results - which moght be
+  what you want.
+#@
+@uMODE:5@u
+This allows you to store up to 16 different samples in a
+single voice. These can be spread across the keyboard and
+each having a different root values.
+
+To use MODE 5 you need to do the following:
+  1. Load (or create) a voice with more than one sound
+  2. Select MODE 5 - by default the show subvoices option
+     will be set to NO, set this to YES to show the
+     SUBVOICE allocation page
+     Initially the voice will play all of it anywhere on
+     the kayboard.
+  3. Select a SUBVOICE - these are numbered 1 to 16 on the
+     far right of the UI
+  4. Click and draw the START and END of the voice to be
+     played, either by drawing on the voice, or by entering
+     the required numbers in START and END (can be found
+     underneath SEGMENTS)
+  5. Select the required range of keys to assign this
+     SUBVOICE to. Or just select those notes you want to
+     use. The SUBVOICE number should show ACTIVE next to it
+  6. You can alter the ROOT note of this SUBVOICE to any
+     note that sound correct to you by using the ROOT:
+     PARAMETER
+  7. Now select the second SUBVOICE, and repeat steps 4 - 6
+
+It will take a few trys to get this right, but once you are
+more familiar, you will get very fast results.
+#A
+@uFILTER@u
+range:  1-127
+patch: CONTRL, KEYNUM, LF01
+  A LOW-PASS tracking filter. If set to 1 the filter is
+  bypassed completely. Patch to KEYNUM allows custom
+  filter response over the music keyboard.
+
+@uENHANCE@u
+range:  1 - 128
+patch:  1, LF01, FN01
+  This will ENHANCE the sound of the voice, making it sound
+  loader and more harsh. Great for adding 'bite' back into
+  dull drum sounds.
+
+@uSTEREO@u
+range:  1-64-128
+patch:  64
+  Adds a faux stereo to any sound. the default is 64 which
+  is no stereo added. Moving further to 1 adds more left
+  STEREO and moving further to 128 adds more right STEREO.
+  Use with STEREO MIX to further add depth to any sound.
+
+@uSTEREO MIX@u
+range:  1 - 128
+  This controls how much faux stereo to add to the mix. The
+  default is 128 which is all faux STEREO. Lower the amount
+  to make more subtle adjustments to the depth of the 
+  STEREO effect.
+#B  
+@uBITZ CRUSH@u
+range:  1 - 128
+  Reduces output quality of voice making it sound more
+  gritty and low-fi.
+
+@uDELAY@u
+range:  1 - 128    64       Add a delay to the voice
+@uDELAY IN@u
+range:  1 - 128    80       How much to add to the delay
+@uDELAY OUT@u
+range:  1 - 128    90       How much delay to mix
+@uRELEASE ECHO@u
+range:  1 - 128    6        Adds a delay to a voice
+@uFEEDBACK@u
+range:  1 - 128    25       Feed the output mix back in
+
+@uNOISE@u
+range:  1 - 128    70       Add Square/White noise
+@uNOISE TUNE@u
+range:  1 - 128    LF01     Tuning/pitch of the noise
+@uBASS BOOST@u
+range:  1 - 128    25       Boosts bass of a voice
+@uRESONATOR@u
+range:  1 - 128    1-12     Use with FILTER
+
+
+#C
+TO RESET all CONTROL PARAMETERS
+TYPE: R<return>
+Reset all control parameters for the current voice to default
+values and blank the CONTROL FILENAME.

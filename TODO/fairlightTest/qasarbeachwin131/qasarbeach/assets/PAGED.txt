@@ -1,0 +1,149 @@
+#0"My god! It's full of stars..."
+#1
+@uVoices that look good will inevitably sound good too!@u
+
+
+    sheet:  2. @2VOICE@2 WAVEFORM DISPLAY
+
+            3. @3FORMATTING@3 Selectors
+
+            4. @4END SEGMENT@4 Selector
+
+            5. @5STEP@5 Selecter
+
+            6. @6EXAMPLES@6
+
+
+
+
+
+
+
+
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+@uVOICE WAVEFORM DISPLAY@u
+
+VOICE WAVEFORM DISPLAY allows the entire WAVEFORM for
+a voice to be displayed on the screen at once.
+
+PAGE D is a purely visual page. The format of the display
+has been designed to reveal as much as possible about the
+voice waveform in a single glance.
+
+The waveform display will show immediately whether the
+SAMPLE RATE was appropriate for a pitched external source:
+If SAMPLE RATE was appropriate (i.e., voice is in tune with
+the system) waveform crests and troughs will proceed in
+linear, orderly way along the display - varying little
+in their position within each successive segment
+If SAMPLE RATE was almost appropriate (i.e., voice is
+slightly flat or sharp; a 1-segment LOOP produces a sudden
+slight pitch shift) waveform crests and troughs will
+"drift" laterally through the display. If this drift is
+to the RIGHT then sample rate was too HIGH - if to the
+LEFT then sample rate was too LOW.
+
+If SAMPLE RATE was totally wrong then the display will
+usually be a hopeless jumble.  The relationship of one
+cycle of signal to each segment of waveform memory
+necessary for correct tuning is also the relationship
+required for a visually coherent display. Thus voices
+that look good will inevitably sound good too.
+#3
+@uFORMAT SELECTOR@u
+
+FORMAT SELECTOR provides the choice of 3 display formats:
+
+ (A) is "tilted" diagonally for a 3-dimensional effect.
+
+ (B) is vertically aligned with the screen. The display
+     resolution is greater and fine detail is more easily
+     distinguished
+
+ (C) is the traditional "start-end" view with stereo voices
+     being shown on top of each other
+     
+To select a FORMAT Click <A>,<B> or <C> with Mouse.
+
+The format may also be specified as part of the typed
+DISPLAY command.
+
+(when in page D, activate the command line and type)
+
+@uEXAMPLES:@u
+
+  DA - will show the WAVEFORM in 3d
+  DB - will show the WAVEFROM flat
+  DC - will show the entire WAVEFROM from left ot right
+#4
+@uEND SEGMENT SELECTOR@u
+
+END SEGMENT SELECTOR indicates the SEGMENT number of the
+last segment displayed. This can be 128, 64 or 32
+
+To select END SEGMENT click desired number with the mouse
+
+The END SEGMENT may also be specified as part of the typed
+DISPLAY command.
+
+(when in page D, activate the command line and type)
+
+@uEXAMPLES:@u
+
+  D,32   - will show the WAVEFORM to segment 32
+  D,64   - will show the WAVEFORM to segment 64
+  D,128  - will show the WAVEFORM to segment 128
+
+  DA,128 - will show 3d WAVEFORM to segment 128
+  DB,64  - will show flat WAVEFORM to segment 64
+#5
+@uSTEP SELECTOR@u
+
+STEP SELECTOR determines the NUMBER of SEGMENTS skipped
+between display traces.
+
+Thus if STEP = 4 every fourth segment is displayed.
+
+The STEP can be 1, 2, 4, or 8 within limits which are
+automatically displayed depending on the FORMAT selected.
+
+To select STEP click desired number with mouse
+
+The STEP value may also be specified as part of the typed
+DISPLAY command
+
+(when in page D, activate the command line and type)
+
+@uEXAMPLES:@u
+
+  DA,128  - Display Format A, end seg = 128
+  DB,32,1 - Display Format B, end seg = 32, step = 1
+  D,64    - Display, end seg = 64
+  D,,2    - Display, step = 2
+  
+The voice WAVEFORM is displayed with the selectedformat,
+end segment and step
+#6
+@uEXAMPLES:@u
+
+(when in page D, activate the command line and type the
+ following and then <return>)
+
+  DA - will show the WAVEFORM in 3d
+  DB - will show the WAVEFROM flat
+  DC - will show the entire WAVEFROM from left ot right
+
+  D,32   - will show the WAVEFORM to segment 32
+  D,64   - will show the WAVEFORM to segment 64
+  D,128  - will show the WAVEFORM to segment 128
+
+  DA,128 - will show 3d WAVEFORM to segment 128
+  DB,64  - will show flat WAVEFORM to segment 64
+
+  DA,128  - Display Format A, end seg = 128
+  DB,32,1 - Display Format B, end seg = 32, step = 1
+  D,64    - Display, end seg = 64
+  D,,2    - Display, step = 2

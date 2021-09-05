@@ -1,0 +1,29 @@
+#0Why does it hurt, when my heart misses a beat
+#1
+
+    sheet:  2. @2@2
+            3. @2@2
+            
+            4. @3@3
+            
+            5. @4@4
+            6. @4@4 stepping
+            
+            7. @5WAVEFORM DRAWING@5
+            
+            8. @6JOIN & PLOT@6 buttons
+            
+            9. @7ZERO@7 command
+            10.@7@7 command
+            
+            11.@8@8
+
+            12.@9@9
+
+
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+The @uWAVEFORM GRAPH@u displays one SEGMENT (128 points) of the
+VOICE as an oscilloscope-like image.

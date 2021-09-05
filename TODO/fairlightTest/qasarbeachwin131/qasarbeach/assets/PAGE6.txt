@@ -1,0 +1,242 @@
+#0Wheels keep turning. Something's burning
+#1
+
+    sheet:  2. @2WAVEFORM GRAPH@2
+            3. @2DISPLAY and FILL@2
+            
+            4. @3CURRENT SEGMENT@3
+            
+            5. @4STEPPING@4
+            6. @4START/STOP@4 stepping
+            
+            7. @5WAVEFORM DRAWING@5
+            
+            8. @6JOIN & PLOT@6 buttons
+            
+            9. @7ZERO@7 command
+            10.@7INVERT@7 command
+            
+            11.@8TRADITIONAL WAVEFORMS@8
+
+            12.@9SMOOTH and ROUGH@9
+
+
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+The @uWAVEFORM GRAPH@u displays one SEGMENT (128 points) of the
+VOICE as an oscilloscope-like image.
+
+Waveforms can be created or altered either by drawing on
+the graph with the mouse or by assigning LEVELS to
+individual waveform points.
+
+The @uDISPLAY and FILL@u functions are exact opposites of each
+other:
+
+  1. The DISPLAY function refers to the moving of a waveform
+     segment INTO the GRAPH
+
+  2. the FILL function refers to the moving of the waveform
+     displayed on the graph INTO a VOICE SEGMENT
+
+This allows a segment to be displayed and then modified to
+any degree without losing the original (which remains
+unaltered) until the segment is filled with the waveform
+displayed on the graph. Thus the graph is a kind of
+scratch-pad for waveform development.
+
+The features of PAGE 6 fall into two groups:
+  1. those which directly modify the waveform memory of the
+     voice
+  2. those which change only the displayed waveform and
+     thus require you to use the FILL command before the
+     voice will actually be modified
+#3
+@uCURRENT SEGMENT@u
+
+to select the current WAVEFORM SEGMENT click
+CURRENT SEGMENT: the COMMAND: line will becoms active with
+the S (segment) added for you
+
+ TYPE:  n<set>
+where:  n  =  segment number
+
+Maximum usable segment numbers are:
+  32 in MODE 1
+  128 in MODE 4
+
+Next To CURRENT SEGMENT is a vertical fader. This shows the
+current SEGMENT you are viewint. It can be clicked to goto
+a required segment.
+
+
+Segments can also be stepped through automatically. The
+controls for this is called Stepping and more information
+can be found on the next page.
+#4
+@uSTEPPING@u
+
+When viewing SEGMENTS, they can be cycled thought one after
+another. This is called stepping.
+
+
+@uSTART AND STOP@u
+
+To begine stepping, click the START button. You should see
+the display change and SEGMENT number and fader positions
+change respectively.
+
+To stop stepping, just click the STOP button.
+
+You can also use <space> to start and stop the stepping.
+This overides the usual <space operating playback of PAGE R
+sequences.
+
+
+@uSTEP RATE@u
+
+The RATE or speed the stepping occurs is controlled though
+the vertical fader next to STEP RATE:
+  Lower is faster stepping
+  Higher is slower
+
+You can also use the COMMAND:
+  SR,n - where n is a number from 1 to 255
+#5
+@uWAVEFORM DRAWING@u
+
+TO CREATE or MODIFY a DISPLAYED WAVEFORM, just draw on the
+WAVEFORM with the mouse.
+
+Large flowing shapes are best drawn by selecting JOIN (see
+JOIN/PLOT switch).
+
+@bRemember, the waveform graph is a scratch pad!@b
+
+The FILL command MUST be used to move whatever has been
+drawn back into the VOICE (to be heard or saved).
+
+  1. Select a SEGMENT
+  2. Draw with the mouse
+  3. Select FILL and play your creation.
+  
+To create or modify the DISPLAYED WAVEFORM without using
+the mouse; Use POINT and LEVEL.
+
+  - Point is a position from 1 to 128 in the waveform
+  - Level is a number from -128 to 128
+
+A good way to explore PAGE 6 is to put a VOICE into MODE 2
+The current DISPLAYED SEGMENT is the one being played.
+You can then select a new segment or use the mouse wheel to
+goto new SEGMENTS.
+#6
+@uJOIN AND PLOT@u
+
+The JOIN and PLOT buttons selects the way in which the
+WAVEFORM GRAPH responds to drawing or assignment to LEVEL.
+
+There are 128 points in the displayed waveform. Both the
+level control and mouse work by setting the amplitudes of
+single points. However, when JOIN is selected each
+subsequent alteration will be JOINED to the last by a
+straight line (the points between are set automatically).
+
+
+If PLOT is selected, each point can be individually altered
+without affecting the others.
+
+  - JOIN is good for creating waveforms or large-scale
+     alterations
+  - PLOT is better for fine detail.
+
+  
+To SELECT JOIN or PLOT either press the respective button
+or enter the following commands:
+  TYPE:
+         J<return> - to select JOIN
+         P<return> - to select PLOT
+#7
+@uZERO@u
+
+To ZERO the DISPLAYED WAVEFORM (clear the display), click
+the ZERO button or activate the COMMAND: and
+  TYPE:
+         Z<return>    - ZERO the WAVEFROM DISPLAY
+
+@bNote@b
+  The Actual VOICE is NOT affected until the FILL command
+  is used.
+
+
+@uINVERT@u
+
+To INVERT the DISPLAYED WAVEFORM, Click the INVERT button
+or activate the COMMAND: and
+  TYPE:
+         I<return>- This will INVERT the PHASE of the
+                     waveform displayed4
+
+@bNote@b
+  The Actual VOICE is NOT affected until the FILL command
+  is used.
+#8
+@uTRADITIONAL WAVEFORM@u
+
+To generate TRADITIONAL WAVEFORMS:
+  TRIANGLE, RAMP or variable-width PULSE waveform
+
+Click the desired waveshape image at the bottom of the
+display with the mouse.
+
+Alternatively, you can activate the COMMAND: and
+  TYPE:
+         TRI<return> - for TRIANGLE waveform
+         SAW<return> - for SAWTOOTH waveform
+         SQ<return>  -  for SQUARE waveform
+
+@bNote@b
+  The Actual VOICE is NOT affected until the FILL command
+  is used.
+
+@uPULSE WIDTH@u
+To set PULSE WIDTH, click the % box next to the SQUAREWAVE
+button. The COMMAND: will appear and you can type a number
+from 1-99 or activate the COMMAND: and
+  TYPE:
+         N,n - where n is a number form 1 to 99
+
+@bNote@b
+  The Actual VOICE is NOT affected until the FILL command
+  is used.
+#9
+@uSEGMENT SMOOTH@u
+
+With SMOOTH: you can add a smoothing factor to the SEGMENT.
+This will have the effect of softening the sound. This can
+be very useful when using the ROUGH: factors.
+
+You use, just click the SMOOTH: and enter a number from 
+  0   - no smoothing
+  255 - lots of smoothing
+
+You can also uses the COMMAND:
+
+  SM,<n>
+          where n is a number from 0 to 255
+
+@uSEGMENT ROUGH@u
+
+With ROUGH: you can add a random rougness factor to the
+SEGMENT. This will have make the waveform sound harsher.
+
+You use, just click the ROUGH: and enter a number from 
+  0   - no Roughness added
+  255 - lots of Roughness
+
+You can also uses the COMMAND:
+
+  RO,<n>
+          where n is a number from 0 to 255

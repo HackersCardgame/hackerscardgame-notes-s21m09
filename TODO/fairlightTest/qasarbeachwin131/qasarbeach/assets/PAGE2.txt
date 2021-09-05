@@ -1,0 +1,186 @@
+#0Disks and folders. Absolute, on power drive...
+#1
+The DISK page is where you load and save all data
+
+
+    sheet:  2. @2LOAD & SAVE@2 concepts
+
+            3. @3FAVORITE@3 folders
+
+            4. @4FILE LAYOUT@4
+
+            5. @5FILE TYPES@5
+            
+            6. @6LOADING@6 a Voice
+
+            7. @7SAVING@7 files. Names and Types
+
+            8. @8SAVING@8 files. Instrument, Voice, etc
+
+
+
+
+
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+@uLOAD & SAVE@u
+
+
+The DISK page is split into 2:
+
+ 1. LOAD - where you load data into QasarBeach <DML>
+
+ 2. SAVE - Where you save for later access <DMS>
+
+Both LOAD and SAVE pages use unique folders.
+
+This means the Load page can be viewing a different folder
+from the SAVE page!
+#3
+@uFAVORITES FOLDERS@u
+
+Favorites are folders that you have marked as a FAVORITE.
+
+They appear in the middle collumn  of both LOAD and SAVE
+allowing quick access to those folders.
+
+@uTo add a FAVORITE folder@u
+
+When browsing folders, you can add the current folder to
+your favorites by pressing the:
+
+ADD: Favorite button (top left)
+or use the COMMAND:
+FAV<return>
+
+@uTo remove a FAVORITE@u
+
+ 1. Select the FAVORITE folder to delete. A DELETE button
+    will appear below it.
+ 2. Click the DELETE button
+
+@uTo goto a FAVORITE folder@u
+
+ 1. Highlight the FAVORITE you want
+ 2. Click it again or press the LOAD BUTTON
+#4
+@uFILE LAYOUT@u
+
+@uTOP (blocked out section):@u
+  This is where you choose LOAD or SAVE, FAVORITE, goto the
+  home page.
+
+  On the far right is PAGE: Back Next
+  Use these buttons to go to the next or previous pages
+
+@uFILE section:@u
+  These are the available folders (shown first) and files.
+  They are shown in pages.
+
+  You can use the ARROW keys to move around.
+  <page up> to go to the first file
+  <page down> to go to the last file
+  <enter> will open a folder and 
+  <ctrl>+<enter> will go up one folder or click ..
+  
+@uLOAD or SAVE block:@u
+  Here you can #6LOAD#6 files and voices
+  And also #7SAVE#7 files
+
+@uShow @5FILE TYPES@5:@u
+  CMI - show files that QasarBeach is interested in
+  SND - show any sound files that can be loaded
+  ALL - show all files
+#5
+@uCMI FILE TYPES@u
+
+QasarBeach CMI files uses the following native files:
+
+  .VC - VOICE: a sound file
+  .CO - CONTROL: control parameters for a voice
+  .IN - INSTRUMENT: all voices and controls
+  .RS - COMPOSER: real-time sequence
+  .SY - SYSTEM: snapshow of entire voice, control, composer
+
+So and INSTRUMENT contains up to 16 voices and controls
+
+and a SYSTEM contains everything, voices, controls, and all
+Real-time COMPOSER files for an entire song or performance.
+#6
+@uLOADING A VOICE@u
+
+When a @bvalid@b sound file is found. It will automatically
+be loaded and be shown visually at the bottom of the LOAD
+page.
+
+You can immediately play it on the VIRTUAL KEYBOARD
+or activated MIDI keyboard.
+
+The VOICE: allocation boxes will also appear:
+
+  - Boxes with greyed out text have no sound loaded
+
+  - Boxes with normal text have a sound loaded into it
+
+  - boxes light up will accept the loaded voice
+
+
+To load a voice:
+
+  1. select the required sound to load
+
+  2. select a box (voice number). more than one is allowed
+
+  3. click "LOAD"
+
+  4. repeat as and whenyou want to load another voice
+#7
+@uSAVING KINDS OF FILES@u
+
+When saving a file, the bottom block changes to allow you
+to enter a NAME and pick a file type.
+
+If the file type is a single voice or control. then the
+voice boxes will appear allowing you to pick which voice or
+control to save.
+
+COMPOSER (.RS), INSTRUMENTS (.IN) and SYSTEMS (.SY) don't
+allow to save individually.
+
+To set the name of a file (to be saved)
+  1. Click the highlighted area after NAME: the COMMAND:
+     line will activate with the FILE command all ready for
+     you to type a new name
+  2. <esc>to activate the COMMAND: line and type:
+     FILE,<your name> where <your name> is the filename
+     you require
+
+You then pick a kind of file to save. These are:
+  .WA - a standard WAV sound file
+  .VC - a CMI sound file
+  .CO - a CMI control file for a VOICE
+  .IN - up to 16 VOICE and CONTROL files
+  .RS - a COMPOSER file
+  .SY - a complete system including VOICES, CONTROLS and
+        COMPOSER data
+#8
+@uSAVING A FILE@u
+
+You should now know the basic file kinds?
+
+If not have a look at the previous @7PAGE@7
+
+OK. When selecting a WAV, VOICE or CONTROL kind: The voice
+boxes appear allowing you to pick which voice to save.
+
+To SAVE the file, just click "SAVE"
+
+If you want to save multiple VOICE, you will have to pick
+names and save multiple times or save an INSTRUMENT.
+(and INSTRUMENT file contains all current VOICES and
+CONTROL data)
+
+
+

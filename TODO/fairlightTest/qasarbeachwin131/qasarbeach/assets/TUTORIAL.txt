@@ -1,0 +1,32 @@
+#0Dont you know you're going to shock the monkey
+#1
+Let's get you started:
+ Help is arranged in tabs (on the right) and sheets:
+
+
+    sheet:  2. @2HELP PAGE@2 instructions
+
+            3. @3COMMAND@3 line instructions
+
+            4. @4DISPLAY@4 Waveformx
+
+            5. @5SELECT@5 any loaded Voice
+
+            6. @6LOAD/SAVE@6 Instrument or Voice files
+
+
+
+
+
+
+
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+
+ You can also use the top right buttons:
+   NDX for the Index, TOP for the first sheet,
+   BWD to go back a sheet and FWD to go to the next sheet.
+
+ And you can use the ARROW keys to move BKD, FWD and TOP!

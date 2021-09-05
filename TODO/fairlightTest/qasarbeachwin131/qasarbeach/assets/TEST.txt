@@ -1,0 +1,194 @@
+#0DON'T PANIC! Lunch is always provided...
+#1
+@uLet's get you started:@u
+ Help is arranged in tabs (on the right) and sheets:
+
+
+    sheet:  2. @2HELP PAGE@2 instructions
+
+            3. @3COMMAND@3 line instructions
+
+            4. @4USEFUL COMMANDS@4
+
+            5. @5COMMAND EXAMPLES@5
+
+            6. @6KEYBOARD@6
+
+            7. @7QUICK START@7
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+
+ @uYou can also use the top right buttons:@u
+   NDX for the Index, TOP for the first sheet,
+   BWD to go back a sheet and FWD to go to the next sheet.
+
+ @bAnd@b you can use the ARROW keys to move BKD, FWD and TOP!
+#2
+@uHELP PAGE@u
+
+A HELP page accompanies each standard QasarBeach PAGE.
+And each HELP page has full guidance for the use of the
+Page and its' features.
+
+A "screen-full" of help is called a SHEET and each help
+page consists of several of these sheets.
+
+
+A HELP INDEX is provided on the FIRST sheet to allow
+quick help on major features in two ways:
+
+ 1. By activating the COMMAND line <esc> and TYPING the
+    sheet number then pressing <return>
+    
+ 2. Clicking the highlighted text box of the sheet you want
+
+ 
+There are four buttons on the top right for quick access
+ 
+ 1. NDX will go to the first help page
+ 2. TOP will go to the first sheet. <UP> can be used
+ 3. BWD will go to the previous sheet. <LEFT> can be used
+ 4. FWD will go the the next sheet <RIGHT> can be used
+#3
+@uCOMMAND LINE@u
+
+QasarBeach features a COMMAND Line. This can be found by:
+
+ 1. Pressing <esc>
+ 2. Clicking the COMMAND: button (top left of the screen)
+ 3. Clicking a screen COMMAND that automatically fills in
+    the first part of a COMMAND for you
+ 
+When activated the COMMAND line will change color and show
+a flashing cursor allowing you to enter text COMMANDS.
+
+COMMANDS tell the CMI to "do something". The <return> key
+is always the last key typed.
+
+COMMANDS are described like this...
+
+To select a HELP Page:
+ 1. Select HELP for current DISPLAY page - 9<return>
+ 2. Select HELP for DISPLAY page (n)     - Hn<return>
+ 3. select HELP for page (n), SHEET (s)  - Hn,s<return>
+  where: n = name (number or letter) of page: 1-9,D,L
+         s = sheet number
+
+@uEXAMPLES:@u
+
+  H2<return> Select PAGE 2 HELP (sheet 1)
+  HD,2<return> Select PAGE D HELP, sheet 2
+#4
+@uUSEFUL COMMANDS@u
+
+1. All PAGES can be accessed directly by just pressing the
+   PAGE number or letter
+   or
+   You can use the COMMAND line and type: Pn
+                                   where:  n is 1-7/A-Z
+
+2. Voices can be accessed directly by typing
+   COMMAND: Vn
+     where: n is 1-8/A-H
+
+3. HELP can be quickly accessed on any page by press 9
+
+4. <space> To START and STOP playback of songs or voices
+
+5. When over any input area. Use the mouse scroll wheel to
+   add or decrement the value.
+   Similarly, you can also use the left/right and up/down
+   arrow keys too!
+   If you click the input area; The COMMAND: will activate
+   and automatically fill in the required text. you just
+   have to type the amount and press <return>
+
+6. COMMANDS: dont need to be uppercase!
+
+7. When using the mouse, the bottom line will show quick
+   help on the item you are hovering over
+#5
+@uCOMMAND EXAMPLES@u
+
+Here are a few examples to get you started...
+
+First press <esc> to activate the COMMAND: and <enter> to
+make QasarBeach "DO" the COMMAND
+
+P2     - this will change the PAGE to the DISK PAGE
+
+PD     - to activate the famous WAVEFORM view
+DA,128 - will show 3d WAVEFORM to segment 128
+
+P7     - show the CONTROL PARAMETERS PAGE
+V4     - change to voice 4 (if loaded)
+MODE,1 - change the voice type from sample playback to
+         32 wavetable playback
+
+C,voice,name - create a new voice with a new name
+         where: voice is 1-8/A-H
+                name is a small name less than 9 characters
+
+P7     - show the CONTROL PARAMETERS PAGE
+STE,50 - Create faux Stereo field from voice (adds echo)
+#6
+@uKEYBOARD@u
+
+When the VIRTUAL KEYBOARD is active you can use a keyboard
+the same as piano keys:
+
+    s d   g h j   l ;    [ - octave minus
+   z x c v b n m , . /   ] - octave plus
+
+<space> will START and STOP playback of songs and voices
+@uNOTE@u
+  You can goto other pages whilst PAGE R is playing. This
+  allows you to edit sounds and test things out live!
+
+0 - will ARM the RECORD button on PAGE R
+
+<cmd> + C - will copy depending on what PAGE you are on
+<cmd> + V - will paste something that has been copied
+<cmd> + A - will select all (if possible)
+<cmd> + I - will activate EGO mode (or maybe not...?)
+
+In PAGE 2 (Disk Page):
+  <enter>      - will open the highlighted folder
+  <cmd><enter> - will go to the previous folder
+  <arrow keys> - will go up, down, left, right
+  <page down>  - will go to the last file
+  <page up>    - will go to the first file
+The Virtual Keyboard and MIDI keyboard will play loaded
+voices making previewing very fast and lots of fun!
+
+
+#7
+@uQUICK START@u
+
+1. Activate the Virtual Keyboard
+   VKB,ON
+2. Activate MIDI (if wanted)
+
+3. Load a voice
+   P2 - goto the disk page
+        select a valid sound file - it will be loaded and
+        can be played immediately, it will also be shown
+        Select a voice number and press LOAD
+
+4. Make a voice loop
+   P7 - goto the CONTROL PARAMETERS page
+   LP,ON - turn looping on (see Loop Control)
+           Select a new LOOP START and END SEGMENT
+           Use X FADE to alter how many SEGMENTS are used
+           for LOOP fading
+
+5. Give a voice a release envelope (may cause auto looping)
+   P7 - goto the CONTROL PARAMETERS page
+   ECHO,16 - Gives a RELEASE ECHO of 16
+   
+6. Change the PAN of any Mono or Stereo VOICE
+   P7 - goto the CONTROL PARAMETERS page
+   PAN,90 - change the PAN to the right
+   PAN,64 - set the Pan to the middle
+   PAN,0 - set the pan to the far left

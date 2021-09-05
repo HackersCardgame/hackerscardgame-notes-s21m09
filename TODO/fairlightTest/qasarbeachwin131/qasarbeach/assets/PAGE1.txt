@@ -1,0 +1,141 @@
+2. HELP PAGE instructions
+4. COMMAND descriptions
+5. ASSIGNMENT descriptions
+6. DISPLAY PAGE selection
+6. USER NAME assignment
+7. SYSTEM FUNCTION index(
+8. LOAD/SAVE voice or instrument files
+
+For HELP, touch any BOX with LIGHTPEN or TYPE: n<set>(where: n = sheet no.
+For HELP with HELP PAGES, press <add> key.>
+
+A HELP PAGE accompanies each standard DISPLAY PAGE, with full
+guidance for the use of the various features provided. A
+"screen-full" of help is called a SHEET - each help page
+consists of several of these sheets.>
+A HELP INDEX is provided on the FIRST sheet of every help page
+to allow quick access to HELP for major features in two ways:
+1. BY TYPING the sheet number and pressing <set> key.9
+2. BY TOUCHING an illuminated INDEX BOX with the LIGHTPEN
+"Touch" means: point pen at item without touching tip
+with finger then "trigger" by a quick touch on tip.
+These INDEX BOXES are also provided throughout the HELP page.
+Any word inside an illuminated box may be touched with the
+lightpen for help on that topic.
+
+See PREVIOUS SHEET BOX.TO CHANGE HELP SHEETSPRESS:
+<add>keyTO: go forward to next sheet
+<sub>go backward to preceding sheet
+<set>go to 1st sheet (HELP INDEX)(sheet no.)
+<set>go to any sheet;
+e.g. 3<set><clear>  or  <return>return to DISPLAY PAGE
+press <add> key for next sheet
+TO CHANGE HELP SHEETS with LIGHTPEN five "touchable" boxes
+are provided at the top of each sheet as well as the INDEX
+BOXES placed around key words.
+
+TOUCH:
+<FWD> boxTO go forward to next sheet
+<BWD> go backward to preceding sheet
+<TOP> go to 1st sheet - HELP INDEX
+<PRE> go to previous sheet
+<PAGE x> return to DISPLAY PAGEa<INDEX BOX>
+select sheet for illuminated word
+THE PREVIOUS SHEET BOX:<PRE> is related to the illuminated INDEX
+boxes found around key words. When an INDEX box is touched
+with the lightpen, the sheet for that topic will be selected.
+Touching <PRE> will then take you back to the original
+(previous) sheet. In fact you can backtrack through consecutive
+INDEX box touches in this way; each touch of <PRE> will take
+you back one further previous sheet. Thus the HELP sheets can
+be easily browsed with the LIGHTPEN without losing your place.
+
+ALL COMMANDS provided by the DISPLAY PAGE shown at upper-left
+may be typed WHILE the HELP page is selected. Simply type the
+command as described by the HELP sheet.
+You will exit back tothe display page automatically.
+
+press <add> key for next sheet
+
+CONCISE DESCRIPTIONS of what you are to TYPE or touch with
+the LIGHTPEN to use the DISPLAY PAGES are presented with the
+aid of a few symbolic conventions.
+Special Keys are indicated with lower-case letters within
+"<>" brackets: <return>,<set>,<add>,<sub>,<clear>,etc.
+Lightpen Items are indicated with upper-case letters within
+"<>" brackets: <FWD>,<BWD>,<TOP>,etc.
+Items which are defined when typed are indicated with[
+lower-case letters (see "n" & "s" in the following example).
+
+COMMANDS tell the CMI to "do something". The <return> key is
+always the last key typed.
+Commands are described like this....
+
+TO SELECT a HELP PAGE:
+TYPE:2select HELP for current DISPLAY page  -  H<return>
+select HELP for DISPLAY page (n)
+Hn<return>select HELP for page (n), SHEET (s)   -  Hn,s<return>
+where:  n  =  name (number or letter) of page: 1-9,D,Ls  =  sheet number4
+
+EXAMPLES:
+H2<return> Select PAGE 2 HELP (sheet 1)
+HD,2<return> Select PAGE D HELP, sheet 2
+This command may be given from either a DISPLAY or HELP page.
+
+press <add> key for next sheet
+
+ASSIGNMENTS change the values, or "settings" of variable9parameters.
+The <set> key is usually the last key typed.
+Assignments are described like this example from PAGE 3....
+
+To SET MASTER PITCH use <arrow> keys or LIGHTPEN to TAB to PITCH
+TYPE: n<set>#Cwhere: n  = desired tuning, 0 - 255
+Because the value is a number we call this a NUMERIC assignment=
+(as opposed to ALPHABETIC where the value is a word or name).
+When making ANY NUMERIC ASSIGNMENT the <add> or <sub> keys can
+be used instead of <set> to ADD or SUBTRACT the typed number
+from the current value. The use of these keys is up to you
+thus they are not often mentioned but are always available.
+
+TABBING to an ITEM means to SELECT it for an assignment.
+Thiscan be done with either the 4 <arrow> keys or LIGHTPEN.
+
+4	ARROW KEYS:  Press necessary keys to move the CURSOR (illuminated box) to the desired item.)
+LIGHTPEN:  Touch displayed value of item.
+<THE COMMAND LINE is NOT CLEARED after a COMMAND ERROR or any
+ASSIGNMENT. The NEXT key typed will automatically clear the
+command line UNLESS it is one of the following keys:
+<rubout> <arrow> <home> <add> <sub> <set>
+
+press <add> key for next sheet
+
+TO SELECT A DISPLAY PAGETYPE:
+Pn<return> where:
+n  =  fill in the number or letter of desired page.
+*<return> =  the RETURN key/>
+
+EXAMPLE:
+P2<return> (select DISPLAY PAGE 2)
+On PAGE 1 the LIGHTPEN may be used to select any other page by
+touching the page name or title.  On other pages, touching the
+word INDEX (at upper left) will re-select PAGE 1
+
+TO SET USER NAME ON SYSTEM DISK
+First, use <down-arrow> key to TAB (move illuminated cursor)
+to USER NAME.
+
+TYPE: up to 20 characters<set>where:
+<set> = the SET key.
+
+SYSTEM FUNCTION INDEX
+The next sheet is a index of SYSTEM FUNCTIONS and the DISPLAY
+PAGES on which they are provided.
+Wherever a function isfound on more than one page,
+parentheses indicate the HELP page(with the most comprehensive description.
+
+press <add> key for next sheet
+
+KEYBOARD / REGISTER CONTROL'DISPLAY (help) PAGES:'2Keyboard Number selection  1 2(3)4 5 6 7 8 9 D L C;Nphony control / Register creation  . . 3 . . . . . . . . .5'Register-to-Keyboard mapping  . . 3 . . . . . . . . .0Tuning  . . 3 . . . . . . . . .
+9VOICE CONTROLA4B	Harmonic Waveform Synthesis  . . .(4)5 . . . . . . .7KVideo-graphic Waveform Drawing  . . . . . 6 . . . . . .9TExternal Audio Waveform Sampling  . . . . . . . 8 . . . ./]Display Voice waveform  . . . . 5 6 . . . D . .f Mode  . . 3 . . .(7). . . . .o Loop  . . .(4). . 7 . . . . ."xAmplitude  . . . 4 . 6(7). . . . .7Vibrato / Glide / Key velocity  . . . . . . 7 . . . . .5Keyboard Controls & Switches  . . . . . . 7 . . . . .SEQUENCER CONTROL;Record / Replay Keyboard Sequences  . . . . . . . . 9 . . .;Create / Edit / Replay M.C.L files  . . . . . . . . . . . CDISK CONTROL3
+Display / Change Filenames  . 2 . . . . . . . . . .=Load / Save Voice or Instrument file  1 2(3)4 5 6 . 8 . D L .1Load / Save Control file  . . . . . . 7 . . . . .5Load Keyboard Sequence files  1 2 3 4 5 6 . 8(9)D L .;Load files by Keypad on master kbd  1(2)3 4 5 6 7 8 9 D L C5Free Space remaining on disk  .(2). . . . . . 9 . . .0
+Delete / Transfer files  . 2 . . . . . . . . . .%Disk Library  . . . . . . . . . . L .)TO LOAD/SAVE VOICES or INSTRUMENTS  TYPE:To LOAD a VOICE-   L,r,filename<return> To SAVE a VOICE -   S,filename<return>*To CREATE a VOICE*-   C,r,filename<return>14To LOAD an INSTRUMENT   -   L,filename.IN<return>1>To SAVE an INSTRUMENT   -   S,filename.IN<return>Rwhere:Rr  =  register A - H#\filename  =  1-8 character filename	pEXAMPLES:,zL,LUCK.IN<return>  Load instrument file LUCK7L,A,FUZZ<return>   Load voice file FUZZ into register A2C,A,NEWV<return>   Create voice NEWV in register A;These commands may be given from ALL standard DISPLAY PAGES6except PAGE 9.  See PAGE 3 HELP for more about VOICES,9INSTRUMENTS, and LOADING/SAVING files. See PAGE 2 HELP toLOAD files with LIGHTPEN.end - press <set> for 1st sheet

@@ -1,0 +1,194 @@
+#0And they told us. All they wanted. Was a sound
+#1
+Creating sounds from nothing!
+
+
+    sheet:  2. @2PROFILE@2 GRAPH
+            3. @2HARMONIC@2 amplitude profiles
+            
+            4. @3DURATION@3 profile
+            5. @3VOLUME@3 profile
+            6. @3SMOOTH@3 profile
+            7. @3ROUGH@3 profile
+
+            8. @4HARMONIC AMPLITUDE PROFILES@4
+
+            9. @5LOOPING@5 voices
+
+            10.@6ZERO@6 command
+
+            11.@7WAVE TABLE@7 voice
+            12.@8WAVE TABLE@8 voice
+
+
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+@uPROFILE GRAPH@u
+
+THE PROFILE GRAPH allows changing parameters to be
+specified with the mouse as PROFILES.
+
+The vertical scale represents AMPLITUDE (log); and the
+horizontal represents TIME as WAVEFORM SEGMENTS.
+
+
+@uHARMONIC AMPLITUDE @u
+
+HARMONIC AMPLITUDE profiles provide control of the relative
+amplitudes of 32 harmonics. These are mathematically
+processed by the principle of ADDITIVE synthesis.
+
+Any loaded VOICE may be chosen for display or modification.
+
+The MODE of the selected voice determines some important
+aspects of the profile graph and PAGE 4 in general.
+
+When VOICE is in:
+
+  MODE 1   - Each horizontal division represents 1
+             waveform segment. There are 32 segments
+           
+  MODE 2/4 - Each horizontal division represents 1
+             waveform segment. There are 128 segments
+#3
+@uDURATION PROFILE@u
+
+This is only available when a VOICE is in MODE 1!
+The DURATION profile sets time-duration of each segment.
+
+@uVOLUME PROFILE@u
+The VOLUME profile controls how loud a VOICE is sounding
+for that segment.
+Click to activate it then draw a new VOLUME profile.
+
+DO NOT use on MODE 4 voices as it will destroy them!
+
+
+@uSMOOTH PROFILE@u
+The SMOOTH profile controls how much SMOOTHING is applied
+to the harmonics for that segment.
+Click to activate it then draw a new SMOOTH profile.
+
+DO NOT use on MODE 4 voices as it will destroy them!
+
+
+@uROUGH PROFILE@u
+The ROUGH profile controls how much noise to add to a VOICE
+for that segment.
+Click to activate it then draw a new ROUGH profile.
+
+DO NOT use on MODE 4 voices as it will destroy them!
+#4
+@uHARMONIC AMPLITUDE PROFILES@u
+
+THE HARMONIC AMPLITUDE PROFILES are represented by the
+numbers 1-32 displayed across the screen. These numbers are
+switches to display each profile. If desired, all 32
+profiles may be displayed on the graph simultaneously for
+viewing. However, more than about 10 at once usually looks
+confusing. This means that it is possible for profiles to
+be un-displayed and yet still remain ACTIVE (contributing
+to the sound). For this reason, two indicators are located
+under each harmonic number to show the status.
+
+  (triangle) - profile has NON-ZERO value
+  (circle)   - profile is being shown on screen
+
+TO DISPLAY/OPEN a HARMONIC PROFILE click the desired number.
+The profile will be DISPLAYED (if not already) and a BOX
+will appear around the harmonic number. The the profile
+graph will also show it with a heavy outline.
+
+TO DISPLAY/SELECT a BLOCK of 8 HARMONIC profiles touch one
+of the BLOCK SELECTOR boxes centred under each group of 8
+harmonic numbers. This will DISPLAY the 8 profiles on the
+graph.
+#5
+@uLOOPING VOICES@u
+
+To create a loop in a MODE 1 or MODE 4 waveform. You need
+to do the following:
+
+  1. Click the LOOP button or Type:
+     LOOP - into the COMMAND:
+     
+  2. On the PROFILE display Click the start of the LOOP and
+     then drag and release the mouse where the end will be.
+     This can be infront or behind where you first clicked!
+     
+  The loop should now be shown underneath the PROFILE
+  display. Looping will be turned on. See xxx for more
+
+You can also use the following COMMANDS:
+  LPS,<start segment> - to set the LOOP start point
+  LPE,<end segment>   - to set the LOOP end point
+  LPX,<segments> - sets how many segments to XFADE
+
+@uEXAMPLE:@u
+
+  1. Goto Page 2 and load a sound
+  2. Goto Page 4 and play the sound
+  3. Press the LOOP button and 'draw' the LOOP on the
+     PROFILE display
+  4. play the sound with the new loop
+  5. change the XFADE: to make the loop smoother
+#6
+@uZERO@u
+
+TO DELETE or ZERO PROFILE(S)  TYPE:z)or	z/LIGHTPEN
+delete profile from graph - D<return>0<DELETE>
+set profile to zero value - Z<return>0<ZERO>
+If a profile is OPEN for modification then it will be DELETED<or ZEROED accordingly.
+
+If a HARMONIC BLOCK has been selected
+by touching one of the selection boxes under each group of 8
+harmonics then those 8 harmonic profiles will be DELETED or
+ZEROED. Note that DELETE does not alter the value of a profile
+but only removes it from the graph - ZERO sets the value of
+the profile to zero for all segments.
+  
+#7
+@uWAVETABLES@u
+
+Waveforms instead of sinewaves can be used for additive
+synthesis.
+
+WAVETABLE voice lets you use waveform segments from another
+VOICE be the source of sound.
+
+Harmonic numbers become segment numbers of this VOICE.
+
+
+To use WAVETABLES do the following:
+
+  1. Click the mouse on the "WAVETABLE voice:" input. The
+     COMMAND: will open with the 'WT,' waiting for you.
+  2. Type a number from 0 to 8: n<return>
+                          where n = voice number from 0-8
+     Typing 0 will use existing SINE waves for harmonics.
+
+
+The first 32 segments of specified voice are then used as
+input waveforms:
+  Segment 1 will be mapped to HARMONIC 1
+  Segment 6 will be mapped to HARMONIC 6
+  all the way to segment 32
+#8
+@uWAVETABLE THOUGHTS@u
+
+Once complete you can use the new VOICE in different ways:
+
+  MODE 1 - will cycle through the first 32 segments similar
+           to the PPG synth
+
+  MODE 3 - will play 2 seperate waveforn SEGMENTS allowing
+           you to pick which segments and mix between them
+
+  MODE 4 - will just play the sound but will also give you
+           a loop for more fun.
+
+  MODE 5 - although designed for multi-part sample playback
+           MODE 5 can be used to play parts of the
+           wavetable for added effects

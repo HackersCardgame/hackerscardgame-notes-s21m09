@@ -1,0 +1,163 @@
+#0See yourself. You are the steps you take
+#1
+Create that waveform. so the story goes...
+
+
+    sheet:  2. @2HARMONIC@2 amplitude faders and levels
+    
+            3. @3CURRENT@3 segment selection
+            4. @3ZERO@3 faders
+            
+            5. @4WAVE TABLE@4 voice
+            6. @5WAVE TABLE@5 voice
+
+            7. @6SMOOTH@6 waveform
+            8. @6ROUGH@6 waveform
+
+            8. @7AUTO CLAMP@7
+
+
+
+
+
+
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+@uHARMONIC AMPLITUDE FADERS@u
+
+HARMONIC AMPLITUDE FADERS control the amplitudes of the 32
+HARMONICS for individual WAVEFORM SEGMENTS. The Amplitude
+levels can be seen both as a fader and a number.
+
+The PROFILE GRAPH of PAGE 4 and the FADERS of PAGE 5 thus
+have similar functions; in fact any change in harmonic
+amplitudes on either of these pages will be reflected on
+the other since both are dealing with the SAME harmonics.
+
+Any loaded VOICE may be selected. PAGE 5 may be used in
+and MODE.
+
+TO SET a HARMONIC FADER, Click a fader at the requred
+position (the fader should light up). A value then appears
+beneath with an arrow.
+
+You can also use the <arrow> keys when a fader is
+lit up.
+
+Or you can click the Number and the HM command will appear
+in the COMMAND line ready to accept a number from 0-255.
+
+  HM,<data> - to set the current fader
+  HM,<fader>,<data> - to set a fader to the data value
+  HM,<segment>,<fader>,data> - to set a fader in another
+                               segment to the data value
+#3
+@uCURRENT SEGMENT@u
+
+to select the current WAVEFORM SEGMENT click
+CURRENTSEGMENT: the COMMAND: line will becoms active with
+the S (segment) added for you
+
+ TYPE:  n<set>
+where:  n  =  segment number
+
+Maximum usable segment numbers are:
+  32 in MODE 1
+  128 in MODE 4
+  
+The FADERS and WAVEFORM for the segment will be displayed.
+
+
+@uZERO FADERS@u
+
+To ZERO all the HARMONIC FADERS Click on the ZERO button
+or activate the COMMAND: and
+
+  TYPE:  HZ<return>
+#4
+@uWAVETABLES@u
+
+Waveforms instead of sinewaves can be used for additive
+synthesis.
+
+WAVETABLE voice lets you use waveform segments from another
+VOICE be the source of sound.
+
+Harmonic numbers become segment numbers of this VOICE.
+
+
+To use WAVETABLES do the following:
+
+  1. Click the mouse on the "WAVETABLE voice:" input. The
+     COMMAND: will open with the 'WT,' waiting for you.
+  2. Type a number from 0 to 8: n<return>
+                          where n = voice number from 0-8
+     Typing 0 will use existing SINE waves for harmonics.
+
+
+The first 32 segments of specified voice are then used as
+input waveforms:
+  Segment 1 will be mapped to HARMONIC 1
+  Segment 6 will be mapped to HARMONIC 6
+  all the way to segment 32
+#5
+@uWAVETABLE THOUGHTS@u
+
+Once complete you can use the new VOICE in different ways:
+
+  MODE 1 - will cycle through the first 32 segments similar
+           to the PPG synth
+
+  MODE 3 - will play 2 seperate waveforn SEGMENTS allowing
+           you to pick which segments and mix between them
+
+  MODE 4 - will just play the sound but will also give you
+           a loop for more fun.
+
+  MODE 5 - although designed for multi-part sample playback
+           MODE 5 can be used to play parts of the
+           wavetable for added effects
+#6
+@uWAVEFORM SMOOTH@u
+
+With SMOOTH: you can add a smoothing factor to the waveform.
+This will have the effect of softening the sound. This can
+be very useful when using the ROUGH: factors.
+
+You use, just click the SMOOTH: and enter a number from 
+  0   - no smoothing
+  255 - lots of smoothing
+
+You can also uses the COMMAND:
+
+  SM,<segment>,<n>
+          where n is a number from 0 to 255
+
+@uWAVEFORM ROUGH@u
+
+With ROUGH: you can add a random rougness factor to the
+waveform. This will have make the waveform sound harsher.
+
+You use, just click the ROUGH: and enter a number from 
+  0   - no Roughness added
+  255 - lots of Roughness
+
+You can also uses the COMMAND:
+
+  RO,<segment>,<n>
+          where n is a number from 0 to 255
+#7
+@uAUTO CLAMP@u
+
+AUTO CLAMP can be set to OFF or ON.
+
+When ON and a wavefrom is calculated, the result may excede
+the available range. This is then clamped (prevented) from
+making the sound hard and nasty.
+
+When OFF and a wavefrom is calculated, any resulting values
+outside the available range will not be corrected. You will
+see the waveform do odd things and it will sound hard and
+nasty. But this may be exactly what you want!

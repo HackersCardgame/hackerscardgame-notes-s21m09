@@ -1,0 +1,148 @@
+#0Shout... Shout... Let it all out...
+#1
+The VOICE EDIT page is where you can create, extend, copy,
+paste and make mono into stereo and split stereo to mono.
+
+It is NOT a place where you edit - that would be @jePAGE 6@je
+
+    sheet:  2. @2VOICE@2 select
+
+            3. @3VOICE NAME@3 change
+
+            4. @4CREATE@4 voice
+            5. @4CREATE@4 stereo voice
+            6. @4EXTEND@4 a voice
+            
+            7. @5DELETE@5 a voice
+            8. @5NEXT FREE@5 a voice
+            9. @5STORE@5 a voice
+            10.@5RESTORE@5 a voice
+
+            11.@6MONO COMBINE@6
+            12.@6STEREO SPLIT@6
+            13.@6COPY & PASTE@6
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+@uVOICE SELECT@u
+
+Bottom right is the VOICE select box.
+It shows the names of any of the 16 available VOICES.
+
+To select a VOICE:
+
+  1. Click a VOICE name with the mouse
+  
+  2. <esc> COMMAND: Vn
+               where n: is the VOICE number 1-9 / a-h
+               
+  3. Click the VOICE: text (top right of the interface)
+
+@uEXAMPLES@u
+
+  V2<return>  - select VOICE 2
+  V,1<return> - select VOICE 1
+  V B<return> - select VOICE B
+#3
+@uTO ASSIGN A VOICE NAME@u
+
+  1. select the VOICE you want to change the name. The name
+     should appear just below the WAVEFORM display (between
+     the CREATE and COPY buttons)
+
+  2. Click the VOICE name (between to CREATE and COPY
+     buttons). The COMMAND line will become active with the
+     NAME command already entered for you.
+     type in a new name and press <return>
+
+  3. <esc> and type:
+     NAME <filename><enter>
+     where <filename is the new name for the VOICE
+
+  This simply changes the name of the voice AS LOADED - and
+  has nothing to do with the VOICE FILENAME on disk (which
+  may be changed on @j2PAGE 2@j2).
+#4
+@uCREATE VOICE@u
+
+This creates a new blank voice (with nothing in it). Use
+this when creating HARMONIC or WAVETABLE voices
+
+  C,voice,name - is the direct COMMAND:
+  
+
+@uCREATE STEREO VOICE@u
+
+This will create a new stereo blank voice (with nothing in
+it). Use this as a starting point for pating bits of other
+sounds for interesting effects.
+
+  CS,voice,name - is the direct COMMAND:
+
+
+@uEXTEND VOICE@u
+
+This extends the length of the current voice with silence.
+Use this when you want to create effects like echo and
+reverb into the sound itself.
+
+  EXT - is the direct COMMAND:
+#5 
+@uDELETE VOICE@u
+
+Deletes/removes the current voice from the system.
+
+  DEL    - is the direct COMMAND:
+  DELETE - is the direct COMMAND:
+
+
+@uNEXT FREE@u
+
+This will go to the next free voice available on the system.
+
+  VFREE - is the direct COMMAND:
+
+
+@uSTORE@u
+
+Stores the current voice position. You can RESTORE this.
+Think of this as your favorite voice.
+
+  VRESTORE - is the direct COMMAND:
+
+
+@uRESTORE@u
+
+Restores the current voice position from store.
+
+  VRESTORE - is the direct COMMAND:
+#6
+@uMONO COMBINE@u
+
+This create a stereo voice from 2 mono voices.
+The current VOICE becomes the LEFT stereo channel and the
+NEXT VOICE becomes the RIGHT stereo channel.
+This only works when 2 mono VOICES exist.
+
+  COMBINE - is the COMMAND:
+
+
+@uSTEREO SPLIT@u
+
+This creates 2 mono VOICES from a stereo VOICE. The current
+stereo voice becomes the left mono channel and the NEXT
+VOICE becomes the RIGHT mono channel.
+
+  SPLIT - is the COMMAND:
+
+
+@uCOPY & PASTE@u
+
+this allows you to copy and paste voices from one place to
+another
+
+  COPY    - is the direct COMMAND:
+  <cmd>+C - will copy a voice
+  PASTE   - is the direct COMMAND:
+  <cmd>+V - paste (create) a voice

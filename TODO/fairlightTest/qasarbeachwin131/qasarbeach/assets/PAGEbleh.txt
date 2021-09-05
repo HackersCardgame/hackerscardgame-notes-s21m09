@@ -1,0 +1,160 @@
+#0Disks and folders. Absolute, on power drive...
+#1
+The DISK page is where you load and save all data
+
+
+    sheet:  2. @2LOAD & SAVE@2 concepts
+
+            3. @3FAVORITE@3 folders
+
+            4. @4FILE LAYOUT@
+
+            5. @5SELECT@5 any loaded Voice
+
+            6. @6LOAD/SAVE@6 Instrument or Voice files
+
+
+
+
+
+
+
+
+
+ You can go to a sheet by clicking the highlighted TEXT
+ or by typing the sheet number into the COMMAND:
+#2
+@uLOAD & SAVE@u
+
+
+The DISK page is split into 2:
+
+ 1. LOAD - where you load data into QasarBeach <DML>
+
+ 2. SAVE - Where you save for later access <DMS>
+
+Both LOAD and SAVE pages use unique folders.
+
+This means the Load page can be viewing a different folder
+from the SAVE page!
+#3
+@uFAVORITES FOLDERS@u
+
+Favorites are folders that you have marked as a FAVORITE.
+
+They appear in the middle collumn  of both LOAD and SAVE
+allowing quick access to those folders.
+
+@uTo add a FAVORITE folder@u
+
+When browsing folders, you can add the current folder to
+your favorites by pressing the:
+
+ADD: Favorite button (top left)
+or use the COMMAND:
+FAV<return>
+
+@uTo remove a FAVORITE@u
+
+ 1. Select the FAVORITE folder to delete. A DELETE button
+    will appear below it.
+ 2. Click the DELETE button
+
+@uTo goto a FAVORITE folder@u
+
+ 1. Highlight the FAVORITE you want
+ 2. Click it again or press the LOAD BUTTON
+#4
+@uFILE LAYOUT@u
+
+THE Files are laid out as follows
+
+TOP (blocked out section):
+This is where you choose LOAD or SAVE, FAVORITE, goto the
+home page.
+
+On the far right is PAGE: Back Next
+Use these buttons to go to the next or previous set of files
+
+You can use the ARROW keys to move around and <page up> to
+go to the first file and <page down> to go to the last file
+
+Pressing <enter> will open a folder and 
+<ctrl>+<enter> will go up one folder or click ..
+#5
+sheet: 
+2.   FILENAMES and types$
+3.   FREE SPACE on disk0
+3.   LIBRARY number%<
+3.   SELECTING files (MULTI & CANCEL)&H
+4.   CHANGING disk, user or file namesT
+4.   QUERY command%`
+5.   SAVING instrument or voice filesl
+5.   LOADING instrument filesx
+6.   LOADING voice files
+6.   LOADING sequence files
+7.   DELETE command
+8.   TRANSFER command 
+9.   DELETE/OVERWRITE protection
+10.   KEYPAD on master keyboard
+12.   COMMAND shortcuts
+
+For HELP touch any BOX with LIGHTPEN or type: n<set>
+where: n  =  sheet no.
+For HELP with HELP PAGES, touch THIS or type: H1<return>
+FILENAMES on disk in RH drive are shown; up to 60 files may be
+seen at once.
+Displayed for each file are a FILENAME, SUFFIX> and file NUMBER.
+
+FILENAMES consist of 1-8 letters or numbers;
+the first of which must be a letter.
+A 2-letter FILE SUFFIX indicates the TYPE of file.
+Files with different suffixes may
+have the same name, but no two files on a disk will be allowed
+to have the same name AND suffix.
+\group\suffix   
+
+FILE TYPES:
+CMI files:
+.IN  -  INSTRUMENT
+.VC  -  VOICE
+.CO  -  CONTROLPAGE 7
+.SQ  -  KBD SEQUENCE
+.AI  -  A.I.C (optional)
+.PC  -  PIECE
+.PT  -  PART
+.SS  -  SEQUENCE
+.SY  -  SYSTEM
+
+TO SELECT a FILE GROUP for DISPLAY
+TYPE: LIGHTPEN:		CMI files	"-<return>4<CMI>		MCL files	"+<return>4<MCL>	ALL files (CMI + MCL)	"*<return>4<ALL><CMI is default group, displayed whenever PAGE 2 is selected.;:FREE SPACE shows size of largest single block of free disk>space. A blank disk will show 3980 free sectors. Chart of file> TYPES shows minimum required for creating files.  Sequence and*MCL files have varying sizes.5>LIBRARY NUMBER shows index number assigned to disk byGHPAGE L DISK LIBRARY.%\SELECTING FILES for LIGHTPEN COMMANDSe=fThe PAGE 2 lightpen commands all operate on files and require4pthat filename(s) be selected before using a command.<zTo select a single file, use <arrow> keys or lightpen to TAB"to the filename (illuminating it).>To select multiple files (shown by boxes around file numbers),TYPE:	)LIGHTPEN:(Choose file with <arrow> keys+Touch <MULTI>.
+	or lightpen.)+Touch desired files.Press <add> key to select file.+Touch <CANCEL> to!Press <sub> key to unselect file.	-unselect.<Descriptions below indicate these procedures with the terms:!<select file> and <select files>.<To RESET (cancel all multiple file selections) TYPE: <clear> 2>*TO CHANGE DISK NAME, USER NAME or FILENAME1First, select item with <arrow> keys or LIGHTPEN. TYPE:*<1-20 characters><set>
+*:USER NAME
+4filename<set>4:FILENAME or DISK NAME)>where: filename = 1-8 letters or numbers;H1st must be a letter.>RWhen a filename is changed it will automatically be positioned,\alphabetically within the list of filenames.pTO QUERY A FILE  TYPE:y	p*LIGHTPEN:zQ,file<return>
+z-<select file>-<QUERY>/where: file = FILENAME.SF :filename with suffix	or	file = xx:file numberEXAMPLES:  Q,JUNK.VC<return>Q,14<return><Version number, size and type will be displayed for selected:file. VOICE names within INSTRUMENT files and CONTROL file0names within VOICE files will also be displayed.'TO SAVE INSTRUMENT or VOICE FILE  TYPE:"INSTRUMENT:  S,filename.IN<return> &or*S,IN,filename<return>4VOICE:  S,filename<return>HEXAMPLE: S,ORCHY.IN<return>H!(save instrument:ORCHY)RS,FLUTE<return>R!(save voice:FLUTE),fSee PAGE 3 HELP for more about SAVE command.$zTO LOAD INSTRUMENT FILE (.IN suffix)TYPE:	&LIGHTPEN:L,filename.IN<return>
+'<select file>
+or'<LOAD>L,IN,filename<return>EXAMPLE: L,NICEINST.IN<return>L,IN,NICEINST<return>=An INSTRUMENT file will not load if any of the required VOICE<files are not found (see PAGE 3 HELP).  Use QUERY command to*see voice names within an instrument file.-2VTO LOAD VOICE FILE (.VC suffix)TYPE:	%LIGHTPEN: L,r,filename<return> '<select files>*where: r = register: "A-H"*'<select REGISTER>4'<LOAD>>EXAMPLE: L,B,TRUMPS<return>:RWhen using the lightpen, <select REGISTER> means touch the<\desired register in the REGISTER SELECTOR (inside LOAD box).=fThis determines into which register the voice will be loaded.?pThere are eight possible registers A-H depending on the setting<zof NPHONY on PAGE 3.  Empty selection boxes indicate further?possible registers. If the desired register is already selected?(illuminated) then this step may be omitted. Loading INSTRUMENT=files may change the number of available registers. Note that<multiple VOICE files may be loaded into a single register if1NPHONY has been set accordingly. See PAGE 3 HELP.+TO LOAD KEYBOARD SEQUENCE FILE (.SQ suffix)TYPE:	)LIGHTPEN:L,filename.SQ<return>
+*<select file>*<LOAD>>Loads PAGE 9 KEYBOARD SEQUENCER REPLAY FILE (see PAGE 9 HELP).yTO DELETE FILE(S) FROM DISKTYPE:	)LIGHTPEN: D,file<return> *<select files>*
+or**<DELETE>!4D,file,file,file(,...etc)<return>5>where: file = FILENAME.SF  :filename including SUFFIXHor	R
+file = xxxR:displayed number of file (eg,"17")\or/f
+file = xx-xx :range of file numbers (eg,"4-27")por&z
+file = * (asterisk) :ALL FILES ON DISK	EXAMPLES:D,THING.VC<return>$D,2,5-9,REGS2.IN,THING.CO,27<return>D,*<return>?When a file is DELETED it is permanently removed from the disk,?freeing the space it occupied. See DELETE/OVERWRITE PROTECTION.,TO CREATE a BLANK DISK  TYPE:  D,*;Y<return>=Due to the scope of this operation, two confirmation messages2will appear; reply to both by typing:   Y<return>.&ALL files on the disk will be DELETED.$2	!TO TRANSFER FILES TO ANOTHER DISKTYPE:	(LIGHTPEN: T,file<return> *<select files>*	or
+**<TRANSFER>!4T,file,file,file(,...etc)<return>3>where: file = FILENAME.SF  or  xx  or  xx-xx  or  *H(same as DELETE; see above)\
+EXAMPLES:  T,CHORUS.IN<return>fT,4-18,ABLE.VC,25<return>
+>pFiles will be copied FROM disk in RH drive (DISK A) TO another=zdisk in LH drive (DISK B).  Give TRANSFER command with system;disk in LH drive and DISK A in RH drive.  When the message:PLACE FILE DISK IN LH DRIVE8appears, place DISK B in LH drive.
+  When the transfer is=completed a final message will request the replacement of the:system disk.  If a file already exists on DISK B (has same>name and suffix as file on DISK A),
+   it will NOT be overwritten;without your consent. See also DELETE/OVERWRITE PROTECTION.*TO COPY an ENTIRE DISK  TYPE:  T,*<return>
+   =When the message appears place a BLANK file disk in LH drive.:Replace system disk when completed.  New disk will usually)show an increase in FREE SPACE available. 2	x2	DELETE/OVERWRITE PROTECTION9As a safeguard, the TRANSFER and DELETE commands will not> overwrite (write to an existing file) or delete a file without1*first requesting your confirmation.  The message:!4
+DELETE/OVERWRITE <filename> (Y)??0>will appear and the system waits for your reply.	RTO REPLY:RTYPE:\YES, go ahead.	\Y<return>fNO, skip to next7pspecified file (if any).  N<return>  (or just <return>)zNO, stop the command. zpress & hold <ctrl>, press <esc>=This will occur for EACH file to be deleted or overwritten if<more than one file is specified in the command.  To restrict9this protection to a single confirmation for all selected;files, type "<semicolon>Y" before pressing <return> for the;command.  Then reply as above to the message which appears.EXAMPLES:  D,10-19;Y<return>
+T,ANICE.VC,ANICE.CO;Y<return>2"2
+(xMUSIC KEYBOARD KEYPAD & LED DISPLAY )TYPE (on keypad):*To DISPLAY last ERROR MESSAGE:**<*>4To DISPLAY a FILENAME:4*Dxx<*>>To LOAD .IN or .SQ FILE:>*xx<*>	H.VC FILE:H*xx<*> or xxr<*>RTo display DISKNAME:R*DD<*>\To display next filename:\*D<*>"f(just like down arrow except won'tpgo past last filename)5where:  <*> = "*" on keypad - equivalent to <return>.3
+xx = FILE NUMBER on PAGE 2 (not <x> key; see below)2
+r  = REGISTER: "A-D". If register is not specified.when loading a voice, the REGISTER SELECTOR on*PAGE 2 will determine the register loaded.7note:  <x> key on keypad functions like <rubout> key to
+delete last key typed.EXAMPLES: D13<*>:DISPLAY name of file 13.32B<*>&:Load (voice) file 32 into register B.G=Keypad commands may be given from ALL standard display pages,7and cause PAGE 2 to be automatically selected. See also COMMAND SHORTCUTS.;*It is possible to execute all CMI commands using the keypad44display instead of the graphics monitor. The display>>automatically scrolls allowing you to see what you are typing.<HWhenever the CMI is waiting for a reply to a question (e.g.,=R"DELETE FILENAME.SF - Y??") the display will now show "PLEASE9\REPLY". Pressing the <*> key or <CTRL-E> will reprint the>fquestion on the keypad display. If the keypad shows "ERROR" or?p"PLEASE REPLY", the message in the status line will be printed.5zThese messages can be displayed as often as you like.ALPHA-NUMERIC commands:<<CTRL-Q>:   causes the entire command line to scroll past on:the keypad display. Useful to review a long command before+pressing <return>, or after a syntax error.;<CTRL-Z>:   will clear the command line. (Rather than using9<CLEAR> which rewrites the entire display on the graphics	display.)
+ 	2COMMAND SHORTCUTS<Loading files: All KEYPAD commands may also be typed on your= ALPHANUMERIC keyboard by using <ctrl-E> (press & hold <ctrl>,>*press <E>) instead of the keypad <*> key. This allows files to64be loaded by typing only the file NUMBER and <ctrl-E>.=>Registers A-H may also be specified when loading voice files.0HThis may be done from ANY standard display page.	REXAMPLES:\
+12<ctrl-E>  :LOAD file 12.1f
+7C<ctrl-E>  :LOAD (voice) file 7 into register C.>zAll PAGE 2 TYPED Commands: If only the 1st letter of a command=is typed followed by <return> then filenames may be chosen as.for a lightpen command ( see SELECTING FILES).	
+EXAMPLES:7To DELETE files   - <select files> then type: D<return>
+7To QUERY any file - <select file>  then type: Q<return>
+7To LOAD any file  - <select file>  then type: L<return>
+8To LOAD MULTIPLE VOICES - <select files> type: L<return>	2
