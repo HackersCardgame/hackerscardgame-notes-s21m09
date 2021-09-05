@@ -167,4 +167,9 @@ red team wäre der StGB 143, blue team wäre nur verteidigung... und verteidigun
 
 [1] pfisterer: + vermutlich <- hochmut / hohn von pfisterer, also pfisterer wäre der der neben dem terror der grad wieder gegen mcih luft versucht meine aussagen und protokoll so zu manipulieren bzw. mti dem souflee/souffleuse dann das noch so hin zu stellen als wäre ich nicht das opfer...
 
+Sun Sep  5 03:19:54 CEST 2021
+  170  1486 11255 20210905.txt
+[main 451a950] save
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+ed49607ca09880c2658c57343d4e287fbf060c230257843f3193852799821aeb04b57f54183e45b85debb22a9f790ac802597af8e01f92a302c0900269f9ced3  20210905.txt
 
