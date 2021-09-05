@@ -151,3 +151,12 @@ Sun Sep  5 03:15:27 CEST 2021
  1 file changed, 21 insertions(+)
 b151cfd432df942955939d3665119cbdb45d7297572590af5f481e2167140491219aee2aab7cb2b0255b6d0423f1b0bff7699dc4ef454e3acb6ae0e3283cafc4  20210905.txt
 
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m09$ figlet relevant: p4
+          _                       _             _  _   
+ _ __ ___| | _____   ____ _ _ __ | |_ _   _ __ | || |  
+| '__/ _ \ |/ _ \ \ / / _` | '_ \| __(_) | '_ \| || |_ 
+| | |  __/ |  __/\ V / (_| | | | | |_ _  | |_) |__   _|
+|_|  \___|_|\___| \_/ \__,_|_| |_|\__(_) | .__/   |_|  
+                                         |_|           
+
+
