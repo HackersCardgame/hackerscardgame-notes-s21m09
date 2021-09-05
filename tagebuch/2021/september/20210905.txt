@@ -119,4 +119,9 @@ ich vermute das "auf kokain fühlt man sich unbesigbar" was man immer wieder mal
 
 auf kokain ist man ignorant (dopamin metabolismus) und würde dann auch z.B. wie der tonetto den entwendeten sprengstoff irgend im aarauer nachtleben platzieren und mit hätte könnte kinder töten fühlt sich dann der tonnetto unbesiegbar
 
+Sun Sep  5 03:02:17 CEST 2021
+ 122 1059 8424 20210905.txt
+[main 0596fe2] save
+ 1 file changed, 13 insertions(+)
+904127d681306be6e5aac6a446e0813e515e37a94872ac24b5884fb6f9278b8c394617413a4f11738ce976d434c80d1a476755414a17d7e8ef46524ab339b248  20210905.txt
 
