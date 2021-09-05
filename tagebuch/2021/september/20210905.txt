@@ -159,9 +159,12 @@ marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m09$ figlet relevant: p4
 |_|  \___|_|\___| \_/ \__,_|_| |_|\__(_) | .__/   |_|  
                                          |_|           
 
-Sun Sep  5 03:16:03 CEST 2021
-  162  1356 10484 20210905.txt
-[main 65c6f0a] save
- 1 file changed, 9 insertions(+)
-c853385f03e39e3ddfde6d2a1a39f707570f5a7112dd99909345d8f3777c03533ff7c88d383377c56274e417637a629f7519d508c31730a4b71a53eb4aabd732  20210905.txt
+und da ja da schon wieder die täerschaft mit "marc jr landolt macht red team" bezichtigt, wie immer mein rat: 
+
+=> an alle jüngeren: macht nicht red team, wenn dabei ein mensch sterben würde würdet ihr euch so selber zum tod verurteilen
+
+red team wäre der StGB 143, blue team wäre nur verteidigung... und verteidigung ist verteidigung und nciht was die armee darauas gemacht haben getarntes red team mit "active forward defence" <- was dann aber auch red team wäre [1]
+
+[1] pfisterer: + vermutlich <- hochmut / hohn von pfisterer, also pfisterer wäre der der neben dem terror der grad wieder gegen mcih luft versucht meine aussagen und protokoll so zu manipulieren bzw. mti dem souflee/souffleuse dann das noch so hin zu stellen als wäre ich nicht das opfer...
+
 
