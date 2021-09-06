@@ -59,4 +59,9 @@ offiziere der schweizer armee werden darin trainiert morde an unschuldigen zivil
 ich:
 => Somit fände man das irgend in einem militär handbuch, anybody ???
 
+Tue Sep  7 00:24:51 CEST 2021
+  62  516 4046 20210907.txt
+[main 1aaecdf] save
+ 1 file changed, 7 insertions(+)
+027f23ec2e4485bd0b2a715788e41a120e2422fc5cdeaa236dd86fd75186ce5f19b667c5fb4976c3c3ac52439ffb71666e1ef48132f5fb31796c22a6f19aab69  20210907.txt
 
