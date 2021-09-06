@@ -100,4 +100,9 @@ diodorid allenfalls gar nicht in die luft geflogen, die ruag netzwerke implizier
 [1] UNBEKANNT: das war marc jr landolt der das gesprengt hat
 ich: marc jr landolt (1978) ?
 
+Mon Sep  6 12:34:34 CEST 2021
+ 103  709 5570 20210906.txt
+[main 7d9cffd] save
+ 1 file changed, 19 insertions(+)
+7921caade21cd90f0150d77c86720ba5a235df63fabf22af1fec8aa01755ab6013df0ac8bd56f7e6611e10d95589c62f634b1a42b87cb5fdc599b6887f6c8a1c  20210906.txt
 
