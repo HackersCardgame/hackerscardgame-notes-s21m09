@@ -64,4 +64,9 @@ funktionsweise der malware, alle handies und geräte wird wenn wichtiges beweism
 
 + noch 1,2,3,4 weitere interaktive nettigkeiten...
 
+Mon Sep  6 10:01:19 CEST 2021
+  67  411 3360 20210906.txt
+[main 50081f0] save
+ 1 file changed, 6 insertions(+)
+59dab2a234b401df4c12dedf95797fa39bc8fc7fea58918f44e16b78717e6b3752cd78e95ad0546996059b95fc31b1026af8e2062e1b4e74d8fcaf0b828a4d54  20210906.txt
 
