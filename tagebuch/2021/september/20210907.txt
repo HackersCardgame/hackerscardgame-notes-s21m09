@@ -67,4 +67,9 @@ Tue Sep  7 00:24:51 CEST 2021
 
 die schizophrenie diagnose die marc jr landolt (1978) von pfisterer aufgedrückt wurde ist dazu da, dass die armee die unfreiwilligen lautsprecher auf zwei beinen (Übermittlungssoldat) langfristig missbrauchen kann für ihre terrordrohungen. Problem für die  schweizer armee ist aber, dass falls das API von der guten seite gehackt wird, dass der lautsprecher dann die straftaten der armee abspielt...
 
+Tue Sep  7 01:16:20 CEST 2021
+  70  593 4706 20210907.txt
+[main 5d87bc2] save
+ 1 file changed, 3 insertions(+)
+aa759cdb67230e6fc3d8de38f1e886056a1fecf5440ce2ec45b9baae10da50270bbd8a151adcab78b0e0b5bf410b1c58b256f86527444b03d970c725c3f7a652  20210907.txt
 
