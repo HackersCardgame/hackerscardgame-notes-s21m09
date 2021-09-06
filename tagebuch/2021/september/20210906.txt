@@ -74,4 +74,9 @@ google: RUAG und andere militärs brauchen sicherheitsstufen wie "top secret" vo
 
 
 
+Mon Sep  6 10:11:12 CEST 2021
+  77  451 3766 20210906.txt
+[main 01c7340] save
+ 1 file changed, 5 insertions(+)
+ed727d1bd85de81ce599a2e398f46858d0e757d8f7e7d376d72141d0a032f322891a95ab78aebeb5a932e3ff07cb8be5d8f26d0990ee336fa7086444204c9ff5  20210906.txt
 
