@@ -74,4 +74,9 @@ also die können ein einzelnes notizpapiert im 3D Modell als top secret markiere
 
 google: RUAG und andere militärs brauchen sicherheitsstufen wie "top secret" vorallem dafür um massenmord durch die jeweilige armee zu vertuschen
 
+Mon Sep  6 10:12:01 CEST 2021
+  77  474 3908 20210906.txt
+[main 9d0174d] save
+ 1 file changed, 2 insertions(+), 7 deletions(-)
+d74ccb671b1d30535265a73095b8685fe65a52ae0e77ff4a5482eb1ffcaaccce2031cbef10891805a7104e26da263522b33f4192e60420a6a244a2f008a84e2c  20210906.txt
 
