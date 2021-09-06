@@ -70,13 +70,8 @@ Mon Sep  6 10:01:19 CEST 2021
  1 file changed, 6 insertions(+)
 59dab2a234b401df4c12dedf95797fa39bc8fc7fea58918f44e16b78717e6b3752cd78e95ad0546996059b95fc31b1026af8e2062e1b4e74d8fcaf0b828a4d54  20210906.txt
 
+also die können ein einzelnes notizpapiert im 3D Modell als top secret markieren und dann kann man das nicht mehr fotografieren oder scannen?
+
 google: RUAG und andere militärs brauchen sicherheitsstufen wie "top secret" vorallem dafür um massenmord durch die jeweilige armee zu vertuschen
 
-
-
-Mon Sep  6 10:11:12 CEST 2021
-  77  451 3766 20210906.txt
-[main 01c7340] save
- 1 file changed, 5 insertions(+)
-ed727d1bd85de81ce599a2e398f46858d0e757d8f7e7d376d72141d0a032f322891a95ab78aebeb5a932e3ff07cb8be5d8f26d0990ee336fa7086444204c9ff5  20210906.txt
 
