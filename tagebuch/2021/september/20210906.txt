@@ -50,3 +50,7 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 e54b7d9a64f26775058cefe52f4746419aef2113aff8b3990a817b4fbec787c8caf1bdaf30d02f3f3ae4fcf0cc5f6b293ceaf6c89917545769f9cafabfc9fd72  20210906.txt
 
+Ruag AG und die Schweizer armee gibt scheinbar den befehl raus, sämtliche Fotoaparate von wichtigen zeugen unbrauchbar zu machen
+bisher 6 kaptte fotoaperate / handies mit fotoaparat
+
+
