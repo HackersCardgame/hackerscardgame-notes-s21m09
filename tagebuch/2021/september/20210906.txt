@@ -76,4 +76,9 @@ google: RUAG und andere militärs brauchen sicherheitsstufen wie "top secret" vo
 
 also der herr protokoll-fälscher-polizist michael ritter der mit seinem "hahaha es pressiert" (z.B. die Daten upzuloaden über das handy) wüsste allenfalls von dem konzept und macht sich auch noch lustig über diese menschen die dann in einer solchen situation suizid bzw "selbst"mord begehen.
 
+Mon Sep  6 10:39:42 CEST 2021
+  79  517 4205 20210906.txt
+[main 542aa5a] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+79921d7b1452e71c6a88ebea9b0cedafbca1fbb3fd1f16a882979719cf2f91dfcd590af7fc58f722060fe8dc092cfe1f961583c9d46a8e3f2160191e8e15b33e  20210906.txt
 
