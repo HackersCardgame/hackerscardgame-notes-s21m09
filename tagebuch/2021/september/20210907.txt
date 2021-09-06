@@ -31,4 +31,8 @@ Tue Sep  7 00:01:14 CEST 2021
 
 dann gesucht wäre das täternetzwerk welches meine wohnung nach 6h bereits wieder mit cyber-sprengfallen pflastert im kontext zum zustand wie die wohnung grad aussieht. das würde zwingend über die ruag netzwerke gehen, die ruag könnte das ausweisen, da die ruag aber wegen mir des genozids aufgeflogen ist werden die das LOGfile vermutlcih geheim halten...
 
-
+Tue Sep  7 00:06:10 CEST 2021
+  34  337 2456 20210907.txt
+[main bb828fc] save
+ 1 file changed, 3 insertions(+)
+e0870b16b447483c659aa613639c772f354316056f74b54766b97e5676b3b590ef9f87681c3db0e09cdc49ea15c0040341cfebc739cf16cfd0797f83e3f942c5  20210907.txt
