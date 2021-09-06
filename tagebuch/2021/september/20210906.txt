@@ -53,4 +53,9 @@ e54b7d9a64f26775058cefe52f4746419aef2113aff8b3990a817b4fbec787c8caf1bdaf30d02f3f
 Ruag AG und die Schweizer armee gibt scheinbar den befehl raus, sämtliche Fotoaparate von wichtigen zeugen unbrauchbar zu machen
 bisher 6 kaptte fotoaperate / handies mit fotoaparat
 
+Mon Sep  6 09:55:00 CEST 2021
+  56  341 2726 20210906.txt
+[main a4cac9e] save
+ 1 file changed, 4 insertions(+)
+d644db27f672d63840c92449b532c7d31105df0b0462a923d318af3dd32ade5a98ce2585bb7350235181f8eba20c9feb7b409e02b2ecba794e86f5efe4126bbe  20210906.txt
 
