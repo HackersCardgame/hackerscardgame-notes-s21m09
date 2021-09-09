@@ -1,0 +1,12 @@
+Frauen zum Programmieren anstiften ???
+
++ man merkt schneller wenn man von dieser Technologie manipuliert wird
++ Tradition, siehe Ada Lovelace
+(engl: lace = Spitze, dieses Thema müsste ich aber an Ursula Landolt outsourcen 🤔🤔)
++ ist spannender als KinderÜberraschung
++ man merkt schneller wenn etwas nicht so läuft wie es sollte
+=> das handelt einem Ärger ein aber vermutlich wird das erst dann so richtig mühsam, wenn man wegen den Skills einen Milliarden-Raub einer spezifischen Firma zuordnen kann, aber das ist dann weniger ein "weil Männdlein" || "weil Weiblein", sondern mehr wegen der 1 Mia die abgeflossen wurde bzw. weil man die alten weissen Männer und alten weissen Frauen die ihre eigenen Pflanzen mit der geklauten ABB #Robitics orangefarbenen Giesskanne in flagranti erwischt hat
+
+CC: @Rajni Maurya
+
+|| <- in vielen Programmiersprachen die logische ODER Verknüpfung, also nicht das aufzählende ODER, ODER, ODER, ODER sondern Mathematik bzw Boolsche Algebra
