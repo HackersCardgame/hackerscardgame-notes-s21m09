@@ -16,3 +16,8 @@ Fri Sep 10 05:11:48 CEST 2021
  create mode 100644 tagebuch/2021/september/20210910.txt
 bf319dd5e278ce34245e84a2005ed5c6abfd6955a22aa0ea4efd041626f4de72d0388154491f71d8fca4a06ba2636466e8074ad040a6500d5da685909915439f  20210910.txt
 
+die screenshots von den letzten paar git commits, dos computer wären auch schon überwacht worden hätte ich jetzt mal spekluiert
+
+jake.playSample("a time where the internet was free") ???
+
+
