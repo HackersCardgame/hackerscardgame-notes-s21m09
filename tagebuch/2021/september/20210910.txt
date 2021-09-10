@@ -20,4 +20,9 @@ die screenshots von den letzten paar git commits, dos computer wären auch schon
 
 jake.playSample("a time where the internet was free") ???
 
+Fri Sep 10 23:02:15 CEST 2021
+  23  213 1553 20210910.txt
+[main a9db21e] save
+ 1 file changed, 5 insertions(+)
+24b7ced2289c5caca60431e4b025bf7ec9c5bb1220f89d56bec80aae48504bcdfdf18c5a38cbbfa3ad4bb180780e0b4cba88b95b90b869abb71d16447fafc1b8  20210910.txt
 
