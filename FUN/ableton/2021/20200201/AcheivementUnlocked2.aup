@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="AcheivementUnlocked2_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="13.2892290249" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Couchsofa - Achievement Unlocked - live at GPN17-couchsofa_couchsofa-achievement-unlocked-live-at-gpn17" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="586055">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b31.au" len="74771" min="-0.802122" max="0.845518" rms="0.211761"/>
+				</waveblock>
+				<waveblock start="74771">
+					<simpleblockfile filename="e0808155.au" len="262144" min="-0.734899" max="0.64294" rms="0.21329"/>
+				</waveblock>
+				<waveblock start="336915">
+					<simpleblockfile filename="e080882d.au" len="249140" min="-0.801982" max="0.850068" rms="0.214943"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Couchsofa - Achievement Unlocked - live at GPN17-couchsofa_couchsofa-achievement-unlocked-live-at-gpn17" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="586055">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080ff.au" len="74771" min="-0.786889" max="0.754291" rms="0.212574"/>
+				</waveblock>
+				<waveblock start="74771">
+					<simpleblockfile filename="e0808b0a.au" len="262144" min="-0.689823" max="0.664136" rms="0.214319"/>
+				</waveblock>
+				<waveblock start="336915">
+					<simpleblockfile filename="e08081bc.au" len="249140" min="-0.864692" max="0.822545" rms="0.216099"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
