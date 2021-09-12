@@ -103,4 +103,9 @@ zwangsmassnahemnsystem für die reiche oberschicht die sich eine ausbildung in d
 => FEDPOL / INTERPOL
 ---> da wäre dann allenfalls seit jahrzehnten ein linearer grösserer clusterfuck
 
+Sun Sep 12 07:10:34 CEST 2021
+ 106  770 4824 20210912.txt
+[main e47dfe2] save
+ 1 file changed, 7 insertions(+), 5 deletions(-)
+b50372692304205007a00efa7a50ad3fd38689c0f11a64f7ed654768ccd5dcbdb149eaa848d67bd2294ec43c31ab1fb0bfee30be2191639531ae010001aa0e80  20210912.txt
 
