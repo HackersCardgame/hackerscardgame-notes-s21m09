@@ -73,4 +73,9 @@ ignorant werden => massengräber ignorieren => nicht analysieren weshalb es ein 
 
 EMO = Verdingskind?
 
+Sun Sep 12 05:55:38 CEST 2021
+  76  610 3610 20210912.txt
+[main acbf4ac] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+666e747f5f65a73aa7b017c548e867ab7881204c5c57c4e1cd35f99d751ec29926f0e4b7e9e6bb1a3517466ebc6ec014b59fcc93c6c24bcbd0761ec5f8e548d2  20210912.txt
 
