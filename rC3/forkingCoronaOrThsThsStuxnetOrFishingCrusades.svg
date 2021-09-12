@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0482005"
-     inkscape:cx="369.20418"
+     inkscape:cx="356.80197"
      inkscape:cy="271.41754"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -252,5 +252,32 @@
        height="25.660406"
        x="-6.9118657"
        y="-20.767889" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="12.869924"
+       y="-7.4174175"
+       id="text16993"><tspan
+         sodipodi:role="line"
+         id="tspan16991"
+         style="stroke-width:0.264583"
+         x="12.869924"
+         y="-7.4174175">Handlungsunfähigkeit durch Corona</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="12.869924"
+         y="5.811707"
+         id="tspan16995" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.41015px;line-height:1.25;font-family:sans-serif;stroke-width:0.160254"
+       x="25.253275"
+       y="-0.74378401"
+       id="text17180"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.160254"
+         x="25.253275"
+         y="-0.74378401"
+         id="tspan17178">(betrifft vorallem Menschen die nicht ignorant sind)</tspan></text>
   </g>
 </svg>
