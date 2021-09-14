@@ -1,0 +1,315 @@
+
+<!-- saved from url=(0083)http://192.168.1.1/portal/web_login_bypass.html?bulletin=1?url=http://tw.yahoo.com/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Vigor Web Portal</title>
+
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<style>
+td.userpwd {
+color: #000000;
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size : 14px;
+font-weight: bold;
+}
+
+input.userpwd {
+width: 160px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+
+}
+</style>
+
+<script>
+var dest_url = "";
+var mobileHint='Block Mobile Device';
+var detectMob=false;
+var isMouseMoved=false;
+var isMob=false;
+var isAndroid=false;
+function button_change()
+{
+	            var change_button_value = document.getElementById("chagne_button").id			
+				if(change_button_value)
+				{
+				    var change_button_name = document.getElementById("chagne_button").name
+					var change_button_hidden = document.getElementById("chagne_button").value
+					if( change_button_hidden == "1" ){
+					 document.getElementById('ok').disabled=false;
+					}
+					else{
+					 document.getElementById('ok').disabled=true;
+					}
+					document.getElementById('ok').value = change_button_name;
+				}	
+}
+function readTextFile_onload(fileName1)
+{
+    var rawFile1 = new XMLHttpRequest();
+    rawFile1.open("GET", fileName1, true);
+    rawFile1.onreadystatechange = function ()
+    {	   
+        if(rawFile1.readyState === 4)
+        {		 
+            if(rawFile1.status === 200 || rawFile1.status == 0)
+            {
+                var allText = rawFile1.responseText;
+				if(allText.length ==0&& !detectMob){			  
+				  document.getElementById("url").value=getUrlValue();
+				  if(isAndroid)
+	                 document.getElementById("is_android").value=true;
+	              else
+	                 document.getElementById("is_android").value=false;
+                  document.getElementById("frm1").submit();
+				} 			               
+                else{
+                  document.getElementById("ok").style.display = ''; 
+				  document.getElementById("welcome").style.display = ''; 
+                }				  
+            }
+        }
+    }
+    rawFile1.send(null);
+}
+function readTextFile(fileName,id)
+{
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", fileName, true);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                var allText = rawFile.responseText;
+                document.getElementById(id).innerHTML=allText;
+				button_change();			
+            }
+        }
+    }
+    rawFile.send(null);
+}
+
+function init(){
+	var url =window.location.toString();
+	if( url.indexOf("?") !=-1 ) {
+		var param_values =url.substring(url.indexOf("?")+1,url.length);
+		var ary=param_values.split("&");
+		for(var i in ary) {
+			if(ary[i].split("=")[0]=="url") {
+				var param_eq = ary[i].substring(ary[i].indexOf("=")+1, ary[i].length);
+				dest_url =param_eq;
+			}
+		}
+	}
+	setTimeout(autoLinkWeb,30000);
+	date = new Date();
+	var rtick = date.getTime();
+	readTextFile('welcome_message.html?rtick='+rtick,'welcome');
+	readTextFile('bulletin_message.html?rtick='+rtick,'bulletin');
+}
+
+function autoLinkWeb() {
+	if(dest_url.match('auth_bulletin_message')!=null){
+            var replace_bulletin_url="http://www.google.com";
+				window.location.href=replace_bulletin_url;
+     }
+	else{
+	    if(isAndroid)
+	       document.getElementById("is_android_frm2").value=true;
+	    else
+	       document.getElementById("is_android_frm2").value=false;	
+		document.getElementById("frm2").submit();
+		window.location.href=dest_url;
+	}
+}
+init();
+
+
+
+
+
+function getUrlValue() {
+  var params = {};
+  window.location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(str,key,value) {
+    params[key] = value;
+  });
+
+  return params.url;
+}
+
+function submitPara() {
+	if(isMob&&detectMob){
+		return;
+	}
+	if(isAndroid)
+	  document.getElementById("is_android").value=true;
+	else
+	  document.getElementById("is_android").value=false;
+	document.getElementById("url").value=getUrlValue();
+	document.getElementById("frm1").submit();
+
+}
+function submitPara_onload() {
+readTextFile_onload('bulletin_message.html');
+
+}
+</script>
+
+</head>
+<body onload="submitPara_onload()">
+<form id="frm1" action="/cgi-bin/mainfunction.cgi" method="POST">
+<table border="0" height="100%" width="100%">
+	<tbody><tr>
+		<td>
+			<div id="welcome" style="display:none" align="center"><center><h1><b><font color="red"></font></b></h1></center></div>
+			
+			<div id="bulletin" align="center"><center><h1><b><font color="red"></font></b></h1></center></div>
+			
+			<table align="center" border="0">
+			<tbody><tr>
+				<td colspan="2">
+					<table align="center" border="0" cellpadding="2" cellspacing="0" width="80%">
+					<tbody><tr>
+						<td colspan="2" align="center">
+							<input type="hidden" name="action" value="web_portal_bypass_ok">
+							<input type="hidden" name="url" id="url">
+							<input type="hidden" name="is_android" id="is_android">
+							<!-- <input type="button" id="ok" style="display:none" value="OK" onclick="submitPara()"> -->
+							<input type="button" id="ok" name=ok style="display:none" value="OK">
+						</td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+</form>
+
+
+
+<script>
+	
+var isNav = ( navigator.appName.indexOf( "Netscape" ) != -1 );
+var isIE = ( navigator.appName.indexOf( "Microsoft" ) != -1 );
+var isOpr = ( navigator.appName.indexOf( "Opera" ) != -1 );
+var f = document.getElementById("frm1");
+initPage();
+function initPage()
+{
+	
+    if (self != top) top.location = "web_login_bypass.html";
+	if(detectMob){
+		addBlockMobileHandlers(document.getElementById("ok"));
+	}
+	else{
+		addhandlers(document.getElementById("ok"));
+	}
+    var userAgent = navigator.userAgent;
+ 
+     if(/Android/i.test(userAgent)){
+	    isAndroid=true;
+	 }
+	if(detectMob){
+		if(isMobile()){
+			isMob=true;
+			blockMobile();
+		}
+		else{
+			console.log("add onMouseMove event");
+			document.body.onmousemove=onMouseMove;
+		}
+    }
+}
+function onMouseMove()
+{
+	isMob=false;
+	document.getElementById("ok").style.display = ''; 
+	isMouseMoved=true;
+	document.body.onmousemove=null;
+}
+function blockMobile()
+{
+	if(isMouseMoved){
+		isMob=false;
+		return;
+    }
+	isMob=true;
+	document.getElementById("ok").disabled=true;
+	document.getElementById("ok").style.display = 'none'; 
+	alert(mobileHint);
+}
+
+function getURL(){
+	var strFullPath=window.document.location.href;
+	var strPath=window.document.location.pathname; 
+	var pos=strFullPath.indexOf(strPath); 
+	var prePath=strFullPath.substring(0,pos); 
+	var postPath=strPath.substring(0,strPath.substr(1).indexOf('/')+1); 
+	return strFullPath
+} 
+
+function getUrlParams() {
+  var params = {};
+  window.location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(str,key,value) {
+    params[key] = value;
+  });
+ 
+  return params;
+}
+
+function handler (_e )
+{
+    var e = _e, elmt, type;
+    if (isNav) {elmt = e.target; type = e.type; keycode = e.which;}
+    if (isIE || isOpr) {e = window.event; elmt = e.srcElement; type = e.type; keycode = e.keyCode;}
+
+    if (isIE) {
+        if (elmt.type == "text")
+            e.cancelBubble  = false;
+        else
+            e.cancelBubble  = true;
+    }
+
+    if ((type == "click" || type == "mouseup")) {
+		submitPara();
+    }
+
+    if (type == "keydown") {
+    	if (keycode == 13) {  //Enter
+    		e.returnValue = false;
+			submitPara();
+		  }
+    }
+}
+/* which event can be catch by handler */
+
+function addhandlers(_o)
+{
+    var o = _o;
+    o.onclick = handler;
+    o.onkeydown = handler;
+}
+function addBlockMobileHandlers(_o){
+	var o = _o;
+	o.ontouchstart = blockMobile;
+    o.onmouseup = handler;
+}
+function isMobile()
+{
+	var mobiles = new Array("midp", "j2me", "avant", "docomo", "novarra", "palmos", "palmsource","240x320", "opwv", "chtml", "pda", "windows ce", "mmp/", "blackberry", "mib/", "symbian", "wireless", "nokia", "hand", "mobi", "phone", "cdm", "up.b", "audio", "sie-", "sec-", "samsung", "htc", "mot-", "mitsu", "sagem", "sony", "alcatel", "lg", "eric", "vx","NEC", "philips", "mmm", "xx", "panasonic", "sharp", "wap", "sch","rover", "pocket", "benq", "java", "pt", "pg", "vox", "amoi","bird", "compal", "kg", "voda", "sany", "kdd", "dbt", "sendo","sgh", "gradi", "jb", "dddi", "moto", "iphone", "android","iPod", "incognito", "webmate", "dream", "cupcake", "webos","s8000", "bada", "googlebot-mobile");
+    var ua = navigator.userAgent.toLowerCase();
+    var isMobile = false;
+    for (var i = 0; i < mobiles.length; i++) {
+        if (ua.indexOf(mobiles[i]) > 0) {
+            isMobile = true;
+            break;
+        }
+    }
+	return isMobile;
+}
+</script>
+
+</body></html>
