@@ -22,4 +22,9 @@ db8b35e42e15722da2c26eed208ea300318d9d62835a87f5028def0ba854457c11410f6967a8ca8a
 dann hat margrit jeweils gesagt: "du musst die zuerst selber lieben marc jr" 
 das wäre vermutlich für margrit selber gewesen und somti RE: "Margrit Du musst Dich zuerst selber lieben && Du wirst Dir auch für 100Mia Geld ein reines gewissen kaufen können"
 
+Wed Sep 15 03:31:22 CEST 2021
+  25  203 1360 20210915.txt
+[main 8fd246c] save
+ 1 file changed, 4 insertions(+)
+57224e9d0a8dd0cebfbafc33f254f98fdacae4c25f045742c461bedba104ef35421cc59b08957603fd916b2a5c7a9fb6f1a770272f53f8172d3bc18cc11824e2  20210915.txt
 
