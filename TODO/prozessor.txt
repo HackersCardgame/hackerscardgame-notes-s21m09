@@ -1,0 +1,157 @@
+Halli Hallo Prozessor
+
+
+kleine Frage:
+= = = = = = =
+Ohne Impfung aber mit Maske geht auch oder nicht in den Innenräumen?
+
+
+
+Idee für den Musik Raum:
+= = = = = = = = = = = = 
+
+★ der "Look Mom No Computer" (hat Patreon, ich bezahle dem 2.-- pro Month) hat oft viele tolle Ideen. Mein Favourit von ihm ist das Furby 1.0 Piano. (lookMomNoComputer-ideen.PNG)
+
+https://www.youtube.com/watch?v=RqAxMK_cz88
+
+
+★ Modularer Synthi (modulars.png) oder Gitarren-Verzerrer/-Effekte selber basteln zB. mit Arduino (arduinoModularSynthesizer.png)
+
+★ Mastering Kurs, z.B. in Reason11 ist das sehr übersichtlich angeordnet (masternFuerAnfaenger.png)
+
+
+
+
+=> Pädagogischer Wert:
+
+☆ Elektronik lernen
+
+☆ Kreativ, Musik (i wanna be a Rockstar)
+
+☆ Mathematik :: Kurvendiskussion lernen, sobald man mal mit Musik-Kurven draus kommt, ist das mit den Plot's in der Mathematik auch einfacher
+
+
+
+
+Meine Meinung zu Hardware und CO2:
+---------------------------------
+Hardware mit richtigen Fader, Potentiometern etc. (fuerAnfaengerHardwareSynthiSinnvoll.png) wie ich damals den Korg Z1 ist zum effizienten intuitiven Lernen was jetzt eine Hüllkurve (ADSR), Filter, Cutoff ist besser als z.B. mit VST's wo man stundenlang suchen muss wo ist jetzt das wieder versteckt.
+
+Heute mache ich alles mit VST's [2] weil dann habe ich mit meimem Laptop immer alles dabei und auch wegen der Umwelt, Software verursacht meist weniger CO2 als Hardware.
+
+[2] bzw. unter Linux gibt es zB. LV2. 
+
+LG
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+
+
+PS: und ja da hat es einen Polizisten im Empfänger, der ist ca 10 Jahre jünger als ich, arbeitet bei der Internet-Fahndung. Meiner Meinung nach ein einstieg Hacker zu werden, und wenn man z.B. schaut wie lange schon die Deutschen Fahnder Menschen suchen die Programmieren können allenfalls sinnvoll auch der Polizei meinen Weg nicht vor zu enthalten.
+
+
+
+Am 14.09.2021 um 20:43 schrieb Prozessor Aarau:
+> Ab sofort gilt in den Innenräumen des Prozessors die Zertifikatspflicht.
+> E-Mail im Browser anschauen 
+> <https://mailchi.mp/9e16fbcfa1f1/der-prozessor-ffnet-wieder-14808683?e=1a4e8ccc47>
+> 
+> Ihr Lieben
+> 
+> Als Freizeitbetrieb und gemäss den behördlichen Bestimmungen gilt in den 
+> Innenräumen während der offiziellen Öffnungszeiten des Prozessors _ab 
+> sofort_ die Zertifikatspflicht. Die Alternative wäre, den Prozessor 
+> wieder ganz zu schliessen. Das möchten wir nicht.
+> 
+> Wir bemühen uns, möglichst pragmatisch mit der Situation umzugehen.
+> 
+> So viel wissen wir bis jetzt:
+> 
+> *Du bist älter als 16 Jahre, mit oder ohne Prozessor-Abo:*
+> - Wir bitten dich dein Zertifikat und einen Ausweis mitzubringen. Dafür 
+> besteht dann für dich in den Räumlichkeiten keine Maskenpflicht mehr; du 
+> kannst sie aber selbstverständlich aufbehalten, wenn dir das lieber ist.
+> - Du hast kein genesen/geimpft-Zertifikat? Dann benötigt es einen 
+> negativen Test und einen Ausweis. Gültig sind PCR-Tests (72h gültig) und 
+> Antigen-Schnelltests (48h gültig), Selbsttests dürfen wir leider nicht 
+> akzeptieren.
+> 
+> *Jugendliche zwischen 12 und 16 Jahre, mit oder ohne Prozessor-Abo:*
+> - Du brauchst kein Zertifikat, dafür besteht für dich im Prozessor die 
+> Maskenpflicht.
+> 
+> *Kinder unter 12 Jahren:*
+> - Für euch besteht weder Zertifikats- noch Maskenpflicht.
+> 
+> *Personen mit einem Prozessor-Abo, über 16 Jahre alt, ohne Zertifikat ab 
+> Oktober:*
+> - Du hast ein Abo, aber kein Zertifikat (und/oder Attest für ab 
+> Oktober)? Schreib uns eine E-Mail auf info@prozessor-aarau.ch, wir 
+> bemühen uns eine gemeinsame Lösung zu finden.
+> 
+> Du befindest dich in keiner der obengenannten Situationen? Oder hast du 
+> andere Fragen/Anliegen? Melde dich per E-Mail bei uns, wir bemühen uns 
+> mit dir zusammen eine Lösung zu finden.
+> 
+> Die Situation kann (und wird sich wahrscheinlich) wieder ändern. Wir 
+> geben uns Mühe, zeitnah und möglichst unkompliziert Anpassungen zu 
+> kommunizieren.
+> 
+> 
+> Herzlichst
+> Euer Prozessor-Team
+> 
+> Michelle, Fabian, Roman, Silvio, Max, Roger und Moritz
+> 
+> ps. Die in den Räumlichkeiten eingemieteten Projekte haben nochmals 
+> andere Bestimmungen, je nachdem ob es sich um offene Veranstaltungen 
+> oder geschlossene/vordefinierte Gruppen handelt. Wenn du also bei einem 
+> in den Räumlichkeiten des Prozessors eingemieteten Projekt engagiert 
+> bist, wende dich bitte direkt an die zuständigen Personen.
+> 
+> 
+> ---------------------------------------------
+> 
+> _Veranstaltungshinweis (externe Veranstaltende):_
+> 
+> Am Sonntag, 26. September veranstaltet Jass 
+> <https://prozessor-aarau.us20.list-manage.com/track/click?u=cc59c63534f69b2f726d5c450&id=21bd0f840e&e=1a4e8ccc47> Grenzenlos 
+> Geniessen im Prozessor.
+> <https://prozessor-aarau.us20.list-manage.com/track/click?u=cc59c63534f69b2f726d5c450&id=0aa296b805&e=1a4e8ccc47>
+> Hast du Lust dabei zu sein? Melde dich bis zum 22. September an!
+> 
+> Prozessor Instagram 
+> <https://prozessor-aarau.us20.list-manage.com/track/click?u=cc59c63534f69b2f726d5c450&id=0564266edf&e=1a4e8ccc47> 
+> 
+> 
+> Prozessor Facebook 
+> <https://prozessor-aarau.us20.list-manage.com/track/click?u=cc59c63534f69b2f726d5c450&id=4c9da673ec&e=1a4e8ccc47> 
+> 
+> 
+> Prozessor Aarau 
+> <https://prozessor-aarau.us20.list-manage.com/track/click?u=cc59c63534f69b2f726d5c450&id=430a9c5633&e=1a4e8ccc47> 
+> 
+> 
+> /Copyright © 2021 Prozessor/
+> Du erhälst diese E-Mail weil du dich via Formular auf der Webseite 
+> eingeschrieben oder beim Crowdfunding teilgenommen hast.
+> 
+> Prozessor Erlinsbacherstrasse 34 Aarau 5000 Switzerland
+> Zum Adressbuch hinzufügen 
+> <https://prozessor-aarau.us20.list-manage.com/vcard?u=cc59c63534f69b2f726d5c450&id=e60d764675> 
+> 
+> 
+> Ändern, wie Du diese E-Mails erhältst?
+> Du kannst deine Einstellungen ändern 
+> <https://prozessor-aarau.us20.list-manage.com/profile?u=cc59c63534f69b2f726d5c450&id=e60d764675&e=1a4e8ccc47&c=edc31ec902> oder 
+> dich vom Newsletter abmelden 
+> <https://prozessor-aarau.us20.list-manage.com/unsubscribe?u=cc59c63534f69b2f726d5c450&id=e60d764675&e=1a4e8ccc47&c=edc31ec902>.
+> 
+> Email Marketing Powered by Mailchimp 
+> <http://www.mailchimp.com/email-referral/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=referral_marketing&aid=cc59c63534f69b2f726d5c450&afl=1> 
+> 
+> 
