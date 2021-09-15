@@ -92,4 +92,9 @@ dann binomial / pascalsches dreieck
 
 Remo huggler würde mit zaubertabak / zauber schnupftabak in iregnedwelchem militräsich aussehendem equipment cyberwaffen auslösen <- das wurde ganz am anfang eingeblendet und ist vermutlcih ein "additional unlock" für fremdspurlegung zu jüngeren
 
+Thu Sep 16 01:32:54 CEST 2021
+  95  538 4103 20210916.txt
+[main 824871b] save
+ 1 file changed, 6 insertions(+)
+c29583182a237b0da0819629a4199dff81bccbb7e5890fbc6fa47081c5d78d69df9658f7a9d5bb91bfd83450a59590e041d83137b5c7531236900af559404c9a  20210916.txt
 
