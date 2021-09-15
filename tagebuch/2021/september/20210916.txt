@@ -81,4 +81,9 @@ Marketing Firmen hätten im normalfall auch ein motiv die Neurologie Access code
 2. alleged Leak:
 es gibt scheinbar in meinem kopf ein modell für eigene körperwahrnehmung / selbstbild wo grad jemand dram herumfummelt, somit tippe ich darauf dass die neurologin myrtha pfisterer und der mongo hansjürg bettvorleger pfisterer grad wieder die access codes habne und [1.] wäre nur das "such das stöckchen bei marketing firmen"
 
+Thu Sep 16 01:30:00 CEST 2021
+  84  481 3558 20210916.txt
+[main 7847c5a] save
+ 1 file changed, 9 insertions(+)
+55e44f0e1f5f79b7e9dea8e771a84603d27c559caf23dc4760c635d19e4c454a76b2ae9983afd3fffef0d964cececfffdc30d7b9a75d3d565af45d3342233a46  20210916.txt
 
