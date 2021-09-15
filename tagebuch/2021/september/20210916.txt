@@ -44,4 +44,9 @@ die herren urs blum, pfisterer verraten somit dass die ranghöheren auf bundeseb
 
 [6] abräumen <- pfsiterer oder urs blum
 
+Thu Sep 16 01:11:25 CEST 2021
+  47  265 1872 20210916.txt
+[main c17968c] save
+ 1 file changed, 28 insertions(+)
+6207ddfeeb6316a4ec4d2cb0b00d401c0cb9935d1034dd5aca6841fad012b4d74267ac5f780ed6654751974ab19e9da393a8bf37d2a5bb6ec746cbd6c5c5c0b5  20210916.txt
 
