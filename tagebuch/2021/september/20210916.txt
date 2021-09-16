@@ -193,4 +193,9 @@ je 1000 solchen personen
 je 10000 solchen personen 
 je 100000 solchen personen <- maximal im Aargau
 
+Thu Sep 16 05:30:09 CEST 2021
+ 196 1137 9067 20210916.txt
+[main f5c37c7] save
+ 1 file changed, 21 insertions(+)
+38ba68d5986e59d009d2660e9637c0ec19381e96cce0d3ac2295ce20294336888047f4cc1e69cca81950c37187c21a83091fc0fbda6fd7f1d943279f784631ee  20210916.txt
 
