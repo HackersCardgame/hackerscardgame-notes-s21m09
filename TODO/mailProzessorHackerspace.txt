@@ -1,0 +1,103 @@
+NICE, musste ich grad in meine Education youtube Playlist nehmen
+
+selber habe ich leider zu wenig Zeit für solches, dennoch definitiv etwas Sinnvolles um den Einstieg in Elektronik zu finden.
+
+
+Falls das jemanden interessiert:
+
+Elektronik bis CPU im FastForward:
+==================
+
+1. Kosmos X1000 Baukasten: Blinklicht => 2 Transistoren
+
+2. MonoFlop mit Transistoren basteln
+
+3. FlipFlop mit Transistoren basteln
+
+4. FlipFlop aus AND/NAND/NOR... selber bauen 
+(zB Ungetaktetes RS-Flip­flop aus NAND-Gattern)
+
+5. Schieberegister aus FlipFlop bauen, zB
+(74xx74, 74xx76, 74xx79)
+
+6. >>> YAY, ich weiss jetzt was ein Schieberegister ist, somit kann ich mir jetzt auch ungefähr vorstellen was ein Register in einer CPU ist, siehe eAX, eBX, eCX, eDX
+
+
+meist erst ab Terziäre BildungsStufe (oder auch schon HF)
+
+7. Rechner Architektur
+
+- Weshalb hat RAM/ROM einen 
+ - DatenBus Anschluss
+ - AddressBus Anschluss
+ - SteuerBus (read/write) (Tri-State (Three-state logic))
+
+- aha das Ram wird über den Daten/Adress/Steuerbus am CPU angeschlossen
+
+
+
+Vintage_Computing_mit_C64_war_meine_Kruecke_um_den_Einstieg_zu_finden.png
+
+
+=> Das hab ich nur rasch gegoogelt, gibt bessere Diagramme, vor allem fehlt da der Steuerbus dass das RAM weiss, muss ich jetzt Lesen, Schreiben oder gar nichts tun
+
+=> wenn man grad mit heutigen CPU's anfangen würde, würde man den Baum vor lauter Wald nicht sehen. Das C64 Schema zu nehmen ist viel einfacher um das Konzept zu lernen.
+
+- 
+
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m09$ figlet Stefan :
+ ____  _        __
+/ ___|| |_ ___ / _| __ _ _ __    _
+\___ \| __/ _ \ |_ / _` | '_ \  (_)
+ ___) | ||  __/  _| (_| | | | |  _
+|____/ \__\___|_|  \__,_|_| |_| (_)
+
+
+Ich wollte zuerst FORDERUNG schreiben, aber so ist es eigentlich fast noch manipulativer:
+
+FALLS der Stefan-Uni-Bern-Informatik-ANGEBER-TITEL-Ott mehr Zeit hat als ich könnte man da ja eine Vorlesung mit schönen Grafiken draus basteln.
+
+ConsumerNote:
+wie als wir ca 14 Jahre alt waren, dem Gleichaltrigen keine Beleidigung, keinen doofen Spurch und nichts so ersparen aber wissen: 
+
+Spass, Zuneigung [1], es lustig haben, sich zum gegenseitig zum Lernen anspornen [2], blöd und jung genug zu sein zu denken die Welt wäre ein schöner Ort ... aber sobald man weiss dass die 1980er gegeneinander ausgespiet wurden von Kind auf kann man zumindest unter den Gleichaltrigen wieder liebevoll [1] blöd tun. 
+
+--- aber das wäre dann wieder eine Psychologie-Vorlesung und nicht Informatik.
+
+[1] ein Wort das aber >> Männer << definitiv nicht verwenden
+
+[2] WM[b] greets die sich antreibenden Sternchen von "Farbrausch & Neuro - Masagin (HD Stereo)"
+
+unknown von WM[a]:
+Arduino um das zu lernen ?
+
+ich:
+afaik ist unknown von WM[a] eine >> FLASCHE <<, weil Arduino ist ein SoC, somit sieht man da Ram, AdressBus, DatenBus sowieso nicht weil das zusammen alles in einen Chip gewurschtelt wurde ... ausserdem VerwechslungsGefahr von GPIO's mit Adress/DatenBus ...
+
+... bzw. vernünftigerweise würde man jetzt schauen ob man da die DetailPläne des Arduino SoC / CPU's wo dann das Ram doch ausgewisen würde findet, finde ich aber auf die Schnelle nicht. Das wäre dann aber eine Vorlesung ChipDesign ...
+
+
+FUN:
+technische-physikalische-stromrichtung.png
+
+
+@ Amsler:
+- ich erachte das Projekt "Nerden-Partei" als einen Zielhang für Satan
+- Zitat: "Ein Buch vom C64 wo alles drin steht"
+(Insider bei den Piraten)
+
+
+
+LG
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+
+
+Am 16.09.2021 um 11:02 schrieb info@prozessor-aarau.ch:
+> Für den Synthesizer-Bau kann ich dir noch folgenden Channel empfehlen:https://www.youtube.com/channel/UCzfW6SlNEyxmAPtdr3n-_Og  da möchte ich mich auch mal etwas damit auseinandersetzen.
