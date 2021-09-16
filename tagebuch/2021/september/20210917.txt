@@ -90,4 +90,10 @@ zB. kann man das je nach rechtssystem auch richtig produzieren
 
 aussergrad läuft dem DEFCON5 for the moment
 
+Thu Sep 16 22:01:16 CEST 2021
+  93  982 6696 20210917.txt
+[main b218d4f] save
+ 1 file changed, 93 insertions(+)
+ create mode 100644 tagebuch/2021/september/20210917.txt
+50edaeb6456018014d9cc55576ec3d01c9f2e3ae4c260f10728339995199d9fa7625a1fa17a4968d3eb183b6aeffa28caf551f8016bfbeab5faeec26b3333f45  20210917.txt
 
