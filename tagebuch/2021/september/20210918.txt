@@ -23,7 +23,11 @@ das wäre aber eigentlich eher atypisches verhalten von mir gewesen, sonmit verm
 1. fehlt in meiner kasse ca 0.5 Mio {1}
 
 
-{1} das würde implziieren, dass ich von jemand der z.B. eine Pistole und Kokain von der schweizer armee bekommen hat [To] [FM], zugriff auf ein militärisches Mainframe und [4]
+{1} das würde implziieren, dass ich von jemand der z.B. eine Pistole und Kokain von der schweizer armee bekommen hat [To] [FM], zugriff auf ein militärisches Mainframe und [4] und einen zauberspruch wie "ich wünsche mir" [7] 
+
+
+
+2. <-
 
 #define [FM] [FontMalware] 
 
@@ -34,3 +38,7 @@ das wäre aber eigentlich eher atypisches verhalten von mir gewesen, sonmit verm
 [5] THS Typo terronNERZwerk 
 
 [6] *epilepsie* und georg landolt fft mixed mit chritsian tanner: astrid blum geht drauf <- vermutlcih tarnung von astrid
+
+[7] lyrics patent ochsner CD <- die [8]
+
+[8] [5] glaudine ist ein gloon
