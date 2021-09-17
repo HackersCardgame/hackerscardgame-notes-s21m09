@@ -211,4 +211,9 @@ coping strategie eines landes dsas von usa unterwandert wurde wäre es auf kinde
 
 nach oben ducken, nach unten treten, hat der lehrer an der ABB TS im ersten semster auch so gesagt...
 
+Fri Sep 17 07:14:00 CEST 2021
+  214  1879 13382 20210917.txt
+[main a2c429c] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+340bbfd349a14a5dce09dec81ab5e7f3c03c3c14f84136917f190f70614b1db4387a66ec3556a1fe12e1463be476aaab35c5fff24f0db3ec5bbe34706861b600  20210917.txt
 
