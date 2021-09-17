@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.9113075"
-     inkscape:cx="153.88275"
-     inkscape:cy="1044.5478"
+     inkscape:zoom="1.4556538"
+     inkscape:cx="16.487437"
+     inkscape:cy="941.15788"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="1911"
@@ -18101,11 +18101,17 @@ umH//7Hh/+7n/67l//8BfYgN022R+A4AAAAASUVORK5CYII=
 "
        id="image832"
        x="-108.22644"
-       y="74.876534" />
+       y="74.876534"
+       inkscape:export-filename="C:\Users\marc\path869.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -4.362301,299.18115 c 2.6325285,1.0832 5.4355141,6.02008 7.6340268,3.99878 4.0329421,-3.70786 7.5147982,-4.73749 10.9057522,-3.99878 0.48817,0.10635 0.990218,0.17798 1.454101,0.36353 2.068438,0.82736 4.459473,1.12937 6.179926,2.54466 5.693404,4.68353 10.611106,3.01236 17.449206,-2.18115 2.014944,-1.53034 4.783629,1.71487 7.270501,2.18115 1.548294,0.2903 4.389742,-1.53901 4.725826,0 2.225215,10.18978 3.663957,0.71164 5.452875,0 1.038061,-0.41295 2.644085,0.19716 3.271726,-0.72705 3.43005,-5.05078 6.654366,-2.70924 6.179926,0 -1.091445,6.23258 8.729889,8.22084 13.813953,2.18115 0.493537,-0.5863 1.433023,-0.56079 2.181151,-0.72705 2.450756,-0.54459 -0.04643,0.56851 1.817627,-0.36351"
        id="path869"
-       sodipodi:nodetypes="cssssssssssssc" />
+       sodipodi:nodetypes="cssssssssssssc"
+       inkscape:export-filename="C:\Users\marc\path869.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
