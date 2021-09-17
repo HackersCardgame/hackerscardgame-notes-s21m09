@@ -264,9 +264,9 @@ Fall 3:
 
 1. A1 & B1 = Treu
 2. unfreiwillige Trennung der Beiden
-3. still alive
+3. still alive, aber unsicherheiten zu {1.} vermutlich vorsätztlich produziert
 
-das wäre jetzt wriklcih etwas für ein karnaugh diagram
+=> das wäre jetzt wriklcih etwas für ein karnaugh diagram, in diesem fall wäre Sex ein Carnaugh Dont care feld
 
 
 [3] david utz: die wirtschaftsspionage hat sabrina lüthi umgebracht <- ich: fresse david, konzeptwissen wichtiger als deine morde schön zu reden
