@@ -4,7 +4,7 @@ Fri Sep 17 23:55:05 CEST 2021
 
 Stat-Machine Pavlow Stimuli
 
-[1] [1] [1] [1] [1] [1] [2] [3]
+[P]: [1] [1] [1] [1] [1] [1] [2] [3]
 
 
 [1] Pavlov stimuil
@@ -14,10 +14,23 @@ Stat-Machine Pavlow Stimuli
 
 -> wenn der polizist weiss, dass das nicht seine zuaber-pistole ist, dann wird er amok laufen, somit muss dieser polizist entwaffnet werden von einer nicht straffälligen amtsperson
 
-Sat Sep 18 01:17:32 CEST 2021
- 17 112 689 20210918.txt
-[main 67b74c2] save
- 1 file changed, 17 insertions(+), 22 deletions(-)
- rewrite tagebuch/2021/september/20210918.txt (67%)
-8d8ac9f537a9e8c02b50fb5818e3c1d860340d1a3397ce81f80069a43a411999a3c41e6bd425d04132c015ad94f97ae0a58c66c0d62bd2561cdf6a4229597fa4  20210918.txt
 
+
+ca 2005 habe ich t-shirts bei thinkgeek gekauft, ich wollte auch eine jedi robe bestellen, habe das aber nciht bestellt [P] ausserdem hatte es da noch so blink magnete mit LED wo übergelagert wurde, dass das virtuelle sprengfallen seien [Ti] dass wenn ich diese bestellen würde ich dann das irgendwo hinkleben könne und mir damit macht erlange
+
+das wäre aber eigentlich eher atypisches verhalten von mir gewesen, sonmit vermute ich dass das jemand anderes wollte
+
+1. fehlt in meiner kasse ca 0.5 Mio {1}
+
+
+{1} das würde implziieren, dass ich von jemand der z.B. eine Pistole und Kokain von der schweizer armee bekommen hat [To] [FM], zugriff auf ein militärisches Mainframe und [4]
+
+#define [FM] [FontMalware] 
+
+[FM] fokus auf Dokument formatierung <- könnte astrid sein]
+
+[4] mansplaining <- würde das ganze in eine gender debatte trizen, und vom militärischen [5] netzwerk ablenken [6]
+
+[5] THS Typo terronNERZwerk 
+
+[6] *epilepsie* und georg landolt fft mixed mit chritsian tanner: astrid blum geht drauf <- vermutlcih tarnung von astrid
