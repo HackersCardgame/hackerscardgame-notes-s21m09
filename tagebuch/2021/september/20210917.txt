@@ -302,4 +302,9 @@ vor ca 3 minuten hat jeamnd vermutlich eine pistole in der wonhung/schlafzimmer 
 
 ausserdem könnte es sein, dass die nciht nuir im 13 stock renoviert haben sondern gedeckt-getarnt auch im 11. stock
 
+Fri Sep 17 22:33:28 CEST 2021
+  305  2585 18068 20210917.txt
+[main 502923e] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+2e96e2e146c76a56c8a946703c06335d5aee41102129c3e6259c3bed142a5376aee3776647eb56aec5a52d7f6c2009bf1d2e5499e1d5668c4385d01c490d0bf0  20210917.txt
 
