@@ -300,4 +300,9 @@ für alle glechaltrigen und jüngeren:
 
 vor ca 3 minuten hat jeamnd vermutlich eine pistole in der wonhung/schlafzimmer oben an mir fallen lassen, die akkustische signatur verrät aber auch, dass die da nciht lamitant oder parkett oder teppic boden haben sondenr vermutlich ganz bonziges stein boden zeugs
 
+Fri Sep 17 22:32:14 CEST 2021
+  303  2566 17950 20210917.txt
+[main e061798] save
+ 1 file changed, 2 insertions(+)
+b5602d1d7b2b27513bd317fa6436a317b74ba63c94e70ac0160d10329337966b44e5370bdd37ae577f0e7502b9b4738154fce3c813c242d90db24f45c0567920  20210917.txt
 
