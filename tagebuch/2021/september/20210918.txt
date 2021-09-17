@@ -10,13 +10,8 @@ Stat-Machine Pavlow Stimuli
 [1] Pavlov stimuil
 [2] phantom-tropfen z.B. am bein
 
-[3] auf dem WC putzen gehen => redet dem polisizten ein er sei super duper, und seine pistole bewirke die drohung
-->wenn der polizist weiss, dass das nicht seine zuaber-pistole ist, dann wird er amok laufen, somit muss dieser polizist entwaffnet werden von einer nicht straffälligen amtsperson
+[3] auf dem WC putzen gehen => redet dem polisizten ein er sei super duper, und seine pistole bewirke die drohung und ich werde so in einen bestimmten raum gesteuert, urs blum: somit hat jemand in diesem raum oder in der wohung [epilepsie] oben/unten dran einen sprengfalle installiert die über die ruag netzwerke gezündet werden kann
 
+-> wenn der polizist weiss, dass das nicht seine zuaber-pistole ist, dann wird er amok laufen, somit muss dieser polizist entwaffnet werden von einer nicht straffälligen amtsperson
 
-Sat Sep 18 01:16:07 CEST 2021
- 17  76 465 20210918.txt
-[main 14308f3] save
- 1 file changed, 14 insertions(+)
-800153bc7946df20c18b5282afbc9a11b8e2f8b4dd0b2d613b8732266eeee2ae7af00a09c40df157de553fc1045c416e31c636e426cf6746890981c609ba775e  20210918.txt
 
