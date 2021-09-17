@@ -278,7 +278,7 @@ Fall 3:
 
 pfisterer würde die gleichung jetzt gerne um die parameter homo/hetero erweitern
 
-1. so versucht pfisterer einen Briain-dDOS zu erzeugen
+1. so versucht pfisterer einen Brian-dDOS zu erzeugen
 2. es wäre carnaugh dont care
 3. er würde so eigentlich sowohl homo als auch hetero beleidigen
 
