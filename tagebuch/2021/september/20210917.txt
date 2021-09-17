@@ -233,4 +233,9 @@ ich bin mir nicht ganz 100% sciher, aber all diese menschen die das ***ualitäts
 
 korrekterweise wäre es nicht "sex und porno treibt menschen in den suizid" sondern "untreue treibt menschen in den suizid"
 
+Fri Sep 17 18:29:27 CEST 2021
+  236  2145 15170 20210917.txt
+[main 62571ec] save
+ 1 file changed, 8 insertions(+)
+79b48f7eab3e4a6df57376abaac1f7247c30b190423c2de4f064556722a59a733fae670deeca52def8342fca156a2636ded6525891b617adb8e4798342786e9f  20210917.txt
 
