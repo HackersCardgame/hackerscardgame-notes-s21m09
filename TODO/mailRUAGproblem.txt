@@ -1,0 +1,242 @@
+Ich hör grad aus der Regie, das Mail werde schon wieder rege umdefiniert [0]
+
+Also mach ich halt noch so ein bisschen etwas wie Certificate Pinning [1] für Inhalt
+
+
+1. Ich habe mal bei dem Verein Steueramt gearbeitet
+ -> somit weiss ich ungefähr wie dort ...
+
+2. R u a g  N e t z e: ich habe mit dem Schulkommandanten des Waffenplatzes Wangen (afaik Gigax hiess der) gesprochen. 
+ - Ich wusste nicht mit Sicherheit, dass die TerrorMiliz Schweizer Milizarmee [2] Glasfasernetzwerke hat
+
+Trick: Social Engineering: Ich hab nicht gefragt
+- "Hat die Armee Schweiz ein Glasfasernetzwerk" sondern
++ "Wofür braucht die Armee Schweiz eigentlich das Glasfaser"
+
+Der Herr Schulkommandant [3] gesagt: "Das ist um die Marschbefehle zu verschicken", Gemäss dem Offizier Remo Huggler verwendet die Armee Windows und Office, also wäre so ein Marschbefehl vermutlich 1MB sagen wir die Armee hat 100'000 aktive NPC's wären das max 1 TBbyte = 8TBit
+
+Gleicht man das mit FTTH Anschlüssen ab für Privat User [4] wären die Marschbefehle für einen ganzen Krieg 13.333333 Minuten versendet, wenn die TerrorMiliz Schweizer Milizarmee nur ein Glasfaser-Kabel hätte, und wenn das so etwas popliges wie EndUser FTTH wäre [5]
+
+und das war jetzt wirklich sehr vorsichtig gerechnet. Also die Ruag AG wäre somit vermutlich der Support-Knilch der TerrorMiliz Schweizer ArmeeMiliz. Ausserdem würde so ein Netzwerk "allenfalls" auch etwas wie einen Server, bzw. [6] bzw Cluster bzw etwas wie ein Sun Grid Engine wo die als TerrorMiliz logischerweise von einer "Cloud" [Attachement: when-i-open-the-door-fog-spills-out-i-can-say-welcome-to-the-cloud.jpg] reden würden, Tarnung versteht sich. Wenn man den Film "Resident Evil" aber gesehen hat weiss man, dass die da dann eher Feuer oder Bio wäre [Attachement: RedQueen: residenetEvil.gif]
+
+"Lieber" Satan @ MilitaryDictatorship, apropos m173 Karte und das anti-sinnfreie Zitat von Julian Assange 
+
+"political reform ... are seeded and created by unauthorized [7] disclosures ... they know if an unjust plan or an unjust past revealing it to the population ... you need to protect sources because they understand that when that material is released it makes it harder for them to carry out unjust plans because those plans will be opposed"
+
+"politische Reformen ... werden durch unbefugte [7] Offenlegungen gesät und geschaffen ... sie wissen, ob ein ungerechter Plan oder eine ungerechte Vergangenheit die Bevölkerung aufdeckt ... Sie müssen die Quellen schützen, weil sie verstehen, dass, wenn dieses Material veröffentlicht, erschwert es ihnen, ungerechte Pläne auszuführen, da diese Pläne abgelehnt werden.
+
+HITB SecConf 2009 Malaysia: Wikileaks 1/8
+https://www.youtube.com/watch?v=xpWo1_-QI6Y&list=PLWsX0-AjlNWz4w0Fsu6nWMMUlulbje2Xt&index=4&t=345s
+
+Thema Ableben:
+leider gibte es Leute die so funktionieren [Attachement: FREEjulian.png] wenn ich abgelebt würde, möchte ich nicht dass Jüngere den selben Weg einschlagen wie ich, dann wäre sinnvollerweise der PlanB: 
+
+"Versteckis" (de-sg: Verstecken spielen), dennoch ist zu erwarten, dass dann irgend eines der Gleichaltrigen wieder zu viel weiss, bzw. wenn die freie Ressourcen haben die wegfallen weil die mich nicht mehr terrorisieren ähm überwachen >> MüSSEN << ...
+
+
+Wenn das Land insgeheim von einem Military Dictatorship regiert wird muss man leider davon ausgehen, dass Legislative (gesetzgebende Gewalt), Exekutive (ausführende Gewalt) und Judikative (richterliche Gewalt) rein gehäuchelt ist. Das aber rechtzeitig zu wissen erspart einem dann so "Nettigkeiten" wie ... (man sehe sich mal das CT meines Schädels an) und "dank" der Fehldignose Schizophrenie habe ich auch erst 15 Jahre später einen AutistenHelm gekauft.
+
+
+
+
+[0] Tech. Details zum Umedfinieren:
+lesegeschwindikgeiet oft +/- gleich, ermittelt mit
+- lanDEPPEN wie ich die mit der Maus dem Text nachfahren beim Lesen
+- Tablet mit Kamera und EyeTracking
+- ... viele kreative andere Möglichkeiten
+
+
+[1] https://www.google.com/search?q=certifacte+pinning
+=> kann man ja auch mit Inhalt machen in dem man noch ein paar Aussagen mehr dazu pinnen tut ...
+
+[2] man liest ja immer wieder in der Presse: "Militär im Land XYZ ist ganz lieb" NICHT, weshalb sollte das in der Schweiz anders sein. Das hat meiner Meinung nach eher mit Persönlichkeitsmerkmalen wie Ignoranz, Machtmittelmissbrauch ... zu tun als mit einer spezifischen Rasse, Hautfarbe, Körbchengrösse ...
+
+[3] da würde ich jetzt gerne "Dümmer als die Polizei erlaubt" einfügen, aber das hätte dann vermutlich wieder "Rechtliche" folgen mit dem ICD10 G40.2 Baseball Schläger welcher vermutlich auch über die RUAG Netze bzw. die GlasfaserNetze der TerrorMiliz Schweizer Milizarmee gesteuert werden.
+
+[4] https://de.wikipedia.org/wiki/Glasfasernetz#:~:text=Seit%20M%C3%A4rz%202018%20bietet%20der,zu%2010%20Gbit%2Fs%20erm%C3%B6glicht.
+
+[5] https://www.google.com/search?q=budget+armee+schweiz
+
+
+[6] [ICD10 F44.x LOCKED] <- das wollen die allenfalls vertuschen ähm "geheim" halten
+
+[7] alles legale Informationen, ich hatte zwar mal ein KonkurrenzVerbot, aber nie eine Geheimhaltungserklärung unterschrieben, und wenn der WaffenPLATZmensch so schlecht lügt ist das ja nicht mein Fehler.
+
+
+
+zwangsmassnahemnsystem
+- selbstverschuldet, strafakte unlockbar
+- zwangsmedikation, wo man einfach auf dem psychiatrie bett von 10 pflegern festgehalten wird und die verpassen einem dann eine spritze klopixol und danahc hat man filmriss, intelligenzblödmach-medis
+
+
+Am 18.09.2021 um 02:12 schrieb Marc jr. Landolt:
+> und die Polizisten die gemerkt haben/hätten, dass der Sklave / 1980er 
+> Kellerkind / Verdingskind nur der Sündenbock ist würden
+> 
+> - vom Posten entfernt
+>   - upgagraded
+>   - downgegraded zum streifen polizisten
+>   - deren Mordakte von der MilitärDatenbank / RUAG Server freigeschaltet
+>   - ???
+> 
+> hi jake, if you see that, there seems to be a "if you mess with a 
+> military dicatatorship..." - Part3
+> 
+> Am 18.09.2021 um 02:04 schrieb Marc jr. Landolt:
+>>
+>> @ Jüngere:
+>>
+>> wenn das stimmt werden die mich ermorden, falls die mich ermorden 
+>> weicht diesen Dingen einfach aus. ich habe mich da nicht selber drein 
+>> manövriert, deren Konzept war einfach den sozial unbeholfenen Autisten 
+>> als Sündenbock zu brauchen, dann mit intelligenzmindernder 
+>> Psycholpharmaka "die fresse zu stopfen" wie die das vermutlich 
+>> formulieren würden, so dass ich das Puzzle nicht lösen kann.
+>>
+>>
+>> 1980er Sklaven / Verdingkinder in der Psychiatrie Königsfelden wären 
+>> somit vermutlich alles wichtige Zeugen gegen ein militärisches 
+>> Terrornetzwerk in der Schweiz
+>>
+>>
+>> @ Richterin Bauhofer und Staatsanwalt Marco Spring
+>> da wäre endlich mal eine Stellungnahme oder eine Antwort echt toll
+>>
+>>
+>>
+>> if true @vbs_ddps mich dann wieder meucheln möchte
+>>
+>> Hypothese:
+>>
+>> Steueramt Luzern auch gemerkt, dass da etwas nicht stimmt, also hat 
+>> die @schweizerarmee / @RUAG_Int präventiv die Zeugen angeklagt ?
+>>
+>> Direkte Frage an #Staatsanwalt Marco Spring
+>> @kantonaargau
+>>
+>>
+>> CC: @fedpolCH @bger_CH
+>>
+>>
+>>
+>> Am 21.08.2021 um 21:10 schrieb Marc jr. Landolt:
+>>> Guten Tag
+>>>
+>>> Also der Abschuss durch Gabriel Riela und Urs Blum von der Zürich 
+>>> Versicherung, meine Anstellung beim Steueramt und zeitgleich wurde 
+>>> ich mit Claudine Blum @ Unibasel verkuppelt, abgerichtet, steuerbar 
+>>> gemacht, hörig gemacht, triggerbar gemacht wo das noch ausgetestet 
+>>> wurde als ich ich von Blums her zur Distelberg Brücke gesteuert wurde 
+>>> und springen wollte
+>>> + MOD für induzierte Epilepsie (ICD10 G40.2)
+>>> + anschudligung ich sein ein Vergewaltiger-Terrorist
+>>> + fehldiagnose Schizophrenie
+>>>
+>>> Also die haben damals einfach einen 20 jährigen sozial unbeholfenen 
+>>> [1] Autisten als Sündenbock genommen.
+>>>
+>>>
+>>> Mit freundlichen Grüssen
+>>>
+>>> Marcr jr. Landolt
+>>> eidg. dipl. Informatiker HF
+>>> Neuenburgerstrasse 6
+>>> 5004 Aarau
+>>> 062 822 61 31
+>>> 078 674 15 32
+>>>
+>>>
+>>> ab hier ignorieren ausser Ermittlungsbehörden
+>>> = = = = = = = = = = = = = = = = = = = = = = =
+>>>
+>>>
+>>> [1] die Täterschaft aktiviert einen Suizid Versuch um die Aussage zu 
+>>> verhindern
+>>>      _    _    _   _       _
+>>>     / \  | | _| |_(_)_   _(_) ___ _ __ _   _ _ __   __ _
+>>>    / _ \ | |/ / __| \ \ / / |/ _ \ '__| | | | '_ \ / _` |
+>>>   / ___ \|   <| |_| |\ V /| |  __/ |  | |_| | | | | (_| |
+>>> /_/   \_\_|\_\\__|_| \_/ |_|\___|_|   \__,_|_| |_|\__, |
+>>>                                                    |___/
+>>>   _           _           _           _
+>>> (_)_ __   __| |_   _ ___(_) ___ _ __| |_ ___ _ __
+>>> | | '_ \ / _` | | | |_  / |/ _ \ '__| __/ _ \ '__|
+>>> | | | | | (_| | |_| |/ /| |  __/ |  | ||  __/ |
+>>> |_|_| |_|\__,_|\__,_/___|_|\___|_|   \__\___|_|
+>>>
+>>>   ____        _     _     _
+>>> / ___| _   _(_)___(_) __| |
+>>> \___ \| | | | |_  / |/ _` |
+>>>   ___) | |_| | |/ /| | (_| |
+>>> |____/ \__,_|_/___|_|\__,_| (_) (_) (_)
+>>>
+>>> ... bei Marc jr. Landolt
+>>>
+>>> Disassembly:
+>>> = = = = = =
+>>> Suizid funktion bei Marc jr Landolt aktiviert worden
+>>> Suizid Funktion ankonditioniert von Familie Blum und allenfalls der 
+>>> Universität Basel, nicht therapierbar
+>>>
+>>> nicht therapierbar => maximaler Ertrag für die Zürich Versicherung 
+>>> die so auch einen Zeugen los wird der die Zürich Versicherung in 
+>>> Verbindung mit den drei Toten Administratoren bei ABB CHFAC bringt
+>>>
+>>> loop + induzierte Epilepsie
+>>> {
+>>> . ich würde der Rufiln zugeteilt <- polstfaktisch, ich marc jr begehe 
+>>> jetzt suizied
+>>> }
+>>>
+>>> 1. Autisten monogam
+>>> 2. 20 Jahre Sklave, Sündenbock und dann der Weg war um Sonst?
+>>> 3. Pivot Element Pfadi Adler Aarau
+>>> 4. Ruflin hat nichts mit mir zu tun
+>>>
+>>> ICH FORDER DEN TERROR GEGEN MICH EINZUSTELLEN
+>>>
+>>> Am 21.08.2021 um 20:46 schrieb Marc jr. Landolt:
+>>>> Guten Tag
+>>>>
+>>>> diese Fragestellung löst bei mir mehrere Wochen den Vollterror aus, 
+>>>> ich hab mir jetzt sogar das Messer in den Oberschenkel gerammt ...
+>>>>
+>>>> also ich wäre da um eine Antwort froh, ob das gehackt wurde, auf 
+>>>> Ihrer Seite, auf meiner Seite
+>>>>
+>>>> Und ob das Kantonale Steueramt so versucht Zeugen wie mich zu 
+>>>> ermorden, also ob über das Easy Tax "GovWare" verteilt wird, die 
+>>>> wenn die Nutzniesser dieser Software selber straffällig geworden 
+>>>> sind aber noch nicht aufgeflogen dann so versuchen Zeugen wie mir 
+>>>> etwas unterzuschieben oder sogar mich mit diesen Zugängen in den 
+>>>> Suizid zu treiben (Psychologische Kriegsführung)
+>>>>
+>>>> Es gab ja afaik mal eine Variante von Easy Tax wo der Sophos sogar 
+>>>> angezeigt hat, dass es da einen Virus im Easy Tax hat.
+>>>>
+>>>>
+>>>> Mit freundlichen Grüssen
+>>>>
+>>>> Marcr jr. Landolt
+>>>> eidg. dipl. Informatiker HF
+>>>> Neuenburgerstrasse 6
+>>>> 5004 Aarau
+>>>> 062 822 61 31
+>>>> 078 674 15 32
+>>>>
+>>>>
+>>>> Am 03.08.2021 um 10:21 schrieb Marc jr. Landolt:
+>>>>> Guten Tag
+>>>>>
+>>>>> wie bereits gesagt im letzten Mail. Das Easytax wollte den Zettel 
+>>>>> zum Unterschreiben nicht ausdrucken bzw. seg-faulted und hat auch 
+>>>>> kein Bestätigungsmail geschickt. Ich wollte nochmals fragen ob das 
+>>>>> angekommen ist
+>>>>>
+>>>>> Mit freundlichen Grüssen
+>>>>> Marcr jr. Landolt
+>>>>> eidg. dipl. Informatiker HF
+>>>>> Neuenburgerstrasse 6
+>>>>> 5004 Aarau
+>>>>> 062 822 61 31
+>>>>> 078 674 15 32
