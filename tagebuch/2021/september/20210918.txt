@@ -94,4 +94,9 @@ also die armee welche die richter gekauft haben winken denen zuerst alles durch,
 
 scharf stellen des richters => scharfrichter bzw. ein richtier ist eine richt(er)landung 90
 
+Sat Sep 18 14:41:50 CEST 2021
+  97  824 5265 20210918.txt
+[main 33138c3] save
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+3654a71a5b1b391c52891b107cbaacc2463c230c67511593b1f1b84f7d1de92b68f3cf10adc33983e8210cdafb194170f6eca0f57ec63dc5d7219f9ae8a9168f  20210918.txt
 
