@@ -1,10 +1,10 @@
-Ich hör grad aus der Regie, das Mail werde schon wieder rege umdefiniert [0]
+Ich hör grad aus der Regie, das Mail werde schon wieder umdefiniert [0,10]
 
 Also mach ich halt noch so ein bisschen etwas wie Certificate Pinning [1] für Inhalt
 
 
-1. Ich habe mal bei dem Verein Steueramt gearbeitet
- -> somit weiss ich ungefähr wie dort ...
+1. Ich habe mal bei dem Verein "Steueramt" gearbeitet
+ -> somit weiss ich ungefähr wie dort ... also Puzzle gelöst, Schuldigkeit als Bürger getan, unterlassene für alle Amtspersonen die das Problem ignorieren, bzw. Jüngere sollte man ja auch nicht wie leider üblich in Armeen für sich an einen (Cyber-)Kriegsfront schicken.
 
 2. R u a g  N e t z e: ich habe mit dem Schulkommandanten des Waffenplatzes Wangen (afaik Gigax hiess der) gesprochen. 
  - Ich wusste nicht mit Sicherheit, dass die TerrorMiliz Schweizer Milizarmee [2] Glasfasernetzwerke hat
@@ -37,6 +37,19 @@ leider gibte es Leute die so funktionieren [Attachement: FREEjulian.png] wenn ic
 Wenn das Land insgeheim von einem Military Dictatorship regiert wird muss man leider davon ausgehen, dass Legislative (gesetzgebende Gewalt), Exekutive (ausführende Gewalt) und Judikative (richterliche Gewalt) rein gehäuchelt ist. Das aber rechtzeitig zu wissen erspart einem dann so "Nettigkeiten" wie ... (man sehe sich mal das CT meines Schädels an) und "dank" der Fehldignose Schizophrenie habe ich auch erst 15 Jahre später einen AutistenHelm gekauft.
 
 
+Ausserdem hilft das Wissen über das Problem nicht in deren Zwangsmassnahmensystem / Rechtsverdreher Schneeballsystem zu landen.
+
+Man landet dann zwar in einem Zwangsmassnahmen-System wie der Psychiatrie Königsfelden wo einem 10 Pfleger auf ein Spitalbett drücken und einem eine Spritze Clopixol verpassen [8] weil sie zu blöd sind [9] zu rallen, dass das induzierte ICD10 G40.2 nicht wegen mir ist, sondern nur synchron zu dem was ich sage (Spracherkennung, FFT) und nicht wegen dem dass ich sage, aber mindestens nicht im Täter-Zwangsmassnahmensystem wo man dann permanenten Selbsthass haben müsste, insbesondere wenn man gegen Jüngere geht -- Maxime, Kategorischer Imperativ.
+
+marc@DESKTOP-B99KF62:~$ figlet GERNE ...
+  ____ _____ ____  _   _ _____         
+ / ___| ____|  _ \| \ | | ____|        
+| |  _|  _| | |_) |  \| |  _|          
+| |_| | |___|  _ <| |\  | |___   _ _ _ 
+ \____|_____|_| \_\_| \_|_____| (_|_|_)
+
+... lasse ich mich im wissenschaftlichen Diskurs vom Gegenteil überzeugen, auch wenn ich nur einen hahahaHF Titel habe. Mir aber wieder den virtuellen ICD10-G40.2 induzierenden Baseball Schläger über die Ruag / Glasfasernetze "an die Rübe" zu schlagen ist meiner Meinung nach eher Mongo als Wissenschaft.
+
 
 
 [0] Tech. Details zum Umedfinieren:
@@ -44,6 +57,11 @@ lesegeschwindikgeiet oft +/- gleich, ermittelt mit
 - lanDEPPEN wie ich die mit der Maus dem Text nachfahren beim Lesen
 - Tablet mit Kamera und EyeTracking
 - ... viele kreative andere Möglichkeiten
+=> dann z.B. Symbol- oder Einzelbild-Einbelndungen unterhalb der bewussten Wahrnemungsschwellen, dazu guten Talk vom CCC mit falscher Conclusion:
+
+Muss man sich vor unterschwelliger Beeinflussung fürchten?
+
+https://media.ccc.de/v/rc3-641471-muss_man_sich_vor_unterschwelliger_beeinflussung_fuerchten
 
 
 [1] https://www.google.com/search?q=certifacte+pinning
@@ -62,11 +80,22 @@ lesegeschwindikgeiet oft +/- gleich, ermittelt mit
 
 [7] alles legale Informationen, ich hatte zwar mal ein KonkurrenzVerbot, aber nie eine Geheimhaltungserklärung unterschrieben, und wenn der WaffenPLATZmensch so schlecht lügt ist das ja nicht mein Fehler.
 
+[8] danach Filmriss, aber waren rollbare Spital-Betten ...
+
+[9] der blog.fefe.de würde jetzt vermutlich berechtigt zynisch anmerken "einmal mit /Profis/".
+
+[10] gut dann halt nochmals ausführlicher: m173.jpg
 
 
-zwangsmassnahemnsystem
-- selbstverschuldet, strafakte unlockbar
-- zwangsmedikation, wo man einfach auf dem psychiatrie bett von 10 pflegern festgehalten wird und die verpassen einem dann eine spritze klopixol und danahc hat man filmriss, intelligenzblödmach-medis
+
+Mit freundlichen Grüssen
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
 
 
 Am 18.09.2021 um 02:12 schrieb Marc jr. Landolt:
