@@ -1,0 +1,149 @@
+@font-face {
+  font-family: 'Apester-Font';
+  src:  url('https://d1azc1qln24ryf.cloudfront.net/124741/ApesterPlayer/Apester-Font.eot?u8c17e');
+  src:  url('https://d1azc1qln24ryf.cloudfront.net/124741/ApesterPlayer/Apester-Font.eot?u8c17e#iefix') format('embedded-opentype'),
+    url('https://d1azc1qln24ryf.cloudfront.net/124741/ApesterPlayer/Apester-Font.woff2?u8c17e') format('woff2'),
+    url('https://d1azc1qln24ryf.cloudfront.net/124741/ApesterPlayer/Apester-Font.ttf?u8c17e') format('truetype'),
+    url('https://d1azc1qln24ryf.cloudfront.net/124741/ApesterPlayer/Apester-Font.woff?u8c17e') format('woff'),
+    url('https://d1azc1qln24ryf.cloudfront.net/124741/ApesterPlayer/Apester-Font.svg?u8c17e#Apester-Font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.ic {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Apester-Font' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-apester-a:before {
+  content: "\e91a";
+  color: #fff;
+}
+.icon-countdown:before {
+  content: "\e922";
+}
+.icon-personality:before {
+  content: "\e923";
+}
+.icon-story:before {
+  content: "\e924";
+}
+.icon-buy-now:before {
+  content: "\e91f";
+}
+.icon-learn-more:before {
+  content: "\e920";
+}
+.icon-download:before {
+  content: "\e921";
+}
+.icon-thumb-up:before {
+  content: "\e91c";
+}
+.icon-thumb-down:before {
+  content: "\e91e";
+}
+.icon-see-more:before {
+  content: "\e91d";
+}
+.icon-video:before {
+  content: "\e91b";
+}
+.icon-story-round:before {
+  content: "\e911";
+  color: #b3b3b3;
+}
+.icon-check-bold:before {
+  content: "\e919";
+  color: #fff;
+}
+.icon-check:before {
+  content: "\e918";
+}
+.icon-whatsapp:before {
+  content: "\e915";
+}
+.icon-facebook:before {
+  content: "\e916";
+}
+.icon-twitter:before {
+  content: "\e917";
+}
+.icon-see_more:before {
+  content: "\e914";
+}
+.icon-quiz:before {
+  content: "\e912";
+}
+.icon-poll:before {
+  content: "\e913";
+}
+.icon-article-round:before {
+  content: "\e90a";
+  color: #d8d8d8;
+}
+.icon-countdown-round:before {
+  content: "\e90b";
+  color: #d8d8d8;
+}
+.icon-gallery-round:before {
+  content: "\e90c";
+  color: #d8d8d8;
+}
+.icon-personality-round:before {
+  content: "\e90d";
+  color: #d8d8d8;
+}
+.icon-quiz-round:before {
+  content: "\e90e";
+  color: #d8d8d8;
+}
+.icon-poll-round:before {
+  content: "\e90f";
+  color: #d8d8d8;
+}
+.icon-video-round:before {
+  content: "\e910";
+  color: #d8d8d8;
+}
+.icon-share:before {
+  content: "\e900";
+}
+.icon-player-sound:before {
+  content: "\e901";
+}
+.icon-player-mute:before {
+  content: "\e902";
+}
+.icon-restart:before {
+  content: "\e903";
+}
+.icon-pause:before {
+  content: "\e904";
+}
+.icon-play:before {
+  content: "\e905";
+}
+.icon-arrow-left:before {
+  content: "\e906";
+}
+.icon-arrow-right:before {
+  content: "\e907";
+}
+.icon-cross:before {
+  content: "\e908";
+}
+.icon-apester-logo:before {
+  content: "\e909";
+}
