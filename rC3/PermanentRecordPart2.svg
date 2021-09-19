@@ -31,7 +31,7 @@
      inkscape:window-x="1911"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g27861-3-2-4" />
+     inkscape:current-layer="g49465" />
   <defs
      id="defs2">
     <marker
@@ -54,56 +54,85 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
-       d="M 34.534882,93.789472 H 257.73929"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="M 34.534882,80.03113 H 257.73929"
        id="path3189" />
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="45.804161"
-       y="26.900856"
+       style="font-size:12.1753px;line-height:1.25;font-family:sans-serif;fill:#808080;stroke-width:0.304383"
+       x="28.182405"
+       y="22.109015"
        id="text4139"><tspan
          sodipodi:role="line"
          id="tspan4137"
-         style="stroke-width:0.264583"
-         x="45.804161"
-         y="26.900856">Permanent Record, PART 2 (Reason for)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.02463px;line-height:1.25;font-family:sans-serif;stroke-width:0.150616"
-       x="42.475609"
-       y="147.35027"
-       id="text9972"><tspan
-         sodipodi:role="line"
-         id="tspan9970"
-         style="stroke-width:0.150616"
+         style="fill:#808080;stroke-width:0.304383"
+         x="28.182405"
+         y="22.109015">Permanent Record, <tspan
+   style="font-weight:bold;fill:#808080;stroke-width:0.304383"
+   id="tspan47235">PART 2</tspan> (Reason for)</tspan></text>
+    <g
+       id="g49465"
+       transform="translate(-7.4083337,-17.462505)">
+      <text
+         xml:space="preserve"
+         style="font-size:6.02463px;line-height:1.25;font-family:sans-serif;stroke-width:0.150616"
          x="42.475609"
-         y="147.35027">[P] Permanent Record (EventTrigger)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.02463px;line-height:1.25;font-family:sans-serif;stroke-width:0.150616"
-       x="42.475609"
-       y="153.81442"
-       id="text13330"><tspan
-         sodipodi:role="line"
-         id="tspan13328"
-         style="stroke-width:0.150616"
+         y="133.59212"
+         id="text9972"><tspan
+           sodipodi:role="line"
+           id="tspan9970"
+           style="stroke-width:0.150616"
+           x="42.475609"
+           y="133.59212">[P] Permanent Record (<tspan
+   style="font-weight:bold"
+   id="tspan50226">EventTrigger</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.02463px;line-height:1.25;font-family:sans-serif;stroke-width:0.150616"
          x="42.475609"
-         y="153.81442">[S] Satans security guards</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.02463px;line-height:1.25;font-family:sans-serif;stroke-width:0.150616"
-       x="42.475609"
-       y="160.27856"
-       id="text18856"><tspan
-         sodipodi:role="line"
-         id="tspan18854"
-         style="stroke-width:0.150616"
+         y="140.05627"
+         id="text13330"><tspan
+           sodipodi:role="line"
+           id="tspan13328"
+           style="stroke-width:0.150616"
+           x="42.475609"
+           y="140.05627">[S] Satans security guards</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.02463px;line-height:1.25;font-family:sans-serif;stroke-width:0.150616"
          x="42.475609"
-         y="160.27856">[C] Censorship</tspan></text>
+         y="146.52042"
+         id="text18856"><tspan
+           sodipodi:role="line"
+           id="tspan18854"
+           style="stroke-width:0.150616"
+           x="42.475609"
+           y="146.52042">[C] Censorship</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:1.05;font-family:sans-serif;stroke-width:0.264583"
+         x="19.473436"
+         y="162.95346"
+         id="text53332"><tspan
+           sodipodi:role="line"
+           style="font-size:5.29167px;stroke-width:0.264583"
+           x="19.473436"
+           y="162.95346"
+           id="tspan53334">They try to make you think, that they are always watching you with the EventTriggers, even if it is</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.29167px;stroke-width:0.264583"
+           x="19.473436"
+           y="168.50972"
+           id="tspan53336">&quot;just&quot; automated targeting. They seem to use EEG / DBS Data *) and all other input sources they can</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.29167px;stroke-width:0.264583"
+           x="19.473436"
+           y="174.06596"
+           id="tspan57474">get. </tspan></text>
+    </g>
     <g
        id="g27861"
-       transform="translate(0,10.583334)">
+       transform="translate(0,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -129,7 +158,7 @@
     </g>
     <g
        id="g27861-3"
-       transform="translate(-33.734345,10.583334)">
+       transform="translate(-33.734345,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -155,7 +184,7 @@
     </g>
     <g
        id="g27861-3-2"
-       transform="translate(18.074627,10.583334)">
+       transform="translate(18.074627,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -180,159 +209,153 @@
            y="79.521965">⇩</tspan></text>
     </g>
     <g
-       id="g27861-3-2-4"
-       transform="matrix(1,0,0,-1,-17.41097,180.21036)">
-      <g
-         id="g32445"
-         transform="translate(-8.1616874,3.9034182)">
-        <text
-           xml:space="preserve"
-           style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-           x="77.38163"
-           y="-59.712494"
-           id="text21993-69-4-2"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             id="tspan21991-7-2-7"
-             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-             x="77.38163"
-             y="-59.712494">[C]</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:17.7363px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.443408"
-           x="69.951088"
-           y="79.521965"
-           id="text26353-6-0-5"><tspan
-             sodipodi:role="line"
-             id="tspan26351-07-4-4"
-             style="fill:#ff0000;stroke-width:0.443408"
-             x="69.951088"
-             y="79.521965">⇩</tspan></text>
-      </g>
-      <g
-         id="g32445-3"
-         transform="translate(52.873539,3.9034182)">
-        <text
-           xml:space="preserve"
-           style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-           x="77.38163"
-           y="-59.712494"
-           id="text21993-69-4-2-3"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             id="tspan21991-7-2-7-1"
-             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-             x="77.38163"
-             y="-59.712494">[C]</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:17.7363px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.443408"
-           x="69.951088"
-           y="79.521965"
-           id="text26353-6-0-5-6"><tspan
-             sodipodi:role="line"
-             id="tspan26351-07-4-4-3"
-             style="fill:#ff0000;stroke-width:0.443408"
-             x="69.951088"
-             y="79.521965">⇩</tspan></text>
-      </g>
-      <g
-         id="g32445-0"
-         transform="translate(121.7156,3.9034182)">
-        <text
-           xml:space="preserve"
-           style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-           x="77.38163"
-           y="-59.712494"
-           id="text21993-69-4-2-7"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             id="tspan21991-7-2-7-10"
-             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-             x="77.38163"
-             y="-59.712494">[C]</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:17.7363px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.443408"
-           x="69.951088"
-           y="79.521965"
-           id="text26353-6-0-5-4"><tspan
-             sodipodi:role="line"
-             id="tspan26351-07-4-4-33"
-             style="fill:#ff0000;stroke-width:0.443408"
-             x="69.951088"
-             y="79.521965">⇩</tspan></text>
-      </g>
-      <g
-         id="g32445-07"
-         transform="translate(178.1377,3.9034182)">
-        <text
-           xml:space="preserve"
-           style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-           x="77.38163"
-           y="-59.712494"
-           id="text21993-69-4-2-9"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             id="tspan21991-7-2-7-6"
-             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-             x="77.38163"
-             y="-59.712494">[C]</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:17.7363px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.443408"
-           x="69.951088"
-           y="79.521965"
-           id="text26353-6-0-5-9"><tspan
-             sodipodi:role="line"
-             id="tspan26351-07-4-4-1"
-             style="fill:#ff0000;stroke-width:0.443408"
-             x="69.951088"
-             y="79.521965">⇩</tspan></text>
-      </g>
+       id="g32445"
+       transform="matrix(1,0,0,-1,-25.572657,162.54852)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-         x="270.06845"
-         y="-72.334152"
-         id="text33099"
+         x="77.38163"
+         y="-59.712494"
+         id="text21993-69-4-2"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
-           id="tspan33097"
-           style="stroke-width:0.264583"
-           x="270.06845"
-           y="-72.334152">t[min]</tspan></text>
+           id="tspan21991-7-2-7"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="77.38163"
+           y="-59.712494">[C]</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:5.29167px;line-height:0.95;font-family:sans-serif;stroke-width:0.264583"
-         x="180.86882"
-         y="-143.66019"
-         id="text34239"
-         transform="scale(1,-1)"><tspan
+         style="font-size:17.7363px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.443408"
+         x="69.951088"
+         y="79.521965"
+         id="text26353-6-0-5"><tspan
            sodipodi:role="line"
-           style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="180.86882"
-           y="-143.66019"
-           id="tspan34241">They did not just let Snowden go with outdated documents, they also PLANNED</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="180.86882"
-           y="-138.6331"
-           id="tspan38787">psychological Warfare in Context of the leaks. I was complaining 13 Years before</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="180.86882"
-           y="-133.60602"
-           id="tspan38789">Snowden that there is something WROIGN WITH THE MATRIX um the Corporate</tspan><tspan
-           sodipodi:role="line"
-           style="font-size:5.29167px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="180.86882"
-           y="-128.57893"
-           id="tspan38791">Network of the Company where i worked by the age of 20 Years</tspan></text>
+           id="tspan26351-07-4-4"
+           style="fill:#ff0000;stroke-width:0.443408"
+           x="69.951088"
+           y="79.521965">⇩</tspan></text>
     </g>
     <g
+       id="g32445-3"
+       transform="matrix(1,0,0,-1,35.462569,162.54852)">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="77.38163"
+         y="-59.712494"
+         id="text21993-69-4-2-3"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan21991-7-2-7-1"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="77.38163"
+           y="-59.712494">[C]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.7363px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.443408"
+         x="69.951088"
+         y="79.521965"
+         id="text26353-6-0-5-6"><tspan
+           sodipodi:role="line"
+           id="tspan26351-07-4-4-3"
+           style="fill:#ff0000;stroke-width:0.443408"
+           x="69.951088"
+           y="79.521965">⇩</tspan></text>
+    </g>
+    <g
+       id="g32445-0"
+       transform="matrix(1,0,0,-1,104.30463,162.54852)">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="77.38163"
+         y="-59.712494"
+         id="text21993-69-4-2-7"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan21991-7-2-7-10"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="77.38163"
+           y="-59.712494">[C]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.7363px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.443408"
+         x="69.951088"
+         y="79.521965"
+         id="text26353-6-0-5-4"><tspan
+           sodipodi:role="line"
+           id="tspan26351-07-4-4-33"
+           style="fill:#ff0000;stroke-width:0.443408"
+           x="69.951088"
+           y="79.521965">⇩</tspan></text>
+    </g>
+    <g
+       id="g32445-07"
+       transform="matrix(1,0,0,-1,160.72673,162.54852)">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="77.38163"
+         y="-59.712494"
+         id="text21993-69-4-2-9"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan21991-7-2-7-6"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="77.38163"
+           y="-59.712494">[C]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.7363px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.443408"
+         x="69.951088"
+         y="79.521965"
+         id="text26353-6-0-5-9"><tspan
+           sodipodi:role="line"
+           id="tspan26351-07-4-4-1"
+           style="fill:#ff0000;stroke-width:0.443408"
+           x="69.951088"
+           y="79.521965">⇩</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="252.65749"
+       y="94.117897"
+       id="text33099"><tspan
+         sodipodi:role="line"
+         id="tspan33097"
+         style="stroke-width:0.264583"
+         x="252.65749"
+         y="94.117897">t[min]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:0.95;font-family:sans-serif;fill:#ff0000;stroke-width:0.264583"
+       x="148.40053"
+       y="27.554333"
+       id="text34239"><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         x="148.40053"
+         y="27.554333"
+         id="tspan34241">They did not just let Snowden go with outdated documents, they also PLANNED</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         x="148.40053"
+         y="32.581421"
+         id="tspan38787">psychological Warfare in Context of the leaks. I was complaining 13 Years before</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         x="148.40053"
+         y="37.608505"
+         id="tspan38789">Snowden that there is something WROIGN WITH THE MATRIX um the Corporate</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
+         x="148.40053"
+         y="42.635593"
+         id="tspan38791">Network of the Company where i worked by the age of 20 Years</tspan></text>
+    <g
        id="g27861-3-8"
-       transform="translate(52.140801,10.583334)">
+       transform="translate(52.140801,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -358,7 +381,7 @@
     </g>
     <g
        id="g27861-3-9"
-       transform="translate(87.626395,10.583334)">
+       transform="translate(87.626395,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -384,7 +407,7 @@
     </g>
     <g
        id="g27861-2"
-       transform="translate(64.915616,10.583334)">
+       transform="translate(65.97395,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -410,7 +433,7 @@
     </g>
     <g
        id="g27861-9"
-       transform="translate(107.49833,10.583334)">
+       transform="translate(107.49833,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -436,7 +459,7 @@
     </g>
     <g
        id="g27861-1"
-       transform="translate(123.82171,10.583334)">
+       transform="translate(123.82171,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -462,7 +485,7 @@
     </g>
     <g
        id="g27861-8"
-       transform="translate(167.82385,10.583334)">
+       transform="translate(167.82385,-3.1750001)">
       <text
          xml:space="preserve"
          style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
