@@ -6,4 +6,10 @@ ich hör grad aus der Regie, dass ca. in 1h der Vollterror der Militärs wieder 
 
 ... ausserdem zum Post: logsicherweise würden die versuchen die bestisten der Besten SIR, zu stalken, zu adaptieren und dann Alles für Alle noch mühsamer zu machen. Also das was ich hier tue ist schon mal für mich maximal untoll, auch vermutlich nicht so toll für die ganze Herde der 1980er und jüngeren Autisten. Aber mein PROLOG (Prgrammiersprache) in meinem Kopf sagt, dass das verpetzt werden muss weil ALTERNATIVLOS
 
+Sun Sep 19 05:03:31 CEST 2021
+  9  96 574 20210919.txt
+[main f581c7b] save
+ 1 file changed, 9 insertions(+)
+ create mode 100644 tagebuch/2021/september/20210919.txt
+56f7855c029fd32a374264e075b4580d298121906c3660586fa0aa02fc8c65905e53e24ba6cde25f40582fc2bf13d01b13188e22a2d1bee775f97aeea846f177  20210919.txt
 
