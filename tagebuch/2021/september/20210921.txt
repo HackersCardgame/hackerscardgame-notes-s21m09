@@ -22,3 +22,7 @@ Tue Sep 21 06:44:34 CEST 2021
  1 file changed, 2 insertions(+)
 d5c166c8396a56dd61bde5276e9fcf81501f0569ba7618d4fc487bf574d2db47c1116c78d92fdc3491416b497d20c04e0d668fa5937ef96a45f434218d3e35b8  20210921.txt
 
+
+Furby 1.0 :: ModeChange("me sleeeeeep again");
+
+
