@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0293026"
-     inkscape:cx="249.19784"
-     inkscape:cy="1094.9161"
+     inkscape:cx="436.70343"
+     inkscape:cy="309.91857"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="1911"
@@ -22059,57 +22059,57 @@ AKKKKACkpaKAP//Z
        id="path3845"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ffff00;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 76.022911,146.65012 H 119.07896"
        id="path4036" />
     <path
-       style="fill:#ffff00;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 82.256401,140.22385 H 125.31245"
        id="path4036-6" />
     <path
-       style="fill:#ffff00;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 89.196771,133.79756 H 132.25282"
        id="path4036-3" />
     <path
-       style="fill:#ffff00;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 94.980421,128.39949 H 138.03647"
        id="path4036-7" />
     <path
-       style="fill:#ffff00;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 101.14965,122.48731 H 144.2057"
        id="path4036-2" />
     <path
-       style="fill:#ffff00;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#808000;stroke:#808000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 36.897797,155.40698 c 0.908812,-0.72705 42.532434,-38.3519 42.532434,-38.3519 l 21.993269,-0.54529 -41.260097,39.44248 z"
        id="path5653" />
     <path
-       style="fill:#ffff00;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#808000;stroke:#808000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 113.51423,157.10064 c 0.88865,-0.75156 41.47095,-39.49729 41.47095,-39.49729 l 21.97023,-1.14473 -40.16935,40.55277 z"
        id="path5653-9" />
     <text
        xml:space="preserve"
        style="font-size:6.78123px;line-height:1.25;font-family:sans-serif;stroke-width:0.169531"
-       x="-17.37673"
-       y="202.67661"
+       x="-18.165733"
+       y="201.65393"
        id="text6253"
        transform="rotate(-46.638956)"><tspan
          sodipodi:role="line"
          id="tspan6251"
          style="stroke-width:0.169531"
-         x="-17.37673"
-         y="202.67661">Plastifiziert</tspan></text>
+         x="-18.165733"
+         y="201.65393">Plastifiziert</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.78123px;line-height:1.25;font-family:sans-serif;stroke-width:0.169531"
-       x="-70.524796"
-       y="145.86142"
-       id="text6253-4"
-       transform="rotate(-46.638956)"><tspan
+       x="-60.938683"
+       y="147.89258"
+       id="text6253-2"
+       transform="rotate(-44.20143)"><tspan
          sodipodi:role="line"
-         id="tspan6251-0"
+         id="tspan6251-5"
          style="stroke-width:0.169531"
-         x="-70.524796"
-         y="145.86142">Plastifiziert</tspan></text>
+         x="-60.938683"
+         y="147.89258">Plastifiziert</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.22493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 16.819302,242.26295 h 40.744314 v -22.48731 h 28.721401 v -8.68321 h 23.823173 v -13.35879 h 33.61963"
@@ -22186,12 +22186,16 @@ AKKKKACkpaKAP//Z
          id="tspan33465"
          style="stroke-width:0.155021"
          x="25.579584"
-         y="10.847815">Da rendert es jetzt eine Pistole aus dem</tspan><tspan
+         y="10.847815">Da rendert es jetzt eine <tspan
+   style="font-weight:bold;fill:#ff0000"
+   id="tspan92992">Pistole aus dem</tspan></tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.155021"
          x="25.579584"
          y="16.118504"
-         id="tspan33469">3D Drucker drauf. Das wäre der StGB 180</tspan><tspan
+         id="tspan33469"><tspan
+   style="font-weight:bold;fill:#ff0000"
+   id="tspan92994">3D Drucker</tspan> drauf. Das wäre der StGB 180</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.155021"
          x="25.579584"
@@ -22210,7 +22214,7 @@ AKKKKACkpaKAP//Z
          sodipodi:role="line"
          style="stroke-width:0.155021"
          x="25.579584"
-         y="37.20126"
+         y="37.201256"
          id="tspan39045">Drohen mit Sprengfallen wären Pfisterers Spam</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.155021"
@@ -22240,7 +22244,7 @@ AKKKKACkpaKAP//Z
          sodipodi:role="line"
          style="stroke-width:0.155021"
          x="25.579584"
-         y="68.825394"
+         y="68.825386"
          id="tspan39749">StGB 180</tspan></text>
     <text
        xml:space="preserve"
@@ -22262,7 +22266,17 @@ AKKKKACkpaKAP//Z
          style="stroke-width:0.155021"
          x="25.422142"
          y="96.575081"
-         id="tspan55356">der RUAG ab</tspan></text>
+         id="tspan55356">der RUAG ab. Hat man diese Netze im griff könnte</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.155021"
+         x="25.422142"
+         y="101.84577"
+         id="tspan106926">man sowieso den meisten Terror verhindern, aber</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.155021"
+         x="25.422142"
+         y="107.11646"
+         id="tspan106928">die Schweizer Armee braucht es für Terror ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -22281,37 +22295,58 @@ AKKKKACkpaKAP//Z
        style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect66546)"><tspan
          x="19.429688"
          y="960.01169"
-         id="tspan79757">Und dies tut Pfsiterer, Pantic, Schleusener vermutlich um den Autisten (mich) zum Amokläufer abzurichten, </tspan><tspan
+         id="tspan106999">Und dies tut Pfsiterer, Pantic, Schleusener vermutlich um den Autisten (mich) zum Amokläufer abzurichten, </tspan><tspan
          x="19.429688"
          y="976.67831"
-         id="tspan79759">bzw. wenn die Zugriff auf mein Medulla Spinalis THS haben könnten die das sowieso, ABER wenn ich nicht </tspan><tspan
+         id="tspan107001">bzw. wenn die Zugriff auf mein Medulla Spinalis THS haben könnten die das sowieso, ABER wenn ich nicht </tspan><tspan
          x="19.429688"
          y="993.34494"
-         id="tspan79761">einwillige zu einem Amokauf weil unlogisch, dann gäbe es danach zu viele Fragen
+         id="tspan107003">einwillige zu einem Amokauf weil unlogisch, dann gäbe es danach zu viele Fragen
 </tspan><tspan
          x="19.429688"
          y="1010.0116"
-         id="tspan79763">
+         id="tspan107005">
 </tspan><tspan
          x="19.429688"
          y="1026.6782"
-         id="tspan79765">[DEKETED] [LOCK] [REBUILT] ..um mich als Zeugen für die Menschenexperimente zu diskreditieren
+         id="tspan107007">[DEKETED] [LOCK] [REBUILT] ..um mich als Zeugen für die Menschenexperimente zu diskreditieren
 </tspan><tspan
          x="19.429688"
          y="1043.3448"
-         id="tspan79767">
+         id="tspan107009">
 </tspan><tspan
          x="19.429688"
          y="1060.0114"
-         id="tspan79769">
+         id="tspan107011">
 </tspan><tspan
          x="19.429688"
          y="1076.6781"
-         id="tspan79771">
+         id="tspan107013">
 </tspan><tspan
          x="19.429688"
          y="1093.3447"
-         id="tspan79773">
+         id="tspan107015">
 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.55406px;line-height:0.85;font-family:sans-serif;stroke-width:0.113852"
+       x="70.001572"
+       y="69.449898"
+       id="text85213"><tspan
+         sodipodi:role="line"
+         id="tspan85211"
+         style="font-weight:bold;fill:#ff0000;stroke:none;stroke-width:0.113852"
+         x="70.001572"
+         y="69.449898">Schauen dass herumliegende Munition</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#ff0000;stroke:none;stroke-width:0.113852"
+         x="70.001572"
+         y="73.320847"
+         id="tspan85215">vernichtet wird (gemeldeter Fall Reto Biland)</tspan><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#ff0000;stroke:none;stroke-width:0.113852"
+         x="70.001572"
+         y="77.191803"
+         id="tspan85217">und man da nicht einfach dran kommt</tspan></text>
   </g>
 </svg>
