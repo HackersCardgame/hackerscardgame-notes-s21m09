@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="234.83722mm"
+   height="318.44797mm"
+   viewBox="0 0 234.83722 318.44797"
    version="1.1"
    id="svg2533"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.72782688"
-     inkscape:cx="683.54167"
-     inkscape:cy="743.30863"
+     inkscape:zoom="0.36391344"
+     inkscape:cx="666.36725"
+     inkscape:cy="700.71608"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="1911"
@@ -36,30 +36,31 @@
   <defs
      id="defs2530">
     <rect
-       x="19.430631"
-       y="948.2148"
-       width="738.36398"
+       x="19.430632"
+       y="948.21478"
+       width="738.36395"
        height="157.38811"
        id="rect66546" />
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path25031" />
     </marker>
   </defs>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(15.995104,10.178702)">
     <image
        width="204.55467"
        height="287.27402"
@@ -22028,71 +22029,124 @@ AKKKKACkpaKAP//Z
        x="-124.77491"
        y="634.61786"
        transform="rotate(-90)" />
+    <rect
+       style="fill:#e6e6e6;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.821192"
+       id="rect143177"
+       width="234.83722"
+       height="318.44797"
+       x="-15.995104"
+       y="-10.178702"
+       ry="0.25092104"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.4941;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 61.926484,159.98787 c 7.603337,29.92792 33.253557,30.20739 43.270876,0"
        id="path2687"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:#ff0000;stroke:#ff0000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 83.247251,167.03978 130.32374,115.23745"
        id="path4292"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <circle
        style="fill:#ff0000;stroke:#000000;stroke-width:0.996069;stroke-opacity:0.821192"
        id="path2920"
        cx="83.560867"
        cy="168.1651"
-       r="6.1449757" />
+       r="6.1449757"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.19957px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 33.935052,159.98787 H 133.18879"
-       id="path3551" />
+       id="path3551"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 105.19115,159.9798 45.41728,-43.31333"
        id="path3553"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 61.926484,159.98787 107.34376,116.67454"
        id="path3845"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 76.022911,146.65012 H 119.07896"
-       id="path4036" />
+       id="path4036"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 82.256401,140.22385 H 125.31245"
-       id="path4036-6" />
+       id="path4036-6"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 89.196771,133.79756 H 132.25282"
-       id="path4036-3" />
+       id="path4036-3"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 94.980421,128.39949 H 138.03647"
-       id="path4036-7" />
+       id="path4036-7"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:#808000;stroke:#808000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 101.14965,122.48731 H 144.2057"
-       id="path4036-2" />
+       id="path4036-2"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:#808000;stroke:#808000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 36.897797,155.40698 c 0.908812,-0.72705 42.532434,-38.3519 42.532434,-38.3519 l 21.993269,-0.54529 -41.260097,39.44248 z"
-       id="path5653" />
+       id="path5653"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <path
        style="fill:#808000;stroke:#808000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 113.51423,157.10064 c 0.88865,-0.75156 41.47095,-39.49729 41.47095,-39.49729 l 21.97023,-1.14473 -40.16935,40.55277 z"
-       id="path5653-9" />
+       id="path5653-9"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <text
        xml:space="preserve"
        style="font-size:6.78123px;line-height:1.25;font-family:sans-serif;stroke-width:0.169531"
        x="-18.165733"
        y="201.65393"
        id="text6253"
-       transform="rotate(-46.638956)"><tspan
+       transform="rotate(-46.638956)"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          sodipodi:role="line"
          id="tspan6251"
          style="stroke-width:0.169531"
@@ -22104,7 +22158,10 @@ AKKKKACkpaKAP//Z
        x="-60.938683"
        y="147.89258"
        id="text6253-2"
-       transform="rotate(-44.20143)"><tspan
+       transform="rotate(-44.20143)"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          sodipodi:role="line"
          id="tspan6251-5"
          style="stroke-width:0.169531"
@@ -22113,13 +22170,19 @@ AKKKKACkpaKAP//Z
     <path
        style="fill:none;stroke:#000000;stroke-width:1.22493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 16.092252,256.44043 h 40.744314 v -22.48731 h 28.721401 v -8.68321 h 23.823173 v -13.35879 h 33.61963"
-       id="path9091" />
+       id="path9091"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <text
        xml:space="preserve"
        style="font-size:6.48191px;line-height:1.25;font-family:sans-serif;stroke-width:0.162048"
        x="9.6355066"
        y="220.81697"
-       id="text9711"><tspan
+       id="text9711"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          sodipodi:role="line"
          id="tspan9709"
          style="stroke-width:0.162048"
@@ -22129,13 +22192,19 @@ AKKKKACkpaKAP//Z
        style="fill:#ff0000;stroke:#ff0000;stroke-width:1.22493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
        d="M 109.38114,225.26991 H 185.3036"
        id="path25020"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
     <text
        xml:space="preserve"
        style="font-size:4.2618px;line-height:0.75;font-family:sans-serif;fill:#ff0000;stroke:none;stroke-width:0.106545"
        x="110.94913"
        y="236.274"
-       id="text26370"><tspan
+       id="text26370"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          sodipodi:role="line"
          id="tspan26368"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
@@ -22174,14 +22243,17 @@ AKKKKACkpaKAP//Z
          sodipodi:role="line"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
          x="110.94913"
-         y="258.64847"
+         y="258.64844"
          id="tspan26384">daneben greift</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.20081px;line-height:0.85;font-family:sans-serif;stroke-width:0.155021"
        x="25.579584"
        y="10.847815"
-       id="text33467"><tspan
+       id="text33467"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          sodipodi:role="line"
          id="tspan33465"
          style="stroke-width:0.155021"
@@ -22251,7 +22323,10 @@ AKKKKACkpaKAP//Z
        style="font-size:6.20081px;line-height:0.85;font-family:sans-serif;stroke-width:0.155021"
        x="25.422142"
        y="86.033707"
-       id="text55352"><tspan
+       id="text55352"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          sodipodi:role="line"
          id="tspan55350"
          style="stroke-width:0.155021"
@@ -22294,47 +22369,53 @@ AKKKKACkpaKAP//Z
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-0.72705018,14.177479)"
        id="text66544"
-       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect66546)"><tspan
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect66546)"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          x="19.429688"
          y="960.01169"
-         id="tspan140959">Und dies tut Pfsiterer, Pantic, Schleusener vermutlich um den Autisten (mich) zum Amokläufer abzurichten, </tspan><tspan
+         id="tspan143358">Und dies tut Pfsiterer, Pantic, Schleusener vermutlich um den Autisten (mich) zum Amokläufer abzurichten, </tspan><tspan
          x="19.429688"
          y="976.67831"
-         id="tspan140961">bzw. wenn die Zugriff auf mein Medulla Spinalis THS haben könnten die das sowieso, ABER wenn ich nicht </tspan><tspan
+         id="tspan143360">bzw. wenn die Zugriff auf mein Medulla Spinalis THS haben könnten die das sowieso, ABER wenn ich nicht </tspan><tspan
          x="19.429688"
          y="993.34494"
-         id="tspan140963">einwillige zu einem Amokauf weil unlogisch, dann gäbe es danach zu viele Fragen
+         id="tspan143362">einwillige zu einem Amokauf weil unlogisch, dann gäbe es danach zu viele Fragen
 </tspan><tspan
          x="19.429688"
          y="1010.0116"
-         id="tspan140965">
+         id="tspan143364">
 </tspan><tspan
          x="19.429688"
          y="1026.6782"
-         id="tspan140967">[DEKETED] [LOCK] [REBUILT] ..um mich als Zeugen für die Menschenexperimente zu diskreditieren
+         id="tspan143366">[DEKETED] [LOCK] [REBUILT] ..um mich als Zeugen für die Menschenexperimente zu diskreditieren
 </tspan><tspan
          x="19.429688"
          y="1043.3448"
-         id="tspan140969">
+         id="tspan143368">
 </tspan><tspan
          x="19.429688"
          y="1060.0114"
-         id="tspan140971">
+         id="tspan143370">
 </tspan><tspan
          x="19.429688"
          y="1076.6781"
-         id="tspan140973">
+         id="tspan143372">
 </tspan><tspan
          x="19.429688"
          y="1093.3447"
-         id="tspan140975">
+         id="tspan143374">
 </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.55406px;line-height:0.85;font-family:sans-serif;stroke-width:0.113852"
        x="70.001572"
        y="69.449898"
-       id="text85213"><tspan
+       id="text85213"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          sodipodi:role="line"
          id="tspan85211"
          style="font-weight:bold;fill:#ff0000;stroke:none;stroke-width:0.113852"
@@ -22355,7 +22436,10 @@ AKKKKACkpaKAP//Z
        style="font-size:4.68178px;line-height:0.85;font-family:sans-serif;fill:#ff00ff;stroke-width:0.117045"
        x="99.63961"
        y="192.91034"
-       id="text129525"><tspan
+       id="text129525"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001"><tspan
          sodipodi:role="line"
          id="tspan129523"
          style="fill:#ff00ff;stroke-width:0.117045"
@@ -22388,6 +22472,9 @@ AKKKKACkpaKAP//Z
        sodipodi:argument="-18.064157"
        sodipodi:t0="0"
        d="m 346.23618,737.81281 c 1.23998,1.23998 -1.05971,2.28323 -2.06094,2.06093 -2.71325,-0.60243 -3.14942,-4.07777 -2.06092,-6.1828 1.94706,-3.76539 7.00316,-4.20651 10.30465,-2.06092 4.84506,3.14872 5.29492,9.96825 2.06093,14.42651 -4.31042,5.94216 -12.94744,6.39669 -18.54838,2.06093 -7.04822,-5.45612 -7.50536,-15.93333 -2.06092,-22.67024 6.59394,-8.15931 18.92299,-8.61803 26.79209,-2.06092 9.27347,7.72732 9.73321,21.91502 2.06093,30.91395 -8.85796,10.38963 -24.90863,10.85007 -35.03582,2.06093 -11.50717,-9.98679 -11.9681,-27.90334 -2.06092,-39.15769 11.11434,-12.62567 30.89884,-13.08696 43.27954,-2.06092 13.74492,12.24101 14.20648,33.89497 2.06092,47.40141 -13.36698,14.86471 -36.89156,15.32648 -51.52327,2.06092 -15.98493,-14.49244 -16.44686,-39.88852 -2.06091,-55.64513 15.61748,-17.10549 42.88577,-17.56756 59.76698,-2.06092 18.22632,16.74222 18.6885,45.88327 2.06092,63.88885 -17.86668,19.34737 -48.88097,19.80964 -68.01071,2.06092 -19.06106,-17.685 -21.013,-47.8078 -5.30398,-68.29851"
-       transform="matrix(0.26458333,0,0,0.26458333,-9.0881273,3.6352509)" />
+       transform="matrix(0.26458333,0,0,0.26458333,-9.0881273,3.6352509)"
+       inkscape:export-filename="C:\Users\marc\rect143177.png"
+       inkscape:export-xdpi="216.32001"
+       inkscape:export-ydpi="216.32001" />
   </g>
 </svg>
