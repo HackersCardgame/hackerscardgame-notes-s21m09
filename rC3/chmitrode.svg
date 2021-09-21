@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.0586053"
-     inkscape:cx="522.44109"
-     inkscape:cy="483.33695"
+     inkscape:zoom="0.72782688"
+     inkscape:cx="789.33606"
+     inkscape:cy="644.38401"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="1911"
@@ -22089,5 +22089,20 @@ AKKKKACkpaKAP//Z
          style="stroke-width:0.169531"
          x="-28.151154"
          y="156.84579">Plastifiziert</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 57.800488,254.83109 h 66.525092 v -36.71604 h 46.89474 v -14.17748 h 38.89718 v -21.8115 h 54.89229"
+       id="path9091" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="47.258263"
+       y="196.66708"
+       id="text9711"><tspan
+         sodipodi:role="line"
+         id="tspan9709"
+         style="stroke-width:0.264583"
+         x="47.258263"
+         y="196.66708">ICD10 G40.2 Pegel</tspan></text>
   </g>
 </svg>
