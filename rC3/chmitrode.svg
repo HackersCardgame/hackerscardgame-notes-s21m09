@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0293026"
-     inkscape:cx="436.70343"
-     inkscape:cy="309.91857"
+     inkscape:zoom="0.72782688"
+     inkscape:cx="683.54167"
+     inkscape:cy="743.30863"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="1911"
@@ -22112,69 +22112,69 @@ AKKKKACkpaKAP//Z
          y="147.89258">Plastifiziert</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.22493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 16.819302,242.26295 h 40.744314 v -22.48731 h 28.721401 v -8.68321 h 23.823173 v -13.35879 h 33.61963"
+       d="m 16.092252,256.44043 h 40.744314 v -22.48731 h 28.721401 v -8.68321 h 23.823173 v -13.35879 h 33.61963"
        id="path9091" />
     <text
        xml:space="preserve"
        style="font-size:6.48191px;line-height:1.25;font-family:sans-serif;stroke-width:0.162048"
-       x="10.362556"
-       y="206.6395"
+       x="9.6355066"
+       y="220.81697"
        id="text9711"><tspan
          sodipodi:role="line"
          id="tspan9709"
          style="stroke-width:0.162048"
-         x="10.362556"
-         y="206.6395">ICD10 G40.2 Pegel</tspan></text>
+         x="9.6355066"
+         y="220.81697">ICD10 G40.2 Pegel</tspan></text>
     <path
        style="fill:#ff0000;stroke:#ff0000;stroke-width:1.22493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 110.10819,211.09243 h 75.92246"
+       d="M 109.38114,225.26991 H 185.3036"
        id="path25020"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:4.2618px;line-height:0.75;font-family:sans-serif;fill:#ff0000;stroke:none;stroke-width:0.106545"
-       x="111.67618"
-       y="222.09653"
+       x="110.94913"
+       y="236.274"
        id="text26370"><tspan
          sodipodi:role="line"
          id="tspan26368"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
-         x="111.67618"
-         y="222.09653">nach 3x Greifen mit der</tspan><tspan
+         x="110.94913"
+         y="236.274">nach 3x Greifen mit der</tspan><tspan
          sodipodi:role="line"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
-         x="111.67618"
-         y="225.29288"
+         x="110.94913"
+         y="239.47035"
          id="tspan26372">Pinzentte mit dem Richtigen</tspan><tspan
          sodipodi:role="line"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
-         x="111.67618"
-         y="228.48923"
+         x="110.94913"
+         y="242.6667"
          id="tspan26374">Winkel des Tool Center Points</tspan><tspan
          sodipodi:role="line"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
-         x="111.67618"
-         y="231.68558"
+         x="110.94913"
+         y="245.86305"
          id="tspan26376">schaltet Muskel Termor ein</tspan><tspan
          sodipodi:role="line"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
-         x="111.67618"
-         y="234.88193"
+         x="110.94913"
+         y="249.0594"
          id="tspan26378">verschleiert aber nur, dass </tspan><tspan
          sodipodi:role="line"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
-         x="111.67618"
-         y="238.07826"
+         x="110.94913"
+         y="252.25575"
          id="tspan26380">das Medulla Spinalis THS</tspan><tspan
          sodipodi:role="line"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
-         x="111.67618"
-         y="241.27461"
+         x="110.94913"
+         y="255.4521"
          id="tspan26382">sich mühe gibt dass man </tspan><tspan
          sodipodi:role="line"
          style="fill:#ff0000;stroke:none;stroke-width:0.106545"
-         x="111.67618"
-         y="244.47096"
+         x="110.94913"
+         y="258.64847"
          id="tspan26384">daneben greift</tspan></text>
     <text
        xml:space="preserve"
@@ -22261,7 +22261,9 @@ AKKKKACkpaKAP//Z
          style="stroke-width:0.155021"
          x="25.422142"
          y="91.304398"
-         id="tspan55354">Medulla Spinalis THS Netzwerken mutmasslich</tspan><tspan
+         id="tspan55354">Medulla Spinalis THS <tspan
+   style="fill:#ff00ff"
+   id="tspan138517">Netzwerken</tspan> mutmasslich</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.155021"
          x="25.422142"
@@ -22290,42 +22292,42 @@ AKKKKACkpaKAP//Z
          id="tspan62589" /></text>
     <text
        xml:space="preserve"
-       transform="scale(0.26458333)"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.72705018,14.177479)"
        id="text66544"
        style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect66546)"><tspan
          x="19.429688"
          y="960.01169"
-         id="tspan106999">Und dies tut Pfsiterer, Pantic, Schleusener vermutlich um den Autisten (mich) zum Amokläufer abzurichten, </tspan><tspan
+         id="tspan140959">Und dies tut Pfsiterer, Pantic, Schleusener vermutlich um den Autisten (mich) zum Amokläufer abzurichten, </tspan><tspan
          x="19.429688"
          y="976.67831"
-         id="tspan107001">bzw. wenn die Zugriff auf mein Medulla Spinalis THS haben könnten die das sowieso, ABER wenn ich nicht </tspan><tspan
+         id="tspan140961">bzw. wenn die Zugriff auf mein Medulla Spinalis THS haben könnten die das sowieso, ABER wenn ich nicht </tspan><tspan
          x="19.429688"
          y="993.34494"
-         id="tspan107003">einwillige zu einem Amokauf weil unlogisch, dann gäbe es danach zu viele Fragen
+         id="tspan140963">einwillige zu einem Amokauf weil unlogisch, dann gäbe es danach zu viele Fragen
 </tspan><tspan
          x="19.429688"
          y="1010.0116"
-         id="tspan107005">
+         id="tspan140965">
 </tspan><tspan
          x="19.429688"
          y="1026.6782"
-         id="tspan107007">[DEKETED] [LOCK] [REBUILT] ..um mich als Zeugen für die Menschenexperimente zu diskreditieren
+         id="tspan140967">[DEKETED] [LOCK] [REBUILT] ..um mich als Zeugen für die Menschenexperimente zu diskreditieren
 </tspan><tspan
          x="19.429688"
          y="1043.3448"
-         id="tspan107009">
+         id="tspan140969">
 </tspan><tspan
          x="19.429688"
          y="1060.0114"
-         id="tspan107011">
+         id="tspan140971">
 </tspan><tspan
          x="19.429688"
          y="1076.6781"
-         id="tspan107013">
+         id="tspan140973">
 </tspan><tspan
          x="19.429688"
          y="1093.3447"
-         id="tspan107015">
+         id="tspan140975">
 </tspan></text>
     <text
        xml:space="preserve"
@@ -22348,5 +22350,44 @@ AKKKKACkpaKAP//Z
          x="70.001572"
          y="77.191803"
          id="tspan85217">und man da nicht einfach dran kommt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.68178px;line-height:0.85;font-family:sans-serif;fill:#ff00ff;stroke-width:0.117045"
+       x="99.63961"
+       y="192.91034"
+       id="text129525"><tspan
+         sodipodi:role="line"
+         id="tspan129523"
+         style="fill:#ff00ff;stroke-width:0.117045"
+         x="99.63961"
+         y="192.91034">Drunter müsste es etwas wie eine Remote</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ff00ff;stroke-width:0.117045"
+         x="99.63961"
+         y="196.88985"
+         id="tspan129527">aktivierbare Flüssigkeitspumpe haben die</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ff00ff;stroke-width:0.117045"
+         x="99.63961"
+         y="200.86937"
+         id="tspan129529">auf den Zugschmerz (z.B. GraphenAnker)</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ff00ff;stroke-width:0.117045"
+         x="99.63961"
+         y="204.84888"
+         id="tspan129531">m160 Karte reagiert</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:#ff00ff;fill-rule:evenodd;stroke:#000000"
+       id="path131502"
+       sodipodi:cx="346.23618"
+       sodipodi:cy="737.81281"
+       sodipodi:expansion="1"
+       sodipodi:revolution="4.4847436"
+       sodipodi:radius="52.284863"
+       sodipodi:argument="-18.064157"
+       sodipodi:t0="0"
+       d="m 346.23618,737.81281 c 1.23998,1.23998 -1.05971,2.28323 -2.06094,2.06093 -2.71325,-0.60243 -3.14942,-4.07777 -2.06092,-6.1828 1.94706,-3.76539 7.00316,-4.20651 10.30465,-2.06092 4.84506,3.14872 5.29492,9.96825 2.06093,14.42651 -4.31042,5.94216 -12.94744,6.39669 -18.54838,2.06093 -7.04822,-5.45612 -7.50536,-15.93333 -2.06092,-22.67024 6.59394,-8.15931 18.92299,-8.61803 26.79209,-2.06092 9.27347,7.72732 9.73321,21.91502 2.06093,30.91395 -8.85796,10.38963 -24.90863,10.85007 -35.03582,2.06093 -11.50717,-9.98679 -11.9681,-27.90334 -2.06092,-39.15769 11.11434,-12.62567 30.89884,-13.08696 43.27954,-2.06092 13.74492,12.24101 14.20648,33.89497 2.06092,47.40141 -13.36698,14.86471 -36.89156,15.32648 -51.52327,2.06092 -15.98493,-14.49244 -16.44686,-39.88852 -2.06091,-55.64513 15.61748,-17.10549 42.88577,-17.56756 59.76698,-2.06092 18.22632,16.74222 18.6885,45.88327 2.06092,63.88885 -17.86668,19.34737 -48.88097,19.80964 -68.01071,2.06092 -19.06106,-17.685 -21.013,-47.8078 -5.30398,-68.29851"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.0881273,3.6352509)" />
   </g>
 </svg>
