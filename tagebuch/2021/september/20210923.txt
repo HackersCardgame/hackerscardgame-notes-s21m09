@@ -24,4 +24,9 @@ der versucth der rechtsschutz die truppenmoral bei der täterschaft aufrecth zu 
 
 [1] auch 
 
+Thu Sep 23 01:13:27 CEST 2021
+  27  187 1071 20210923.txt
+[main 874a590] save
+ 1 file changed, 14 insertions(+), 6 deletions(-)
+283adf1b9de252ba0495fbf610f17e8d59c986de5fe4fbdbee656299f89257829752ff8b877739ee133930a8982fa52633577c94af5c646090eb439215f034e3  20210923.txt
 
