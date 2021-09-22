@@ -68,3 +68,7 @@ Stellt Euch vor ...
 ich hoff ich muss für diesen Spruch nicht Lizenzgebühren an "Krieg ist der Fein" bezahlen.
 
 
+Furby 1.0 :: ModeChange("me sleeeeeep again");
+
+
+
