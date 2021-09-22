@@ -47,4 +47,9 @@ marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m09$
 
 gerrordrohung durch jemanden der sagt es seo mocjt [LOCK, m160] das militärsiche terrornetzwerk, bzw. mich der bezichtung bezichtibt
 
+Wed Sep 22 09:33:55 CEST 2021
+  50  298 2361 20210922.txt
+[main 3d67578] save
+ 1 file changed, 12 insertions(+)
+97d92313e15114d665a9c898ff1a0a80e48b63b0007ead9386489542340763d3026b67a49406cb5a800dc082a953e627dd06f8d9adce0b7f5eb61473c6f795bf  20210922.txt
 
