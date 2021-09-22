@@ -36,3 +36,15 @@ Wed Sep 22 09:23:36 CEST 2021
  1 file changed, 19 deletions(-)
 e0d6647badb4d62f416723aa47006e8d34dee0192191314216b0cd4486b63f58cce9370c487dcedd84fb0894bc365f5959e827a41491a6b8d3ab60db0cf56f91  20210922.txt
 
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m09$ figlet DEFCON 3
+ ____  _____ _____ ____ ___  _   _   _____ 
+|  _ \| ____|  ___/ ___/ _ \| \ | | |___ / 
+| | | |  _| | |_ | |  | | | |  \| |   |_ \ 
+| |_| | |___|  _|| |__| |_| | |\  |  ___) |
+|____/|_____|_|   \____\___/|_| \_| |____/ 
+                                           
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m09$ 
+
+gerrordrohung durch jemanden der sagt es seo mocjt [LOCK, m160] das militärsiche terrornetzwerk, bzw. mich der bezichtung bezichtibt
+
+
