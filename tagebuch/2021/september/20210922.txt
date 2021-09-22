@@ -30,4 +30,9 @@ double timeslotting / eraser
 
 Neurolinguistische programmieren sei dsa selber <- soll vermutlich mit dem einzelfall das konzeptwissen verschleiert werden
 
+Wed Sep 22 09:23:36 CEST 2021
+  33  201 1583 20210922.txt
+[main 1ef5ef6] save
+ 1 file changed, 19 deletions(-)
+e0d6647badb4d62f416723aa47006e8d34dee0192191314216b0cd4486b63f58cce9370c487dcedd84fb0894bc365f5959e827a41491a6b8d3ab60db0cf56f91  20210922.txt
 
