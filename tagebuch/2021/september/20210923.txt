@@ -66,4 +66,9 @@ dann wäre das auch nur spekulation, aber z.B. eine Pistole zu bekommen von der 
 
 => und falls das der owner nicht shcafft würde pfisterer ihn mit seinem eigenen Lehen = Kainsmal erschiessen ???
 
+Thu Sep 23 02:19:54 CEST 2021
+  69  496 3488 20210923.txt
+[main 0f539a1] save
+ 1 file changed, 6 insertions(+)
+ca2a6541a09811c97d024c7d92b36d3eaeb50ed05410b5790f7fc7abc47b05e56e7f5489eacc651b85153fcfbdf96bb17c57f1213fb7216b6ae22c15459266b1  20210923.txt
 
