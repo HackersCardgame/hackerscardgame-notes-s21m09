@@ -174,4 +174,14 @@ X-Hostpoint-Spambox: NO
 
 also mir mit Bioterrorismus zu drohen und so alle anderen 1980er potentiell auch einzuschüchtern wäre ein Standardvorgehen der Schweizer armee?
 
+Thu Sep 23 11:38:55 CEST 2021
+ 177  928 8395 20210923.txt
+[main 099ca9a] save
+ 6 files changed, 71 insertions(+), 5 deletions(-)
+ create mode 100755 PRIO/chArmyHatAngefangenMitBiowaffenGegenMarcJrLandotZuDrohen.mkv
+ create mode 100755 TODO/almostDeleted.txt
+ create mode 100755 TODO/bestellungLusini.PNG
+ create mode 100755 TODO/ichVermuteDieMuessenFuerJedenZugriffAufMeinMedullaSpinalisThsGebuehrenZahlen.PNG
+ create mode 100755 TODO/keineSendungen.PNG
+bab6bbdc5bcec6824020d3fa136eb076e3855b07488a1314918d8dedd88bfdc81cce325212d5e46fdd40b0bd1065e92b6e4a675e8e38562f4e1d8af2d7e676a9  20210923.txt
 
