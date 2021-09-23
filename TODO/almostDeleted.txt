@@ -1,0 +1,11 @@
+p1: 2001: Urs Bl: "...blablabla der gute Stoff..."
+p2: 2001: Urs Bl: "...blablabla was wott er"
+p3: 2002: Herr Dr. Dr. Dr. Bettvorleger:
+"Missbräuchlicher Konsum von Drogen"
+p4: ca 2010: Marcel R: "Power is nothing without control"
+
+[1/2]
+Σp[n] = #Offiziere der @schweizerarmee / @vbs_ddps werden mit Drogen angefüttert für ein Zwangsmassnahmensystem und die Ranghöheren #Offiziere können befehlen wer Stoff bekommt und wer nicht?
+
+p3 => SELECT * from Pleonasmus "missbräuchlicher Konsum"
+

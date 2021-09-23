@@ -114,9 +114,64 @@ das labor in spiez ist das biowaffen lager der schweizer armee [1]
 
 [1] und figgt euch <- das ist vermutlcih david utz
 
-Thu Sep 23 11:28:31 CEST 2021
- 117  726 5392 20210923.txt
-[main a2b778d] save
- 2 files changed, 22 insertions(+)
-f5468f606b90a9faf3624a4df42477761c102c9a0c3361c3c2fc8ac45a14d0377e429662750f647f91be38be12f46b4e3455133c7c7a893990bb17874c092356  20210923.txt
+gestartet wurde diese information (marketing konzept "spur" wie mir [DELETED] erklärt hat) bzw assoziazionskette mit "jemand hätte in die handtücher die ich bei einem Schweizer lieferant bestellt habe (siehe img und [2]) antrax drein getan
+
+
+[2]
+
+Return-Path: <international@info.lusini.com>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.214])
+	by popimap018.mail.hostpoint.internal with LMTP
+	id uHt0L9yMIGHDRgEApkpzRw
+	(envelope-from <international@info.lusini.com>)
+	for <mail@marclandolt.ch>; Sat, 21 Aug 2021 07:19:24 +0200
+Received: from mxin014.mail.hostpoint.ch ([10.4.2.214])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id gANSL9yMIGEfIAEA9BAvQA
+	(envelope-from <international@info.lusini.com>)
+	for <mail@marclandolt.ch>; Sat, 21 Aug 2021 07:19:24 +0200
+Received: from uspmta120008.emarsys.net ([185.4.120.8])
+	by mxin014.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.94.2 (FreeBSD))
+	(envelope-from <international@info.lusini.com>)
+	id 1mHJPg-000DOb-Hr
+	for mail@marclandolt.ch; Sat, 21 Aug 2021 07:19:24 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key2; d=info.lusini.com;
+ h=To:Subject:From:MIME-Version:List-Id:X-CSA-Complaints:List-Unsubscribe:
+ List-Unsubscribe-Post:Content-Type:Message-ID:Date;
+ i=service-ch@info.lusini.com;
+ bh=A9bHtizTiroamNt8vb4dOqwvj0DpKmxgFwPqMHJlQCg=;
+ b=LHph41xUlyUmwhTd04cBZDP6LmgvetEagVuGNQNqpEOKqwvu6biCUTF7RjPCiPlq8a6AQN0QEvK4
+   LyIgYlvcif36eV0pEglElfZ0W17N6FtZ7kVPZyQD6ltte2hc5oAHpR4r1TbO5chEwP4eqbsAgWr6
+   DroeK8oTEJFwcpoFrew=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key2; d=emarsys.net;
+ h=To:Subject:From:MIME-Version:List-Id:X-CSA-Complaints:List-Unsubscribe:
+ List-Unsubscribe-Post:Content-Type:Message-ID:Date;
+ bh=A9bHtizTiroamNt8vb4dOqwvj0DpKmxgFwPqMHJlQCg=;
+ b=SGE7ObQOGGUhVX5BAbP8TxqNJdL6SSk2X8Q69+aGeUU+PQfEHX8NzrNlRKOqPhLG7bb/14OpHYUF
+   Z/e1+NcKgx+lpLIwvbOelVjlsh4j9To4YCCCEZaAXEGtR0PnM6zXxHcgj8h9iXBJYZhf5H4IabAa
+   gAWWOGMA80h68Ug6D+8=
+To: mail@marclandolt.ch
+Subject: Ihre Bestellung wurde zugestellt
+X-Mailer: class SMTPMail
+From: "LUSINI" <service-ch@info.lusini.com>
+MIME-Version: 1.0
+List-Id: 147955275 <LUSINI>
+X-EMarSys-Identify: 147955275_4758634_17412_TRANSACTIONAL
+X-EMarSys-Environment: international
+X-Report-Abuse: Please report abuse here: abuse-report@emarsys.com
+X-CSA-Complaints: csa-complaints@eco.de
+List-Unsubscribe: <mailto:list-unsubscribe+147955275_4758634_17412_Yw0XpJGEbN@emarsys.net>, <https://list-unsubscribe.eservice.emarsys.net/api/unsubscribe/147955275_4758634_17412_Yw0XpJGEbN>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative;
+ boundary="--=_---NextPart--=_-fsPWe8U6O2"
+Message-ID: <0.0.6.924.1D7964C1AB1281E.0@uspmta120008.emarsys.net>
+Date: Sat, 21 Aug 2021 07:19:24 +0200
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+
+also mir mit Bioterrorismus zu drohen und so alle anderen 1980er potentiell auch einzuschüchtern wäre ein Standardvorgehen der Schweizer armee?
+
 
