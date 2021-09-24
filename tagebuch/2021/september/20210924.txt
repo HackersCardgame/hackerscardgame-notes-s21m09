@@ -28,4 +28,9 @@ am besten nciht bzw. nie ganz alleine sein, z.B. wie ich küchemesser einshcliss
 
 ich erwarte anweisungen von diesen menschen beim fedpol, bger und interpol die nicht zur täterschaft gehören
 
+Fri Sep 24 08:32:21 CEST 2021
+  31  194 1550 20210924.txt
+[main 8a9dd1e] save
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+94134fee761ad87e04631a897ec6372f3c0cdd0969a8a613a3628cca68e718ff24480d44c42b07f4514914f96d8329ad2be62310846ecc2017df327c444a2f01  20210924.txt
 
