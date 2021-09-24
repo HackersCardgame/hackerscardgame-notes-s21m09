@@ -36,4 +36,10 @@ Fri Sep 24 08:32:21 CEST 2021
 
 der kkk versucht in der psychiatrie schweiz afrikaner zu killern abzurichten, weisse kinder in detuschland mit diesem npc weisse kinder in detuschland zu ermorden um den KKK zu erwetiern...
 
+Fri Sep 24 08:41:06 CEST 2021
+  39  245 2012 20210924.txt
+[main 7d81ece] save
+ 2 files changed, 3 insertions(+)
+ create mode 100755 TODO/GEFAHR---KKK-Aarau-Ermordete-allenfalls-den-acht-jaehrigen-jungen-am-bahnhof-in-deutschland.PNG
+f757eac6fa0df188e5c8fcec6ff1d1fd3faca3102b9a4f23922e89fe5859dfc1948a3cf8c1647500bc67182047dd1c64a82f78006ed67f752c6f38170057041b  20210924.txt
 
