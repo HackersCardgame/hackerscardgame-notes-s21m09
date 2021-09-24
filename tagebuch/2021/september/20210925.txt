@@ -26,4 +26,9 @@ der wichtigeste punkt wäre gelöscht woren, wer hilft straftaten zu vertuschen 
 
 direkte frage an urs blum: macht ihr das mit allen offizieren <- urs blum: suggestiv frage <- rechtskenntnisse urs?
 
+Sat Sep 25 01:12:18 CEST 2021
+  29  225 1594 20210925.txt
+[main 95137c1] save
+ 1 file changed, 4 insertions(+)
+9f882d970b48d34a08c162ed7be1899f07d121b2fdced2d974ddc4d3c40bbbc7905c88f7f623a57860a647e6cd3a7d6413744e5c7f131d6d2b6d7b11d184f77e  20210925.txt
 
