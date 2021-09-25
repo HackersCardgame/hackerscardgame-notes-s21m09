@@ -54,4 +54,9 @@ günstige dinge aus china bestellt
 
 3. Corona über China einspeisen => falls das usa war was hätten die da für ein motiv dafür
 
+Sat Sep 25 04:22:30 CEST 2021
+  57  506 3664 20210925.txt
+[main 02a85ca] save
+ 1 file changed, 11 insertions(+)
+38732ad7037a6b367d90590c233c72733e00fec1f6d430089b04030ce475b7499e04928d4cadccd127e06d0da4480311bb74103d19caa678a0a335061f8fbe34  20210925.txt
 
