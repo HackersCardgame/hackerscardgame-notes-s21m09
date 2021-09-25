@@ -168,4 +168,16 @@ angetan haben jetzt nur noch die Möglichkeit mich zu ermorden, denn alle beteil
 
 => auslöser allenfalls david utz der in den knast muss und ruag / offiziers access codes hat um zeugen zu ermorden udn grad beschlossen hat leiber marc jr landolt uz ermorden als für den mord an sabrina lüthi in den knast zu ghene
 
+Sat Sep 25 05:33:55 CEST 2021
+ 171 1238 8770 20210925.txt
+[main 39d25cf] save
+ 5 files changed, 6 insertions(+)
+ create mode 100755 TODO/c3Woc--piraten.jpg
+ create mode 100755 TODO/c3Woc--piraten1.jpg
+ create mode 100755 TODO/neusprech-euphemismus.PNG
+ create mode 100755 TODO/neusprech.PNG
+65f98bc93803d3dfc052590406f61e1508bd019624decbb713b0aa758d20a303c1b64ac1d97942faae85d802a709e257065102b6645fdcf9da9487e5791a0c3a  20210925.txt
+
+und david utz wurde ausgelöst von der armee damit das mit china geheim bleibt? (img selber git commit)
+
 
