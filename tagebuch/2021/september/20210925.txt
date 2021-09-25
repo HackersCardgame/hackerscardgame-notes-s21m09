@@ -44,3 +44,14 @@ Sat Sep 25 02:21:07 CEST 2021
  1 file changed, 2 insertions(+), 2 deletions(-)
 e1e93aeb77b536474851480ed261b2ebfd9e7ae179d0370e41fbd68d3ff1a8979aa39f7051f0db7e7a6ea69696e50d5b00255ec32e7ec693dffeab4d335fe8d0  20210925.txt
 
+günstige dinge aus china bestellt
+
+1. sind diese dinge zu billig oder zu günstig dass der NSA da noch hardware backdoors drin haben kann
+ => bzw. würde der NSA da vermutlich schauen einfach alle relevante computer chips mit etwas wie VHDL-KenThompsonsHack zu ifizieren
+
+2. Corona tracing malware und induzierte bei günstigen produkten massiv schlimmer
+==> loop: china corona china corona china corona china corona china corona 
+
+3. Corona über China einspeisen => falls das usa war was hätten die da für ein motiv dafür
+
+
