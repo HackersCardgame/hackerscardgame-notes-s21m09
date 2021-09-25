@@ -38,4 +38,9 @@ ich glaube dabei geht es darum mit nicht bestätigten datenpunkten zu verschleie
 
 also westlcihe militärs würden alles an ein grosses clusterfuck mainframe (in der schweiz vermutlcih bei ruag AG) hängen, und der "soldat" kann dann mit dem voice code "Sesam öffne dich" all diese türen öffnen und würde zeitgleich nohc eine fremdspur legung zu den bösen bösen alibaba islam-räubern legen mit dem kindermärchen
 
+Sat Sep 25 02:21:07 CEST 2021
+  41  400 2864 20210925.txt
+[main 8dd72f5] save
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+e1e93aeb77b536474851480ed261b2ebfd9e7ae179d0370e41fbd68d3ff1a8979aa39f7051f0db7e7a6ea69696e50d5b00255ec32e7ec693dffeab4d335fe8d0  20210925.txt
 
