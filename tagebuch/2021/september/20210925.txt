@@ -180,4 +180,11 @@ Sat Sep 25 05:33:55 CEST 2021
 
 und david utz wurde ausgelöst von der armee damit das mit china geheim bleibt? (img selber git commit)
 
+Sat Sep 25 05:35:32 CEST 2021
+ 183 1292 9310 20210925.txt
+[main 18274ea] save
+ 2 files changed, 12 insertions(+)
+ create mode 100755 TODO/triggernderTrigger.PNG
+ba2ee7922048186ce8a8942c02c15df9506add4dfc7206ecd1a9079381a053c32032b79a98d0bbb9c0aef32c384bbe8be7f30361e1a40e8fdf3f673067861302  20210925.txt
+
 
