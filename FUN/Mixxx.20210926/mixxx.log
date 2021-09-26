@@ -1,0 +1,448 @@
+Info [Main]: SoundSourceProxy - Loading SoundSource plugins "C:/Program Files/Mixxx/plugins/soundsource"
+Info [Main]: SoundSourcePluginLibrary - Dynamically loaded plugin library "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.dll"
+Warning [Main]: SoundSourcePluginLibrary - Failed to dynamically load plugin library "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.exp" : "Cannot load library C:\\Program Files\\Mixxx\\plugins\\soundsource\\soundsourcemediafoundation.exp: Unknown error 0x000000c1."
+Warning [Main]: SoundSourceProxy - Failed to load SoundSource plugin "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.exp"
+Warning [Main]: SoundSourcePluginLibrary - Failed to dynamically load plugin library "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.lib" : "Cannot load library C:\\Program Files\\Mixxx\\plugins\\soundsource\\soundsourcemediafoundation.lib: Unknown error 0x000000c1."
+Warning [Main]: SoundSourceProxy - Failed to load SoundSource plugin "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.lib"
+Warning [Main]: SoundSourcePluginLibrary - Failed to dynamically load plugin library "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.pdb" : "Cannot load library C:\\Program Files\\Mixxx\\plugins\\soundsource\\soundsourcemediafoundation.pdb: Unknown error 0x000000c1."
+Warning [Main]: SoundSourceProxy - Failed to load SoundSource plugin "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.pdb"
+Debug [Main]: "Mixxx" "2.2.4" "(git 2.2 r6798; built on: Jun 25 2020 @ 17:03:13; flags: asan=0 asmlib=0 battery=1 buildtime=1 bulk=0 color=0 coreaudio=0 faad=0 ffmpeg=0 hid=1 hss1394=1 ipod=0 lilv=0 localecompare=1 macappstore=0 mad=1 mediafoundation=1 modplug=0 opengles=0 optimize=portable opus=1 perftools=0 perftools_profiler=0 profiling=0 qt_sqlite_plugin=0 qtkeychain=0 shoutcast=1 test=1 tsan=0 ubsan=0 vamp=1 verbose=0 vinylcontrol=1 wv=0)" is starting...
+Debug [Main]: Compile time library versions:
+Debug [Main]: Qt: 5.11.1
+Debug [Main]: libshout: 2.4.1
+Debug [Main]: PortAudio: 1246720 PortAudio V19.6.0-devel, revision 396fe4b6699ae929d3a685b3ef8a7e97396139a4
+Debug [Main]: RubberBand: 1.8.1
+Debug [Main]: SoundTouch: 2.0.0
+Debug [Main]: TagLib: 1.11.1
+Debug [Main]: ChromaPrint: 1.3.1
+Debug [Main]: Vorbis: Xiph.Org libVorbis 1.3.5
+Debug [Main]: libsndfile: libsndfile-1.0.26
+Debug [Main]: FLAC: 1.3.1
+Debug [Main]: QDesktopServices::storageLocation(HomeLocation): "C:/Users/marc"
+Debug [Main]: QDesktopServices::storageLocation(DataLocation): "C:/Users/marc/AppData/Local/Mixxx"
+Debug [Main]: QCoreApplication::applicationDirPath() "C:/Program Files/Mixxx"
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Configuration file is at the current version 2.2.4
+Info [Main]: BroadcastSettings - Found 1 profile(s)
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Loading translations for locale "de_CH" from translations folder "C:/Program Files/Mixxx/translations/" : success
+Debug [Main]: "Error: Unable to import console: no such extension"
+Debug [Main]: "Error: Unable to import svg: no such extension"
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Compressor attack per frame:  0.000408163 decay per frame:  4.08163e-05
+Debug [Main]: EngineNetworkStream - addWorker: worker added
+Debug [Main]: EngineNetworkStream - worker slots used: "1 out of 16"
+Debug [Main]: BroadcastManager - addConnection: created connection for profile "Connection 1"
+Debug [Main]: WARNING: AudioInput already registered!
+Debug [Main]: WARNING: AudioInput already registered!
+Debug [Main]: WARNING: AudioInput already registered!
+Debug [Main]: WARNING: AudioInput already registered!
+Info [Main]: DbConnection - Available drivers for database connections: ("QSQLITE")
+Info [Main]: DbConnectionPool - Cloned thread-local database connection "MIXXX-1" QSqlDatabase(driver="QSQLITE", database="C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="localhost", port=-1, user="mixxx", open=true)
+Info [Main]: MixxxMainWindow - Connecting to database
+Info [Main]: MixxxMainWindow - Initializing or upgrading database schema
+Info [Main]: SchemaManager - Database schema is up-to-date at version 28
+Debug [Main]: LibraryScanner - Starting thread
+Info [Main]: Library - Connecting database
+Debug [LibraryScanner 1]: LibraryScanner - Entering thread
+Info [LibraryScanner 1]: DbConnectionPool - Cloned thread-local database connection "MIXXX-2" QSqlDatabase(driver="QSQLITE", database="C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="localhost", port=-1, user="mixxx", open=true)
+Info [LibraryScanner 1]: LibraryScanner - Cleaning up database...
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Info [LibraryScanner 1]: LibraryScanner - Finished database cleanup: 11 ms
+Debug [LibraryScanner 1]: LibraryScanner - Event loop starting
+Debug [Main]: CrateFeature::rebuildChildModel() -1
+Debug [Main]: Default quick links: ("D:/Music.noDupes/", "C:/Users/marc/hackerscardgame-notes-s21m09/FUN/", "C:/Users/marc/mp3/", "C:/Users/marc/Music/", "C:/Users/marc/Downloads/", "C:/Users/marc/Desktop/", "C:/Users/marc/Documents/")
+Debug [Main]: Appending Quick Link:  "Music.noDupes" --- "D:/Music.noDupes/"
+Debug [Main]: Appending Quick Link:  "FUN" --- "C:/Users/marc/hackerscardgame-notes-s21m09/FUN/"
+Debug [Main]: Appending Quick Link:  "mp3" --- "C:/Users/marc/mp3/"
+Debug [Main]: Appending Quick Link:  "Music" --- "C:/Users/marc/Music/"
+Debug [Main]: Appending Quick Link:  "Downloads" --- "C:/Users/marc/Downloads/"
+Debug [Main]: Appending Quick Link:  "Desktop" --- "C:/Users/marc/Desktop/"
+Debug [Main]: Appending Quick Link:  "Documents" --- "C:/Users/marc/Documents/"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Traktor Library Location=[ "C:/Users/marc/collection.nml" ]
+Debug [Main]: Checking for access to user's library directories:
+Debug [Main]: Checking for access to "D:/Music.noDupes" : true
+Debug [Main]: Checking for access to "C:/Users/marc/hackerscardgame-notes-s21m09/FUN" : true
+Debug [Main]: Checking for access to "C:/Users/marc/mp3" : true
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Entering thread
+Debug [Main]: Creating ControllerManager
+Info [AnalyzerQueue 1]: DbConnectionPool - Cloned thread-local database connection "MIXXX-3" QSqlDatabase(driver="QSQLITE", database="C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="localhost", port=-1, user="mixxx", open=true)
+Debug [Controller]: ControllerManager:slotInitialize
+Debug [Main]: Set root GL Context widget valid: QGLWidget(0x23310f0a670) true
+Debug [Main]: Created root GL Context valid: 0x23313e94600 true
+Debug [Main]: Root GL Context format:
+Debug [Main]: Double Buffering: true
+Debug [Main]: Swap interval: 1
+Debug [Main]: Depth buffer: true
+Debug [Main]: Direct rendering: true
+Debug [Main]: Has overlay: false
+Debug [Main]: RGBA: true
+Debug [Main]: Sample buffers: false
+Debug [Main]: Samples: -1
+Debug [Main]: Stencil buffers: true
+Debug [Main]: Stereo: false
+Debug [Main]: "openGLVersionFlags 0xff07f" "4.6.0 NVIDIA 456.71" "NVIDIA Corporation" "GeForce GTX 1060 6GB/PCIe/SSE2"
+Debug [Main]: screensaver inhibited
+Debug [Main]: ControllerManager::getControllerList
+Debug [Controller]: Extension .midi.xml total 118 presets
+Debug [Controller]: Extension .hid.xml total 29 presets
+Debug [Controller]: Extension .bulk.xml total 1 presets
+Info [Main]: VampPluginAdapter - Current VAMP_PATH is: ""
+Info [Main]: VampPluginAdapter - Setting VAMP_PATH to: "C:\\Program Files\\Mixxx\\plugins\\vamp"
+Debug [Main]: VampPluginLoader::listPlugins() returned 4 plugins
+Debug [Main]: Plugin output displayname: "mixxxbpmdetection:0" "SoundTouch BPM Detector (Legacy)"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:0" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:1" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:2" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:3" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-keydetector:0" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:1" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:2" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:3" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:0" "Tempo and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:1" "Tempo and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:2" "Tempo and Beat Tracker"
+Debug [Main]: VampPluginLoader::listPlugins() returned 4 plugins
+Debug [Main]: Plugin output displayname: "mixxxbpmdetection:0" "SoundTouch BPM Detector (Legacy)"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:0" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:1" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:2" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:3" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-keydetector:0" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:1" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:2" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:3" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:0" "Tempo and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:1" "Tempo and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:2" "Tempo and Beat Tracker"
+Debug [Main]: DlgPrefKey::loadSettings
+Debug [Main]: Key plugin ID: "qm-keydetector:2"
+Debug [Main]: LegacySkinParser loading skin: "C:/Program Files/Mixxx/skins/Deere"
+Debug [Main]: "Error: Unable to import console: no such extension"
+Debug [Main]: "Error: Unable to import svg: no such extension"
+Debug [Main]: Skin is a >=1.12.0 style skin.
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: Created QGLWidget. Context Valid: true Sharing: true
+Debug [Main]: GLWaveformRendererSignalShader::loadShaders
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 0
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: Created QGLWidget. Context Valid: true Sharing: true
+Debug [Main]: GLWaveformRendererSignalShader::loadShaders
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 1
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: Created QGLWidget. Context Valid: true Sharing: true
+Debug [Main]: GLWaveformRendererSignalShader::loadShaders
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 2
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: Created QGLWidget. Context Valid: true Sharing: true
+Debug [Main]: GLWaveformRendererSignalShader::loadShaders
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 3
+Debug [Main]: WSearchLineEdit - Background color: QColor(ARGB 1, 1, 1, 1)
+Debug [Main]: WSearchLineEdit - Foreground color: QColor(ARGB 1, 0, 0, 0)
+Debug [Main]: WTrackTableView::loadTrackModel() HiddenTableModel(0x2331d5738e0)
+Debug [Main]: WTrackTableView::loadTrackModel() MissingTableModel(0x2331d572ca0)
+Debug [Main]: WTrackTableView::loadTrackModel() PlaylistTableModel(0x23312e99490)
+Debug [Main]: Recordings folder set to "C:/Program Files/Mixxx"
+Debug [Main]: WTrackTableView::loadTrackModel() QSortFilterProxyModel(0x23327b00e58)
+Debug [BrowseThread]: Append last  0
+Debug [Main]: WTrackTableView::loadTrackModel() AnalysisLibraryTableModel(0x2331d572e60)
+Debug [Main]: BaseTrackCache(0x2330b328840) updateIndexWithQuery took 75 ms
+Debug [Main]: AnalysisLibraryTableModel(0x2331d572e60) select() took 121 ms 88
+Debug [Main]: AnalysisLibraryTableModel(0x2331d572e60) select() took 43 ms 88
+Debug [Main]: DlgAnalysis(0x2331a016300, name="DlgAnalysis") analysisActive false
+Warning [Main]: src\skin\legacyskinparser.cpp:2110 SKIN ERROR at skin:tool_bar.xml:344 <Connection>: LegacySkinParser::setupConnections(): EmitOnPressAndRelease must not set false
+Warning [Main]: src\skin\legacyskinparser.cpp:2110 SKIN ERROR at skin:skin_settings.xml:40 <Connection>: LegacySkinParser::setupConnections(): EmitOnPressAndRelease must not set false
+Debug [Main]: MixxxLibraryFeature::activate()
+Debug [Main]: WTrackTableView::loadTrackModel() LibraryTableModel(0x23310ecc4d0)
+Debug [Main]: LibraryTableModel(0x23310ecc4d0) select() took 127 ms 10948
+Debug [Main]: trying to restore position
+Debug [Controller]: ControllerManager: Setting up devices
+Debug [Controller]: Scanning PortMIDI devices:
+Debug [Controller]:  Found output device # 0 Microsoft MIDI Mapper
+Debug [Controller]:  Found output device # 6 Microsoft GS Wavetable Synth
+Debug [Controller]:  Found output device # 7 APC MINI
+Debug [Controller]:  Found output device # 8 USB Device
+Debug [Controller]:  Found output device # 9 APC MINI
+Debug [Controller]:  Found output device # 10 APC Key 25
+Debug [Controller]:  Found output device # 11 X-TOUCH MINI
+Debug [Controller]:  Found input device # 1 APC MINI
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler1]"
+Debug [Controller]:     Linking to output device # 7 "APC MINI"
+Debug [Controller]:  Found input device # 2 USB Device
+Debug [Controller]:     Linking to output device # 8 "USB Device"
+Debug [Controller]:  Found input device # 3 APC MINI
+Debug [Controller]:     Linking to output device # 9 "APC MINI"
+Debug [Controller]:  Found input device # 4 APC Key 25
+Debug [Controller]:     Linking to output device # 10 "APC Key 25"
+Debug [Controller]:  Found input device # 5 X-TOUCH MINI
+Debug [Controller]:     Linking to output device # 11 "X-TOUCH MINI"
+Debug [Controller]: Scanning HSS1394 devices:
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler2]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler3]"
+Debug [Controller]:    Nodes detected: 0
+Debug [Controller]: Scanning HID devices:
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler4]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler5]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler6]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler7]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler8]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler9]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler10]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler11]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler12]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler13]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler14]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler15]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler16]"
+Debug [Main]: SoundManager::setupDevices()
+Debug [Main]: SoundDevicePortAudio::open() "SoundDeviceId(CABLE-B Input (VB-Audio Cable B), ))"
+Debug [Main]: framesPerBuffer: 4096
+Debug [Main]: Requested sample rate:  48000 Hz, latency: 85.3333 ms
+Debug [Main]: Output channels: 2 | Input channels: 0
+Debug [Main]: Opening stream with id 41
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 2"
+Debug [Controller]: Found "" "USB PnP Audio Device" "r256" S/N "" "Interface 3"
+Debug [Controller]: Found "Logitech" "USB Optical Mouse" "r29184" S/N "" "Usage Page 1 Usage 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 0"
+Debug [Controller]: ControllerManager::getControllerList
+Debug [Controller]: Searching for controller preset "APC_MINI.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/APC_MINI.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Searching for controller preset "USB_Device.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Could not find "USB_Device.midi.xml" in any preset path.
+Debug [Controller]: Searching for controller preset "APC_MINI--2.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/APC_MINI--2.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Searching for controller preset "APC_Key_25.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/APC_Key_25.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Searching for controller preset "X-TOUCH_MINI.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/X-TOUCH_MINI.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Opening controller: "X-TOUCH MINI"
+Debug [Controller]: Controller in script engine is: "X-TOUCH MINI"
+Debug [Controller]: Applying controller preset...
+Debug [Controller]: ControllerEngine: Watching JS File: "C:/Program Files/Mixxx/controllers/common-controller-scripts.js"
+Debug [Controller]: ControllerEngine: Loading "C:/Program Files/Mixxx/controllers/common-controller-scripts.js"
+Debug [Main]: Opened PortAudio stream successfully... starting
+Debug [Controller]: Searching for controller preset "USB_Receiver__1.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2--2.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2--2.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2--3.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2--3.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_PnP_Audio_Device__3.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_PnP_Audio_Device__3.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Optical_Mouse_.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Optical_Mouse_.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--2.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--2.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--3.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--3.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--4.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--4.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__0.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__0.hid.xml"
+Debug [Controller]: Controller polling started.
+Debug [Main]: PortAudio: Started stream successfully
+Debug [Main]:    Actual sample rate:  48000 Hz, latency: 86.3333 ms
+Debug [Main]: Compressor attack per frame:  0.000375 decay per frame:  3.75e-05
+Debug [Main]: SoundDeviceNetwork - open: "Network stream"
+Debug [Main]: framesPerBuffer: 4096
+Debug [Main]: Requested sample rate:  48000 Hz, latency: 85333333 ns
+Debug [Main]: Using "CABLE-B Input (VB-Audio Cable B)" as output sound device clock reference
+Debug [Main]: 2 output sound devices opened
+Debug [Main]: 0 input sound devices opened
+Debug [Main]: Displaying main window
+Debug [Main]: Running Mixxx
+Debug [Main]: ControllerManager::getControllerList
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x2332d8131d0)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x2332d813770)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x2332d813910)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x2332d813210)
+Debug []: SSE: Enabling denormals to zero mode
+Debug []: SSE: Enabling flush to zero mode
+Debug []: Denormals to zero mode is working
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x2332d8b6b30)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x2332de37660)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x2332de37120)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x2332de37460)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x2332de378c0)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x2332de371a0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x2332de31b10)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x2332fa3cac0)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x2332fa3cd80)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x2332fa3ccc0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x2332fa3ca40)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x2332fb7ea70)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x23330a5a120)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x23330a59ee0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x23330a5a0a0)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x23330a59a80)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x23330a59c00)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x2333068d050)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x23331ba3d30)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x23331ba3e90)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x23331ba39f0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x23331ba3fb0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x23331bf2900)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x23332b71190)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x23332b71330)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x23332b71630)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x23332b71290)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x23332b71670)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x23332c26380)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x23333c3b570)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x23333c3ba70)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x23333c3bb50)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x23333c3bd10)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x23333c4d120)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x23334a6b270)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x23334a6b1d0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x23334a6b330)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x23334a6b710)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x23334a6b730)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x2333438a6a0)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x2332c755ca0)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x2332c755aa0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x2332c755ee0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x2332c755b40)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x23335e217a0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x23336dbb8d0)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x23336dbb410)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x23336dbb670)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x23336dbb690)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x23336dbb610)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x2333663e390)
+Debug [Main]: QGLFramebufferObject: Framebuffer incomplete attachment.
+Debug [Main]: QGLFramebufferObject: Framebuffer incomplete attachment.
+Warning [Main]: GLSLWaveformRendererSignal::createFrameBuffer - frame buffer not valid
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: WTrackTableView::loadTrackModel() PlaylistTableModel(0x2331223fbc0)
+Debug [Main]: PlaylistTableModel(0x2331223fbc0) select() took 1 ms 50
+Debug [Main]: trying to restore position
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x2330b328840) updateIndexWithQuery took 0 ms
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x23314d2c210, name = "LibraryCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,UNKNOWN,,0x0,,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,GUESSED,,0x0,C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: DlgTrackInfo::slotPixmapFound DlgTrackInfo(0x23327d951a0, name = "DlgTrackInfo")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,GUESSED,,0x0,C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,UNKNOWN,,0x0,,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,UNKNOWN,,0x0,,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,GUESSED,,0x0,C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: DlgTrackInfo::slotPixmapFound DlgTrackInfo(0x23327d951a0, name = "DlgTrackInfo")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,GUESSED,,0x0,C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,UNKNOWN,,0x0,,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: dropEventFiles() true (QUrl("file:///C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel3]"
+Debug [CachingReaderWorker 3]: SoundSourceProxy - Opening file "file:///C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 3]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x233262c5410, name = "SpinnySingletonWithCover[Channel3]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g" "C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x233262c43f0, name = "SpinnySingletonNoCover[Channel3]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x2332a19c600, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1904513 bytes for track 74760 in 13 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 200012 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 8.46677 audioVisualRatio 5208.6
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: First beat is 0 for grid so analyzing track to find first beat.
+Debug [AnalyzerQueue 1]: VampAnalyzer BlockSize:  1024
+Debug [AnalyzerQueue 1]: VampAnalyzer StepSize:  512
+Debug [AnalyzerQueue 1]: Beat calculation started with plugin "qm-tempotracker:0"
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [AnalyzerQueue 1]: Beat Calculation complete
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,UNKNOWN,,0x0,,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,GUESSED,,0x0,C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: DlgTrackInfo::slotPixmapFound DlgTrackInfo(0x233145b30f0, name = "DlgTrackInfo")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,GUESSED,,0x0,C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArtLabel::setCoverArt  "CoverInfo(NONE,UNKNOWN,,0x0,,)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: screensaver uninhibited
+Debug [Main]: Destroying MixxxMainWindow
+Debug [Main]: 0 ms saving configuration
+Debug [Main]: 0 ms deleting skin
+Debug [Main]: ~DlgAutoDJ()
+Debug [Main]: 10600 ms deleting menubar
+Debug [Main]: 10603 ms deleting SoundManager
+Debug [Main]: 10843 ms deleting ControllerManager
+Debug [Controller]: Controller polling stopped.
+Debug [Controller]: Deleting PortMIDI devices...
+Debug [Controller]: ControllerEngine shutting down...
+Debug [Controller]: Deleting HSS1394 devices...
+Debug [Controller]: Deleting HID devices...
+Debug [Main]: 11588 ms deleting VinylControlManager
+Debug [Main]: ~CoverArtCache()
+Debug [Main]: 11591 ms deleting PlayerManager
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Exiting thread
+Debug [Main]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [Main]: 11597347300 ns deactivating GlobalTrackCache
+Debug [Main]: TrackDAO: Saving track 74760 "C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3"
+Debug [Main]: TrackDAO: Updating track in database 74760 "C:/Users/marc/hackerscardgame-notes-s21m09/FUN/The Pitcher ft. Sam LeMay - Legends-TUcsaEQPn4g.mp3"
+Debug [Main]: BaseTrackCache(0x2330b328840) updateIndexWithQuery took 0 ms
+Debug [Main]: 12128 ms deleting Library
+Debug [Main]: Wait to finish browser background thread
+Debug [Main]: Browser background thread terminated!
+Info [Main]: Library - Disconnecting database
+Debug [Main]: TrackDAO::finish()
+Debug [Main]: Clearing played information for this session
+Debug [Main]: Cleaning LibraryHashes/track_locations tables.
+Debug [Main]: ~TrackDAO()
+Debug [LibraryScanner 1]: LibraryScanner - Event loop stopped
+Warning [LibraryScanner 1]: QSqlDatabasePrivate::removeDatabase: connection 'MIXXX-2' is still in use, all queries will cease to work.
+Debug [LibraryScanner 1]: LibraryScanner - Exiting thread
+Debug [Main]: ~TrackDAO()
+Debug [Main]: 13306 ms closing database connection(s)
+Debug [Main]: 13307 ms deleting RecordingManager
+Debug [Main]: Delete RecordingManager
+Debug [Main]: 13307 ms deleting BroadcastManager
+Debug [Main]: DlgPrefBroadcast - broadcastEnabledChanged() 0
+Debug [Main]: 13307 ms deleting EngineMaster
+Debug [Main]: in ~EngineMaster()
+Debug [Main]: 13367 ms deleting DlgPreferences
+Debug [Main]: 13394 ms deleting EffectsManager
+Debug [Main]: 13428 ms deleting SettingsManager
+Debug [Main]: Mixxx shutdown complete with code 0

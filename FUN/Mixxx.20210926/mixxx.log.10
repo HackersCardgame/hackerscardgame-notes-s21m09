@@ -1,0 +1,1334 @@
+Info [Main]: SoundSourceProxy - Loading SoundSource plugins "C:/Program Files/Mixxx/plugins/soundsource"
+Info [Main]: SoundSourcePluginLibrary - Dynamically loaded plugin library "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.dll"
+Warning [Main]: SoundSourcePluginLibrary - Failed to dynamically load plugin library "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.exp" : "Cannot load library C:\\Program Files\\Mixxx\\plugins\\soundsource\\soundsourcemediafoundation.exp: Unknown error 0x000000c1."
+Warning [Main]: SoundSourceProxy - Failed to load SoundSource plugin "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.exp"
+Warning [Main]: SoundSourcePluginLibrary - Failed to dynamically load plugin library "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.lib" : "Cannot load library C:\\Program Files\\Mixxx\\plugins\\soundsource\\soundsourcemediafoundation.lib: Unknown error 0x000000c1."
+Warning [Main]: SoundSourceProxy - Failed to load SoundSource plugin "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.lib"
+Warning [Main]: SoundSourcePluginLibrary - Failed to dynamically load plugin library "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.pdb" : "Cannot load library C:\\Program Files\\Mixxx\\plugins\\soundsource\\soundsourcemediafoundation.pdb: Unknown error 0x000000c1."
+Warning [Main]: SoundSourceProxy - Failed to load SoundSource plugin "C:/Program Files/Mixxx/plugins/soundsource/soundsourcemediafoundation.pdb"
+Debug [Main]: "Mixxx" "2.2.4" "(git 2.2 r6798; built on: Jun 25 2020 @ 17:03:13; flags: asan=0 asmlib=0 battery=1 buildtime=1 bulk=0 color=0 coreaudio=0 faad=0 ffmpeg=0 hid=1 hss1394=1 ipod=0 lilv=0 localecompare=1 macappstore=0 mad=1 mediafoundation=1 modplug=0 opengles=0 optimize=portable opus=1 perftools=0 perftools_profiler=0 profiling=0 qt_sqlite_plugin=0 qtkeychain=0 shoutcast=1 test=1 tsan=0 ubsan=0 vamp=1 verbose=0 vinylcontrol=1 wv=0)" is starting...
+Debug [Main]: Compile time library versions:
+Debug [Main]: Qt: 5.11.1
+Debug [Main]: libshout: 2.4.1
+Debug [Main]: PortAudio: 1246720 PortAudio V19.6.0-devel, revision 396fe4b6699ae929d3a685b3ef8a7e97396139a4
+Debug [Main]: RubberBand: 1.8.1
+Debug [Main]: SoundTouch: 2.0.0
+Debug [Main]: TagLib: 1.11.1
+Debug [Main]: ChromaPrint: 1.3.1
+Debug [Main]: Vorbis: Xiph.Org libVorbis 1.3.5
+Debug [Main]: libsndfile: libsndfile-1.0.26
+Debug [Main]: FLAC: 1.3.1
+Debug [Main]: QDesktopServices::storageLocation(HomeLocation): "C:/Users/marc"
+Debug [Main]: QDesktopServices::storageLocation(DataLocation): "C:/Users/marc/AppData/Local/Mixxx"
+Debug [Main]: QCoreApplication::applicationDirPath() "C:/Program Files/Mixxx"
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Configuration file is at the current version 2.2.4
+Info [Main]: BroadcastSettings - Found 1 profile(s)
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Loading translations for locale "de_CH" from translations folder "C:/Program Files/Mixxx/translations/" : success
+Debug [Main]: "Error: Unable to import console: no such extension"
+Debug [Main]: "Error: Unable to import svg: no such extension"
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Compressor attack per frame:  0.000408163 decay per frame:  4.08163e-05
+Debug [Main]: EngineNetworkStream - addWorker: worker added
+Debug [Main]: EngineNetworkStream - worker slots used: "1 out of 16"
+Debug [Main]: BroadcastManager - addConnection: created connection for profile "Connection 1"
+Debug [Main]: WARNING: AudioInput already registered!
+Debug [Main]: WARNING: AudioInput already registered!
+Debug [Main]: WARNING: AudioInput already registered!
+Debug [Main]: WARNING: AudioInput already registered!
+Info [Main]: DbConnection - Available drivers for database connections: ("QSQLITE")
+Info [Main]: DbConnectionPool - Cloned thread-local database connection "MIXXX-1" QSqlDatabase(driver="QSQLITE", database="C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="localhost", port=-1, user="mixxx", open=true)
+Info [Main]: MixxxMainWindow - Connecting to database
+Info [Main]: MixxxMainWindow - Initializing or upgrading database schema
+Info [Main]: SchemaManager - Database schema is up-to-date at version 28
+Debug [Main]: LibraryScanner - Starting thread
+Info [Main]: Library - Connecting database
+Debug [LibraryScanner 1]: LibraryScanner - Entering thread
+Info [LibraryScanner 1]: DbConnectionPool - Cloned thread-local database connection "MIXXX-2" QSqlDatabase(driver="QSQLITE", database="C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="localhost", port=-1, user="mixxx", open=true)
+Info [LibraryScanner 1]: LibraryScanner - Cleaning up database...
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Info [LibraryScanner 1]: LibraryScanner - Finished database cleanup: 10 ms
+Debug [LibraryScanner 1]: LibraryScanner - Event loop starting
+Debug [Main]: CrateFeature::rebuildChildModel() -1
+Debug [Main]: Default quick links: ("D:/Music.noDupes/", "C:/Users/marc/hackerscardgame-notes-s21m09/FUN/", "C:/Users/marc/mp3/", "C:/Users/marc/Music/", "C:/Users/marc/Downloads/", "C:/Users/marc/Desktop/", "C:/Users/marc/Documents/")
+Debug [Main]: Appending Quick Link:  "Music.noDupes" --- "D:/Music.noDupes/"
+Debug [Main]: Appending Quick Link:  "FUN" --- "C:/Users/marc/hackerscardgame-notes-s21m09/FUN/"
+Debug [Main]: Appending Quick Link:  "mp3" --- "C:/Users/marc/mp3/"
+Debug [Main]: Appending Quick Link:  "Music" --- "C:/Users/marc/Music/"
+Debug [Main]: Appending Quick Link:  "Downloads" --- "C:/Users/marc/Downloads/"
+Debug [Main]: Appending Quick Link:  "Desktop" --- "C:/Users/marc/Desktop/"
+Debug [Main]: Appending Quick Link:  "Documents" --- "C:/Users/marc/Documents/"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Traktor Library Location=[ "C:/Users/marc/collection.nml" ]
+Debug [Main]: Checking for access to user's library directories:
+Debug [Main]: Checking for access to "D:/Music.noDupes" : true
+Debug [Main]: Checking for access to "C:/Users/marc/hackerscardgame-notes-s21m09/FUN" : true
+Debug [Main]: Checking for access to "C:/Users/marc/mp3" : true
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Entering thread
+Debug [Main]: Creating ControllerManager
+Info [AnalyzerQueue 1]: DbConnectionPool - Cloned thread-local database connection "MIXXX-3" QSqlDatabase(driver="QSQLITE", database="C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="localhost", port=-1, user="mixxx", open=true)
+Debug [Controller]: ControllerManager:slotInitialize
+Debug [Main]: Set root GL Context widget valid: QGLWidget(0x1b3506883f0) true
+Debug [Main]: Created root GL Context valid: 0x1b34f61e000 true
+Debug [Main]: Root GL Context format:
+Debug [Main]: Double Buffering: true
+Debug [Main]: Swap interval: 1
+Debug [Main]: Depth buffer: true
+Debug [Main]: Direct rendering: true
+Debug [Main]: Has overlay: false
+Debug [Main]: RGBA: true
+Debug [Main]: Sample buffers: false
+Debug [Main]: Samples: -1
+Debug [Main]: Stencil buffers: true
+Debug [Main]: Stereo: false
+Debug [Main]: "openGLVersionFlags 0xff07f" "4.6.0 NVIDIA 456.71" "NVIDIA Corporation" "GeForce GTX 1060 6GB/PCIe/SSE2"
+Debug [Main]: screensaver inhibited
+Debug [Main]: ControllerManager::getControllerList
+Info [Main]: VampPluginAdapter - Current VAMP_PATH is: ""
+Info [Main]: VampPluginAdapter - Setting VAMP_PATH to: "C:\\Program Files\\Mixxx\\plugins\\vamp"
+Debug [Main]: VampPluginLoader::listPlugins() returned 4 plugins
+Debug [Main]: Plugin output displayname: "mixxxbpmdetection:0" "SoundTouch BPM Detector (Legacy)"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:0" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:1" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:2" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:3" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-keydetector:0" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:1" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:2" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:3" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:0" "Tempo and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:1" "Tempo and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:2" "Tempo and Beat Tracker"
+Debug [Main]: VampPluginLoader::listPlugins() returned 4 plugins
+Debug [Main]: Plugin output displayname: "mixxxbpmdetection:0" "SoundTouch BPM Detector (Legacy)"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:0" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:1" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:2" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-barbeattracker:3" "Bar and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-keydetector:0" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:1" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:2" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-keydetector:3" "Key Detector"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:0" "Tempo and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:1" "Tempo and Beat Tracker"
+Debug [Main]: Plugin output displayname: "qm-tempotracker:2" "Tempo and Beat Tracker"
+Debug [Main]: DlgPrefKey::loadSettings
+Debug [Main]: Key plugin ID: "qm-keydetector:2"
+Debug [Main]: LegacySkinParser loading skin: "C:/Program Files/Mixxx/skins/Deere"
+Debug [Main]: "Error: Unable to import console: no such extension"
+Debug [Main]: "Error: Unable to import svg: no such extension"
+Debug [Main]: Skin is a >=1.12.0 style skin.
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: Created QGLWidget. Context Valid: true Sharing: true
+Debug [Main]: GLWaveformRendererSignalShader::loadShaders
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 0
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: Created QGLWidget. Context Valid: true Sharing: true
+Debug [Main]: GLWaveformRendererSignalShader::loadShaders
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 1
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: Created QGLWidget. Context Valid: true Sharing: true
+Debug [Main]: GLWaveformRendererSignalShader::loadShaders
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 2
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: Created QGLWidget. Context Valid: true Sharing: true
+Debug [Main]: GLWaveformRendererSignalShader::loadShaders
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 3
+Debug [Controller]: Extension .midi.xml total 118 presets
+Debug [Controller]: Extension .hid.xml total 29 presets
+Debug [Controller]: Extension .bulk.xml total 1 presets
+Debug [Main]: WSearchLineEdit - Background color: QColor(ARGB 1, 1, 1, 1)
+Debug [Main]: WSearchLineEdit - Foreground color: QColor(ARGB 1, 0, 0, 0)
+Debug [Main]: WTrackTableView::loadTrackModel() HiddenTableModel(0x1b35971ab30)
+Debug [Main]: WTrackTableView::loadTrackModel() MissingTableModel(0x1b35971aeb0)
+Debug [Main]: WTrackTableView::loadTrackModel() PlaylistTableModel(0x1b34e8285d0)
+Debug [Main]: Recordings folder set to "C:/Program Files/Mixxx"
+Debug [Main]: WTrackTableView::loadTrackModel() QSortFilterProxyModel(0x1b3639ecc18)
+Debug [BrowseThread]: Append last  0
+Debug [Main]: WTrackTableView::loadTrackModel() AnalysisLibraryTableModel(0x1b35971b070)
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 70 ms
+Debug [Main]: AnalysisLibraryTableModel(0x1b35971b070) select() took 113 ms 0
+Debug [Main]: AnalysisLibraryTableModel(0x1b35971b070) select() took 41 ms 0
+Debug [Main]: DlgAnalysis(0x1b363643220, name="DlgAnalysis") analysisActive false
+Warning [Main]: src\skin\legacyskinparser.cpp:2110 SKIN ERROR at skin:tool_bar.xml:344 <Connection>: LegacySkinParser::setupConnections(): EmitOnPressAndRelease must not set false
+Warning [Main]: src\skin\legacyskinparser.cpp:2110 SKIN ERROR at skin:skin_settings.xml:40 <Connection>: LegacySkinParser::setupConnections(): EmitOnPressAndRelease must not set false
+Debug [Main]: MixxxLibraryFeature::activate()
+Debug [Main]: WTrackTableView::loadTrackModel() LibraryTableModel(0x1b34d9d7940)
+Debug [Main]: LibraryTableModel(0x1b34d9d7940) select() took 123 ms 10860
+Debug [Main]: trying to restore position
+Debug [Controller]: ControllerManager: Setting up devices
+Debug [Controller]: Scanning PortMIDI devices:
+Debug [Controller]:  Found output device # 0 Microsoft MIDI Mapper
+Debug [Controller]:  Found output device # 5 Microsoft GS Wavetable Synth
+Debug [Controller]:  Found output device # 6 APC MINI
+Debug [Controller]:  Found output device # 7 APC MINI
+Debug [Controller]:  Found output device # 8 APC Key 25
+Debug [Controller]:  Found output device # 9 X-TOUCH MINI
+Debug [Controller]:  Found input device # 1 APC MINI
+Debug [Controller]:     Linking to output device # 6 "APC MINI"
+Debug [Controller]:  Found input device # 2 APC MINI
+Debug [Controller]:     Linking to output device # 7 "APC MINI"
+Debug [Controller]:  Found input device # 3 APC Key 25
+Debug [Controller]:     Linking to output device # 8 "APC Key 25"
+Debug [Controller]:  Found input device # 4 X-TOUCH MINI
+Debug [Controller]:     Linking to output device # 9 "X-TOUCH MINI"
+Debug [Controller]: Scanning HSS1394 devices:
+Debug [Controller]:    Nodes detected: 0
+Debug [Controller]: Scanning HID devices:
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler1]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler2]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler3]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler4]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler5]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler6]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler7]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler8]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler9]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler10]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler11]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler12]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler13]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler14]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler15]"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler16]"
+Debug [Main]: SoundManager::setupDevices()
+Debug [Main]: SoundDevicePortAudio::open() "SoundDeviceId(CABLE-B Input (VB-Audio Cable B), $)"
+Debug [Main]: framesPerBuffer: 4096
+Debug [Main]: Requested sample rate:  48000 Hz, latency: 85.3333 ms
+Debug [Main]: Output channels: 2 | Input channels: 0
+Debug [Main]: Opening stream with id 36
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4617" S/N "" "Interface 0"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4617" S/N "" "Interface 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4617" S/N "" "Interface 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4617" S/N "" "Interface 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 2"
+Debug [Controller]: Found "" "USB PnP Audio Device" "r256" S/N "" "Interface 3"
+Debug [Controller]: Found "Logitech" "USB Optical Mouse" "r29184" S/N "" "Usage Page 1 Usage 2"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4617" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4617" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4617" S/N "" "Interface 1"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4625" S/N "" "Interface 0"
+Debug [Controller]: Found "Logitech" "USB Receiver" "r4617" S/N "" "Interface 1"
+Debug [Controller]: ControllerManager::getControllerList
+Debug [Controller]: Searching for controller preset "APC_MINI.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/APC_MINI.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Searching for controller preset "APC_MINI--2.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/APC_MINI--2.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Searching for controller preset "APC_Key_25.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/APC_Key_25.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Searching for controller preset "X-TOUCH_MINI.midi.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/X-TOUCH_MINI.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Opening controller: "X-TOUCH MINI"
+Debug [Controller]: Controller in script engine is: "X-TOUCH MINI"
+Debug [Controller]: Applying controller preset...
+Debug [Controller]: ControllerEngine: Watching JS File: "C:/Program Files/Mixxx/controllers/common-controller-scripts.js"
+Debug [Controller]: ControllerEngine: Loading "C:/Program Files/Mixxx/controllers/common-controller-scripts.js"
+Debug [Main]: Opened PortAudio stream successfully... starting
+Debug [Controller]: Searching for controller preset "USB_Receiver__1.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__0.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__0.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2--2.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2--2.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2--3.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2--3.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2--4.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2--4.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2--5.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2--5.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__2--6.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__2--6.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_PnP_Audio_Device__3.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_PnP_Audio_Device__3.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Optical_Mouse_.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Optical_Mouse_.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--2.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--2.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--3.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--3.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--4.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--4.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--5.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--5.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--6.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--6.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--7.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--7.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__0--2.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__0--2.hid.xml"
+Debug [Controller]: Searching for controller preset "USB_Receiver__1--8.hid.xml" in paths: "C:/Users/marc/AppData/Local/Mixxx/controllers/,C:/Program Files/Mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "C:/Users/marc/AppData/Local/Mixxx/controllers/USB_Receiver__1--8.hid.xml"
+Debug [Controller]: Controller polling started.
+Debug [Main]: PortAudio: Started stream successfully
+Debug [Main]:    Actual sample rate:  48000 Hz, latency: 86.3333 ms
+Debug [Main]: Compressor attack per frame:  0.000375 decay per frame:  3.75e-05
+Debug [Main]: SoundDeviceNetwork - open: "Network stream"
+Debug [Main]: framesPerBuffer: 4096
+Debug [Main]: Requested sample rate:  48000 Hz, latency: 85333333 ns
+Debug [Main]: Using "CABLE-B Input (VB-Audio Cable B)" as output sound device clock reference
+Debug [Main]: 2 output sound devices opened
+Debug [Main]: 0 input sound devices opened
+Debug [Main]: Displaying main window
+Debug [Main]: Running Mixxx
+Debug [Main]: ControllerManager::getControllerList
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x1b369cc9340)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x1b369cc98e0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x1b369cc91e0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x1b369cc9200)
+Debug []: SSE: Enabling denormals to zero mode
+Debug []: SSE: Enabling flush to zero mode
+Debug []: Denormals to zero mode is working
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x1b369cdae30)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x1b36a96cb10)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x1b36a96cdb0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x1b36a96ca70)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x1b36a96cb70)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x1b36a96c990)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x1b36a26ead0)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x1b36ab5eab0)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x1b36ab5eb90)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x1b36ab5ea50)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x1b36ab5ed50)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x1b34066e790)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x1b36b982170)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x1b36b982610)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x1b36b982190)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x1b36b982650)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x1b36b9826f0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x1b36b2be2a0)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x1b36ca79d30)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x1b36ca799f0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x1b36ca79ef0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x1b36ca79a30)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x1b36c2d8fc0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x1b36daef890)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x1b36daef850)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x1b36daef6b0)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x1b36daef830)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x1b36daef750)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x1b36dbf9d60)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x1b36ef71000)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x1b36ef70980)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x1b36ef71040)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x1b36ef70de0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x1b36eed5440)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x1b36f352510)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x1b36f352550)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x1b36f352910)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x1b36f352190)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x1b36f352750)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x1b36ffd1120)
+Debug [Main]: QGLFramebufferObject: Framebuffer incomplete attachment.
+Debug [Main]: QGLFramebufferObject: Framebuffer incomplete attachment.
+Warning [Main]: GLSLWaveformRendererSignal::createFrameBuffer - frame buffer not valid
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 45
+Debug [Main]: Shuffling Tracks
+Debug [Main]: *** Search Distance:  11
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: Auto DJ enabled
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg" with provider "Xiph.org OggVorbis" using mode Strict
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "I Like To Move It" "D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg" with provider "Xiph.org OggVorbis" using mode Strict
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3849" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3850" length 0
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1493174 bytes for track 41975 in 33 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 161548 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 10.4826 audioVisualRatio 4206.96
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg" fromTrackDuration = 183.16
+Debug [Main]: "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" toTrackDuration =  211.608
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0327582
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg" fromTrackDuration = 183.16
+Debug [Main]: "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" toTrackDuration =  211.608
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0327582
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "What Else Is There (HD)" "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1626393 bytes for track 16490 in 33 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 186640 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 9.07338 audioVisualRatio 5290.2
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" fromTrackDuration = 211.608
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg" toTrackDuration =  183.16
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0283543
+Debug [Main]: "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" fromTrackDuration = 211.608
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg" toTrackDuration =  183.16
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0283543
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" fromTrackDuration = 211.608
+Debug [Main]: "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3" toTrackDuration =  7249.11
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0283543
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Paul Kalkbrenner live von der EXIT Festival mts Tanzarena!" "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: TrackDAO: Saving track 41975 "D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg"
+Debug [Main]: TrackDAO: Updating track in database 41975 "D:/Music.noDupes/Hardstyle/Sound Rush - The Sound of HardStyle-CD1/12 - Coone & Zatox - I Like To Move It.ogg"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 51334086 bytes for track 74649 in 554 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 6393716 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.26486 audioVisualRatio 166503
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3" fromTrackDuration = 7249.11
+Debug [Main]: "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" toTrackDuration =  211.608
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.000827688
+Debug [Main]: "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3" fromTrackDuration = 7249.11
+Debug [Main]: "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3" toTrackDuration =  211.608
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.000827688
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/BitJam Podcast %23218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3" fromTrackDuration = 7249.11
+Debug [Main]: "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3" toTrackDuration =  3641.18
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.000827688
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "BitJam Podcast #218 - 2016 In The Mix - Demo Tracks   Demoscene Music" "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/BitJam Podcast %23218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: TrackDAO: Saving track 16490 "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3"
+Debug [Main]: TrackDAO: Updating track in database 16490 "D:/Music.noDupes/youtube/Röyksopp - What Else Is There (HD).mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3315" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3316" length 0
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 28866475 bytes for track 16430 in 394 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3211526 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3840 visualSampleRate 0.527301 audioVisualRatio 91029.6
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3" fromTrackDuration = 3641.18
+Debug [Main]: "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3" toTrackDuration =  7249.11
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00164782
+Debug [Main]: "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3" fromTrackDuration = 3641.18
+Debug [Main]: "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3" toTrackDuration =  7249.11
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00164782
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3" fromTrackDuration = 3641.18
+Debug [Main]: "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3" toTrackDuration =  521.424
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00164782
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY)" "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 74649 "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3"
+Debug [Main]: TrackDAO: Updating track in database 74649 "D:/Music.noDupes/youtube/Kalkbrenner.live.von.der.EXIT.Festival.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 3770034 bytes for track 16591 in 68 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 459896 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 3.68222 audioVisualRatio 13035.6
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3" fromTrackDuration = 521.424
+Debug [Main]: "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3" toTrackDuration =  3641.18
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.011507
+Debug [Main]: "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3" fromTrackDuration = 521.424
+Debug [Main]: "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3" toTrackDuration =  3641.18
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.011507
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3" fromTrackDuration = 521.424
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3" toTrackDuration =  302.784
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.011507
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Observatory" "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 16430 "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3"
+Debug [Main]: TrackDAO: Updating track in database 16430 "D:/Music.noDupes/youtube/BitJam Podcast #218 - 2016 In The Mix - Demo Tracks _ Demoscene Music.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3297" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3298" length 0
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 2292031 bytes for track 17577 in 47 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 267056 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 6.34115 audioVisualRatio 7569.6
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3" fromTrackDuration = 302.784
+Debug [Main]: "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3" toTrackDuration =  521.424
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0198161
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3" fromTrackDuration = 302.784
+Debug [Main]: "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3" toTrackDuration =  521.424
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0198161
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3" fromTrackDuration = 302.784
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3" toTrackDuration =  210.547
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0198161
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Calling For Love (Official Street Parade Hymn 2011) (Extended Mix)" "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: TrackDAO: Saving track 16591 "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3"
+Debug [Main]: TrackDAO: Updating track in database 16591 "D:/Music.noDupes/youtube/Acid Scout - Ma´Lady (TECHNO TRANCE DARK ACID MAYDAY OLDSCHOOL RAVE EARLY).mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1759271 bytes for track 16693 in 45 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 185704 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 9.11911 audioVisualRatio 4836
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3" fromTrackDuration = 210.547
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3" toTrackDuration =  302.784
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0284972
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3" fromTrackDuration = 210.547
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3" toTrackDuration =  302.784
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0284972
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3" fromTrackDuration = 210.547
+Debug [Main]: "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3" toTrackDuration =  341.917
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0284972
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01" "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 17577 "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3"
+Debug [Main]: TrackDAO: Updating track in database 17577 "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/Observatory.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 2537606 bytes for track 74651 in 48 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 301572 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3840 visualSampleRate 5.6154 audioVisualRatio 7853.4
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3" fromTrackDuration = 341.917
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3" toTrackDuration =  210.547
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0175481
+Debug [Main]: "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3" fromTrackDuration = 341.917
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3" toTrackDuration =  210.547
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0175481
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3" fromTrackDuration = 341.917
+Debug [Main]: "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3" toTrackDuration =  579.5
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0175481
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Techanza (Haunted Mix)" "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: TrackDAO: Saving track 16693 "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3"
+Debug [Main]: TrackDAO: Updating track in database 16693 "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/15 Calling For Love (Official Street Parade Hymn 2011) (Extended Mix).mp3"
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 4610275 bytes for track 18456 in 78 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 511120 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 3.3132 audioVisualRatio 13310.4
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(METADATA,GUESSED,,0x75e3)" QSize(600, 600)
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(METADATA,GUESSED,,0x75e3)" QSize(600, 600)
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(METADATA,GUESSED,,0x75e3)" QSize(600, 600)
+Debug [Main]: "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3" fromTrackDuration = 579.5
+Debug [Main]: "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3" toTrackDuration =  341.917
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0103537
+Debug [Main]: "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3" fromTrackDuration = 579.5
+Debug [Main]: "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3" toTrackDuration =  341.917
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0103537
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3" fromTrackDuration = 579.5
+Debug [Main]: "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3" toTrackDuration =  7364.57
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0103537
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "09ramqXC49A" "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 74651 "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3"
+Debug [Main]: TrackDAO: Updating track in database 74651 "D:/Music.noDupes/demoscene/landev/20210719-20-das-waere-was-was-man-dann-allenfalls-noch-mastern-keonnte-02-arrange-01.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 55405160 bytes for track 74659 in 785 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 6495554 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.260708 audioVisualRatio 169155
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3" fromTrackDuration = 7364.57
+Debug [Main]: "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3" toTrackDuration =  579.5
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.000814711
+Debug [Main]: "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3" fromTrackDuration = 7364.57
+Debug [Main]: "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3" toTrackDuration =  579.5
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.000814711
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3" fromTrackDuration = 7364.57
+Debug [Main]: "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" toTrackDuration =  8615.39
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.000814711
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o" "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 18456 "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3"
+Debug [Main]: TrackDAO: Updating track in database 18456 "D:/Music.noDupes/Trance 100 - 2010/Trance 100 - 2010, Vol. 2/1-35 Techanza (Haunted Mix) 1.m4a.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 73100699 bytes for track 74672 in 1028 ms
+Debug [AnalyzerQueue 1]: ERROR: Could not parse Waveform from QByteArray of size  73064231
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.222857 audioVisualRatio 197885
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" fromTrackDuration = 8615.39
+Debug [Main]: "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3" toTrackDuration =  7364.57
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.000696428
+Debug [Main]: "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" fromTrackDuration = 8615.39
+Debug [Main]: "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3" toTrackDuration =  7364.57
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.000696428
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 4 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" fromTrackDuration = 8615.39
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" toTrackDuration =  325.08
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.000696428
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "[HD]" "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 74659 "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3"
+Debug [Main]: TrackDAO: Updating track in database 74659 "D:/Music.noDupes/youtube/EXIT 2019 _ Paul Kalkbrenner Live @ mts Dance Arena FULL SHOW-09ramqXC49A.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 2558092 bytes for track 17625 in 54 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 286722 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 5.90624 audioVisualRatio 8127
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" fromTrackDuration = 8615.39
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" toTrackDuration =  325.08
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.000696428
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" fromTrackDuration = 325.08
+Debug [Main]: "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" toTrackDuration =  8615.39
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.018457
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" fromTrackDuration = 325.08
+Debug [Main]: "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3" toTrackDuration =  8615.39
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.018457
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" fromTrackDuration = 325.08
+Debug [Main]: "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3" toTrackDuration =  259.37
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.018457
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Get On The Floor" "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 74672 "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3"
+Debug [Main]: TrackDAO: Updating track in database 74672 "C:/Users/marc/mp3/VA - Masters Of Hardcore Presents Masters In The Mix Vol. 2 (2015)-LD9dBrbhQ7o.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/2441" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/2442" length 0
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1918961 bytes for track 13375 in 46 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 228766 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3840 visualSampleRate 7.40256 audioVisualRatio 5957.4
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3" fromTrackDuration = 259.37
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" toTrackDuration =  325.08
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.023133
+Debug [Main]: "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3" fromTrackDuration = 259.37
+Debug [Main]: "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3" toTrackDuration =  325.08
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.023133
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3" fromTrackDuration = 259.37
+Debug [Main]: "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" toTrackDuration =  205.056
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.023133
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Test My Style" "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: TrackDAO: Saving track 17625 "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3"
+Debug [Main]: TrackDAO: Updating track in database 17625 "D:/Music.noDupes/demoscene/favourite-demoscene-stuff.mp3/'1995' by kewlers and mfx - [HD].mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1776009 bytes for track 16524 in 44 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 180860 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 9.3633 audioVisualRatio 5126.4
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" fromTrackDuration = 205.056
+Debug [Main]: "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3" toTrackDuration =  259.37
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0292603
+Debug [Main]: "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" fromTrackDuration = 205.056
+Debug [Main]: "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3" toTrackDuration =  259.37
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0292603
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" fromTrackDuration = 205.056
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" toTrackDuration =  241.998
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0292603
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Move It 2 The Drum (Promise Land Remix)" "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: TrackDAO: Saving track 13375 "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3"
+Debug [Main]: TrackDAO: Updating track in database 13375 "D:/Music.noDupes/Mayday/Mayday The Raving Society [We Are Different] Compilation [Disc 1]/1-04 Get On The Floor.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 2075055 bytes for track 16691 in 48 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 213444 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3840 visualSampleRate 7.93394 audioVisualRatio 5558.4
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" fromTrackDuration = 205.056
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" toTrackDuration =  241.998
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0292603
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" fromTrackDuration = 241.998
+Debug [Main]: "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" toTrackDuration =  205.056
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0247936
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" fromTrackDuration = 241.998
+Debug [Main]: "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3" toTrackDuration =  205.056
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0247936
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" fromTrackDuration = 241.998
+Debug [Main]: "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" toTrackDuration =  5111.46
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0247936
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "buenzli16 dj klangstoss xvid pass2.avi" "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 16524 "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3"
+Debug [Main]: TrackDAO: Updating track in database 16524 "D:/Music.noDupes/youtube/Bodyshock - Test My Style.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/1131" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/1132" length 0
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 36097687 bytes for track 10505 in 348 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 4508306 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.375627 audioVisualRatio 117404
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" fromTrackDuration = 5111.46
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" toTrackDuration =  241.998
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00117383
+Debug [Main]: "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" fromTrackDuration = 5111.46
+Debug [Main]: "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3" toTrackDuration =  241.998
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00117383
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" fromTrackDuration = 5111.46
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" toTrackDuration =  335.229
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00117383
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "The Skreetch" "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3977" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3978" length 0
+Debug [Main]: TrackDAO: Saving track 16691 "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3"
+Debug [Main]: TrackDAO: Updating track in database 16691 "D:/Music.noDupes/Streetparade 2011 - Official Compilation 2011/14 Move It 2 The Drum (Promise Land Remix).mp3"
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 2899017 bytes for track 14160 in 54 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 295674 visualSampleRate 441 audioVisualRatio 100
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 5.72742 audioVisualRatio 7699.8
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(METADATA,GUESSED,,0x4d34)" QSize(600, 598)
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(METADATA,GUESSED,,0x4d34)" QSize(600, 598)
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(METADATA,GUESSED,,0x4d34)" QSize(600, 598)
+Debug [Main]: "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" fromTrackDuration = 5111.46
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" toTrackDuration =  335.229
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00117383
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" fromTrackDuration = 335.229
+Debug [Main]: "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" toTrackDuration =  5111.46
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0178982
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" fromTrackDuration = 335.229
+Debug [Main]: "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3" toTrackDuration =  5111.46
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0178982
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" fromTrackDuration = 335.229
+Debug [Main]: "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3" toTrackDuration =  333.427
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0178982
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Last Train To Trancentral (LP Mix)" "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: TrackDAO: Saving track 10505 "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3"
+Debug [Main]: TrackDAO: Updating track in database 10505 "D:/Music.noDupes/demoscene/buenzli16_dj_klangstoss_xvid_pass2.avi.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 2418217 bytes for track 71192 in 70 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 294084 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 5.75838 audioVisualRatio 7658.4
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3" fromTrackDuration = 333.427
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" toTrackDuration =  335.229
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0179949
+Debug [Main]: "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3" fromTrackDuration = 333.427
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3" toTrackDuration =  335.229
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0179949
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3" fromTrackDuration = 333.427
+Debug [Main]: "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3" toTrackDuration =  208.248
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0179949
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "SoundRush.GuideYou" "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 14160 "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3"
+Debug [Main]: TrackDAO: Updating track in database 14160 "D:/Music.noDupes/Hardstyle/Hardstyle Top 100 Best of 2011/97 The Skreetch.m4a.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3861" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3862" length 0
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1753099 bytes for track 16428 in 41 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 183676 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 9.21977 audioVisualRatio 4783.2
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3" fromTrackDuration = 208.248
+Debug [Main]: "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3" toTrackDuration =  333.427
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0288118
+Debug [Main]: "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3" fromTrackDuration = 208.248
+Debug [Main]: "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3" toTrackDuration =  333.427
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0288118
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 1 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3" fromTrackDuration = 208.248
+Debug [Main]: "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" toTrackDuration =  4459.85
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.0288118
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Defqon.1 Weekend Festival 2017   Wildstylez" "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 71192 "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3"
+Debug [Main]: TrackDAO: Updating track in database 71192 "D:/Music.noDupes/The KLF/The white room/05 Last Train To Trancentral (LP Mix).mp3"
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3637" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3638" length 0
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 34112467 bytes for track 16496 in 465 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3933586 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.430508 audioVisualRatio 111496
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" fromTrackDuration = 4459.85
+Debug [Main]: "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3" toTrackDuration =  208.248
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00134534
+Debug [Main]: "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" fromTrackDuration = 4459.85
+Debug [Main]: "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3" toTrackDuration =  208.248
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00134534
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" fromTrackDuration = 4459.85
+Debug [Main]: "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" toTrackDuration =  217.992
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00134534
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Glowstick" "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3"
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [Main]: TrackDAO: Saving track 16428 "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3"
+Debug [Main]: TrackDAO: Updating track in database 16428 "D:/Music.noDupes/youtube/SoundRush.GuideYou.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1789226 bytes for track 74660 in 42 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 192270 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 8.80767 audioVisualRatio 5007
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" fromTrackDuration = 4459.85
+Debug [Main]: "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" toTrackDuration =  217.992
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.00134534
+Debug [Main]: "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" fromTrackDuration = 217.992
+Debug [Main]: "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" toTrackDuration =  4459.85
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.027524
+Debug [Main]: "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" fromTrackDuration = 217.992
+Debug [Main]: "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3" toTrackDuration =  4459.85
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.027524
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]"
+Debug [CachingReaderWorker 2]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 2]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" fromTrackDuration = 217.992
+Debug [Main]: "D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3" toTrackDuration =  197.042
+Debug [Main]: m_fadeDuration "[Channel1]" = 0.027524
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f970, name = "SpinnySingletonWithCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f160, name = "SpinnySingletonNoCover[Channel2]")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "Der Kommandant" "D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Warning [Main]: QPixmap::scaled: Pixmap is a null pixmap
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b367394b90, name = "DeckCoverArt")  "CoverInfoRelative(NONE,GUESSED,,0x0)" QSize(0, 0)
+Debug [Main]: TrackDAO: Saving track 16496 "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3"
+Debug [Main]: TrackDAO: Updating track in database 16496 "D:/Music.noDupes/youtube/Defqon.1 Weekend Festival 2017 _ Wildstylez.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1529618 bytes for track 19057 in 39 ms
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 173792 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 9.74413 audioVisualRatio 4525.8
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: "D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3" fromTrackDuration = 197.042
+Debug [Main]: "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" toTrackDuration =  217.992
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0304504
+Debug [Main]: "D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3" fromTrackDuration = 197.042
+Debug [Main]: "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3" toTrackDuration =  217.992
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0304504
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 44
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x1b34e8285d0) select() took 0 ms 45
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]"
+Debug [CachingReaderWorker 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Hardstyle/Hardstyle Top 100/59 The Hard Shuffle (Short Edit).m4a.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [CachingReaderWorker 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: BaseTrackPlayerImpl::slotTrackLoaded
+Debug [Main]: "D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3" fromTrackDuration = 197.042
+Debug [Main]: "D:/Music.noDupes/Hardstyle/Hardstyle Top 100/59 The Hard Shuffle (Short Edit).m4a.mp3" toTrackDuration =  238.367
+Debug [Main]: m_fadeDuration "[Channel2]" = 0.0304504
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Analyzing "The Hard Shuffle (Short Edit)" "D:/Music.noDupes/Hardstyle/Hardstyle Top 100/59 The Hard Shuffle (Short Edit).m4a.mp3"
+Debug [AnalyzerQueue 1]: SoundSourceProxy - Opening file "file:///D:/Music.noDupes/Hardstyle/Hardstyle Top 100/59 The Hard Shuffle (Short Edit).m4a.mp3" with provider "MAD: MPEG Audio Decoder" using mode Strict
+Debug [AnalyzerQueue 1]: SoundSourceMP3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3617" length 0
+Debug [AnalyzerQueue 1]: WARNING: Corrupt analysis loaded from "C:/Users/marc/AppData/Local/Mixxx/analysis/3618" length 0
+Debug [AnalyzerQueue 1]: AnalysisDAO fetched 2 analyses, 1879441 bytes for track 14211 in 37 ms
+Debug [Main]: TrackDAO: Saving track 74660 "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3"
+Debug [Main]: TrackDAO: Updating track in database 74660 "D:/Music.noDupes/demoscene/Malmen - Glowstick-164507563.mp3"
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 210242 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerQueue 1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 8.05479 audioVisualRatio 5475
+Debug [AnalyzerQueue 1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerQueue 1]: Beat calculation will not start
+Debug [AnalyzerQueue 1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerQueue 1]: Key calculation will not start.
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Skipping track analysis because no analyzer initialized.
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d4f6c0, name = "SpinnySingletonWithCover[Channel1]")  "CoverInfoRelative(METADATA,GUESSED,,0x38ed)" QSize(600, 600)
+Debug [Main]: WSpinny::slotCoverFound WSpinny(0x1b350d519b0, name = "SpinnySingletonNoCover[Channel1]")  "CoverInfoRelative(METADATA,GUESSED,,0x38ed)" QSize(600, 600)
+Debug [Main]: WCoverArt::slotCoverFound WCoverArt(0x1b3660b9a80, name = "DeckCoverArt")  "CoverInfoRelative(METADATA,GUESSED,,0x38ed)" QSize(600, 600)
+Debug [Main]: screensaver uninhibited
+Debug [Main]: Destroying MixxxMainWindow
+Debug [Main]: 0 ms saving configuration
+Debug [Main]: 0 ms deleting skin
+Debug [Main]: ~DlgAutoDJ()
+Debug [Main]: 224 ms deleting menubar
+Debug [Main]: 226 ms deleting SoundManager
+Debug [Main]: 381 ms deleting ControllerManager
+Debug [Controller]: Controller polling stopped.
+Debug [Controller]: Deleting PortMIDI devices...
+Debug [Controller]: ControllerEngine shutting down...
+Debug [Controller]: Deleting HSS1394 devices...
+Debug [Controller]: Deleting HID devices...
+Debug [Main]: 1471 ms deleting VinylControlManager
+Debug [Main]: ~CoverArtCache()
+Debug [Main]: 1478 ms deleting PlayerManager
+Debug [AnalyzerQueue 1]: AnalyzerQueue - Exiting thread
+Debug [Main]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [Main]: 1483237400 ns deactivating GlobalTrackCache
+Debug [Main]: TrackDAO: Saving track 19057 "D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3"
+Debug [Main]: TrackDAO: Updating track in database 19057 "D:/Music.noDupes/Das Boot/03 Der Kommandant.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackDAO: Saving track 14211 "D:/Music.noDupes/Hardstyle/Hardstyle Top 100/59 The Hard Shuffle (Short Edit).m4a.mp3"
+Debug [Main]: TrackDAO: Updating track in database 14211 "D:/Music.noDupes/Hardstyle/Hardstyle Top 100/59 The Hard Shuffle (Short Edit).m4a.mp3"
+Debug [Main]: BaseTrackCache(0x1b34f66b690) updateIndexWithQuery took 0 ms
+Debug [Main]: 1497 ms deleting Library
+Debug [Main]: Wait to finish browser background thread
+Debug [Main]: Browser background thread terminated!
+Info [Main]: Library - Disconnecting database
+Debug [Main]: TrackDAO::finish()
+Debug [Main]: Clearing played information for this session
+Debug [Main]: Cleaning LibraryHashes/track_locations tables.
+Debug [Main]: ~TrackDAO()
+Debug [LibraryScanner 1]: LibraryScanner - Event loop stopped
+Warning [LibraryScanner 1]: QSqlDatabasePrivate::removeDatabase: connection 'MIXXX-2' is still in use, all queries will cease to work.
+Debug [LibraryScanner 1]: LibraryScanner - Exiting thread
+Debug [Main]: ~TrackDAO()
+Debug [Main]: 1548 ms closing database connection(s)
+Debug [Main]: 1548 ms deleting RecordingManager
+Debug [Main]: Delete RecordingManager
+Debug [Main]: 1548 ms deleting BroadcastManager
+Debug [Main]: DlgPrefBroadcast - broadcastEnabledChanged() 0
+Debug [Main]: 1549 ms deleting EngineMaster
+Debug [Main]: in ~EngineMaster()
+Debug [Main]: 1603 ms deleting DlgPreferences
+Debug [Main]: 1625 ms deleting EffectsManager
+Debug [Main]: 1654 ms deleting SettingsManager
+Debug [Main]: Mixxx shutdown complete with code 0
