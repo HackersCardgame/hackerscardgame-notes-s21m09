@@ -65,4 +65,12 @@ da dies permanent records sind würden die eltern dann permanent zu recht auf di
 
 Have Fun blöde Baby Boom Pädos
 
+Mon Sep 27 09:19:32 CEST 2021
+  68  375 2962 20210927.txt
+[main e57ac74] save
+ 4 files changed, 4361 insertions(+)
+ create mode 100755 FUN/drosselnTrollen.txt
+ create mode 100755 rC3/defcon5.png
+ create mode 100755 rC3/defcon5.svg
+02a6ce0df06b14574550ca7177e3a342d630fa871dd801d037a6c9f3eeaa4178e247fbb2e20937581bdf372773b9bf029c7152ff82efef3ae12184791b38b5a1  20210927.txt
 
