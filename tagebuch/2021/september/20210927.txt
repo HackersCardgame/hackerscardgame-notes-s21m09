@@ -45,3 +45,10 @@ Mon Sep 27 06:14:41 CEST 2021
  1 file changed, 11 insertions(+)
 f9e72aff2c45e7a93af65fac912ef5e23099150cd4602212d460b5c95f34b59a0554fb94efd4bd5fcdf6d6047beb781155e0bac40a35fe199633f0dfaaa97c69  20210927.txt
 
+
+EgoState :: KindICH: 
+
+blöder Modifier...
+
+
+
