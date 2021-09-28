@@ -13,4 +13,11 @@ Hand && Blut => welche dann das Buchcover vom Roman Mac Beth einblendet um so vi
 
 selber git commit
 
+Tue Sep 28 04:52:27 CEST 2021
+ 16 112 629 20210928.txt
+[main 3fde1c4] save
+ 3 files changed, 11 insertions(+)
+ create mode 100755 koerperverletzungenAnMarcJrLandolt/axilla.jpg
+ create mode 100755 koerperverletzungenAnMarcJrLandolt/mitMacBethOverlayBezichtgtDasVbsOpferWieMichSelberDerTaeterZuSein---Psychologie_stillleben_hand_und_blut.jpg
+7e61a17df812496600f56049458e7c314702e5933cd4f19cfba310d58d8ed6e4fbde6a74786054a81e384613d4bd9c24a62bb13cca7864862dd1edcafa039e8c  20210928.txt
 
