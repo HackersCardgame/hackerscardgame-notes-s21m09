@@ -27,4 +27,12 @@ und für alle kleineren ist es vermutlcih psychologische kriegsführung, also be
 
 wenn ich das geschaut hätte müsste ich mir jetzt auch noch das "selber schuld weil du das geschaut hast" - loop anhören
 
+Tue Sep 28 04:55:25 CEST 2021
+  30  203 1520 20210928.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+ffa83b15b0806c37e0ebef93080ed3ba00f2ddade7fbd619e3d7f650d0ccf5c816dd8e0715b90d63c6c116ca2ffcace302e88052ac9a4230c3ee9aa515c19687  20210928.txt
 
