@@ -65,4 +65,19 @@ nothing to commit, working tree clean
 
 der permanent ins tagebuch der 1980er kinder reinkotzende urs blum sollte mal das "du kannst nihct das lebne der kinder leben" von margrit landolt beherzigen
 
+Wed Sep 29 07:38:55 CEST 2021
+  68  378 2986 20210929.txt
+[main a7b659d] save
+ 1 file changed, 4 insertions(+)
+fa69d0f30931f11bcb3430a5e1fb5f29e046168379d983c43e631e90f83476b78f983b9a8a876895ed39c708773ecfb68d09834fd5ecf3ba067a807353868bf8  20210929.txt
+
+Ableton:
+
+dobletimeslotting
+
+A) Ableton auf linux native ohne wine wäre toll
+B) Aquila hat ja bald geburtstag, ich sollte mir zur sicherheit deswegen das neue ableton kaufen...
+
+A <- relevanter
+
 
