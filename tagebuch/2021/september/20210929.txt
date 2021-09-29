@@ -95,4 +95,9 @@ ich:
 meh, genug zuerst nachdenken, berechnen, beschleunigung würde dann sowieso wieder etwas schief laufen, aber dennoch abfesten zur gelien musik das ich auch mache...
 
 
+Wed Sep 29 07:46:02 CEST 2021
+  98  488 3990 20210929.txt
+[main ae6af12] save
+ 1 file changed, 10 insertions(+)
+103fcb07ec0cc124714c01f9dc35edad9f6b7d81c990db0ab204313f718bd57725bde04fe4bf9b4e18d7f5adb7c3a5ace8aee7313b24454c5ca79de3b98bc8f2  20210929.txt
 
