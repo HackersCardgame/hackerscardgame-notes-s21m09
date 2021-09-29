@@ -62,3 +62,7 @@ Your branch is ahead of 'origin/main' by 1 commit.
 nothing to commit, working tree clean
 2e41486281d0477f31234d784a62ee5174714653ebfb25f22fcea7ed53d1f8ebd3759f3554bd3949f5d59f6d265afa05442e302698f33bba99125cbc1b449e2e  20210929.txt
 
+
+der permanent ins tagebuch der 1980er kinder reinkotzende urs blum sollte mal das "du kannst nihct das lebne der kinder leben" von margrit landolt beherzigen
+
+
